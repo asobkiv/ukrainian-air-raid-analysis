@@ -32,3 +32,6 @@ work/
 reports_new/
 data_new/
 .ipynb_checkpoints/
+
+# Full Telegram HTML is local evidence; publish only derived features and hashes.
+data/telegram/raw/

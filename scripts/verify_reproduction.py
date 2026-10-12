@@ -66,6 +66,14 @@ def main():
         assert (args.original / path).exists(), f"Broken report link: {path}"
     evidence["local_report_links_checked"] = len(links.paths)
     evidence["html_links_valid"] = True
+    telegram = args.original / "telegram/publication_assumed"
+    if telegram.exists():
+        replay = subprocess.run([sys.executable, "scripts/verify_telegram.py"], cwd=root, capture_output=True, text=True)
+        if replay.returncode:
+            raise RuntimeError(replay.stdout + replay.stderr)
+        evidence["telegram_sample_reproduction"] = json.loads((telegram / "reproduction_audit.json").read_text())
+        evidence["clean_environment_reproduction_scope"] = "Full frozen baseline; Telegram sample replay of 36 forecasts, not a second full Telegram run"
+        evidence["telegram_availability"] = "Exploratory publication assumption only; no strict historical scores"
     (args.original / "verification.json").write_text(json.dumps(evidence, indent=2))
     print(json.dumps(evidence, indent=2))
 

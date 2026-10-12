@@ -1,0 +1,47 @@
+region,target,model
+Івано-Франківська область,count,arima
+Івано-Франківська область,hours,arima
+Волинська область,count,arima
+Волинська область,hours,arima
+Вінницька область,count,arima
+Вінницька область,hours,arima
+Дніпропетровська область,count,arima
+Дніпропетровська область,hours,sarima_7
+Донецька область,count,sarima_7
+Донецька область,hours,sarima_7
+Житомирська область,count,sarima_7
+Житомирська область,hours,sarima_7
+Запорізька область,count,sarima_7
+Запорізька область,hours,sarima_7
+Київ,count,sarima_7
+Київ,hours,arima
+Київська область,count,arima
+Київська область,hours,arima
+Кіровоградська область,count,arima
+Кіровоградська область,hours,sarima_7
+Львівська область,count,arima
+Львівська область,hours,sarima_7
+Миколаївська область,count,arima
+Миколаївська область,hours,arima
+Одеська область,count,sarima_7
+Одеська область,hours,arima
+Полтавська область,count,sarima_7
+Полтавська область,hours,sarima_7
+Рівненська область,count,arima
+Рівненська область,hours,arima
+Сумська область,count,sarima_7
+Сумська область,hours,sarima_7
+Тернопільська область,count,sarima_7
+Тернопільська область,hours,arima
+Харківська область,count,sarima_7
+Харківська область,hours,sarima_7
+Херсонська область,count,sarima_7
+Херсонська область,hours,arima
+Хмельницька область,count,arima
+Хмельницька область,hours,arima
+Черкаська область,count,arima
+Черкаська область,hours,arima
+Чернівецька область,count,arima
+Чернівецька область,hours,arima
+Чернігівська область,count,arima
+Чернігівська область,hours,arima

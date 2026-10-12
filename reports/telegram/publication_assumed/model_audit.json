@@ -1,0 +1,8 @@
+{
+  "rows": 2246,
+  "finite": true,
+  "fallbacks": 37,
+  "clipped": 128,
+  "training_scaler_only": true,
+  "exogenous_intermediate_days_known_at_origin": true
+}

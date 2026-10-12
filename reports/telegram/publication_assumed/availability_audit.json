@@ -1,0 +1,8 @@
+{
+  "first_observed_at": "2026-10-12 07:39:17.791106+00:00",
+  "requested_first_origin": "2026-08-21T00:00:00+03:00",
+  "historical_origins_with_any_observed_messages": 0,
+  "strict_historical_comparison_possible": false,
+  "reason": "All fetched text versions were first observed after historical forecast origins; absence is unknown, not zero activity.",
+  "next_step": "Accumulate timestamped captures before origins, then freeze a new future test after enough labeled training history."
+}

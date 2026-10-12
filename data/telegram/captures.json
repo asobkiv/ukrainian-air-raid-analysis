@@ -1,0 +1,3460 @@
+[
+  {
+    "key": "latest",
+    "url": "https://t.me/s/war_monitor",
+    "observed_at": "2026-10-12T07:39:17.791106+00:00",
+    "file": "latest_0000.html.gz",
+    "sha256": "548b425f9dc6c386cb253f444dc6d3615c34a9e0df87e4e527669a0e5cc4fa71"
+  },
+  {
+    "key": "47536",
+    "url": "https://t.me/s/war_monitor?before=47536",
+    "observed_at": "2026-10-12T07:39:18.483820+00:00",
+    "file": "47536_0001.html.gz",
+    "sha256": "6a37063d395121a897ef05b85fb7a165336eb5679e2aa9c596afae68cbefe83f"
+  },
+  {
+    "key": "latest",
+    "url": "https://t.me/s/war_monitor",
+    "observed_at": "2026-10-12T07:40:51.169854+00:00",
+    "file": "latest_0002.html.gz",
+    "sha256": "cc7f7ed6be4764b9c65e7380c68ccaa75d0b361289a1607e54b5a0b22d10e09c"
+  },
+  {
+    "key": "47516",
+    "url": "https://t.me/s/war_monitor?before=47516",
+    "observed_at": "2026-10-12T07:40:51.863907+00:00",
+    "file": "47516_0003.html.gz",
+    "sha256": "0870581b3a86cc865e8cf24f4692ffc0dc7fb5690ecafd6bc5b9b0fe3da8d43d"
+  },
+  {
+    "key": "47496",
+    "url": "https://t.me/s/war_monitor?before=47496",
+    "observed_at": "2026-10-12T07:40:52.446330+00:00",
+    "file": "47496_0004.html.gz",
+    "sha256": "57e2df010342b4c45217f16c110c6a5a3ccceb59a34c7c7f689d73942cd82add"
+  },
+  {
+    "key": "47476",
+    "url": "https://t.me/s/war_monitor?before=47476",
+    "observed_at": "2026-10-12T07:40:53.041316+00:00",
+    "file": "47476_0005.html.gz",
+    "sha256": "4867eec07b3c1cdc072f43802e8ca800ce606895326e631593acbc8781323b87"
+  },
+  {
+    "key": "47456",
+    "url": "https://t.me/s/war_monitor?before=47456",
+    "observed_at": "2026-10-12T07:40:53.614223+00:00",
+    "file": "47456_0006.html.gz",
+    "sha256": "8bb311ac0f97cbe0d608b4c01c5da7f09a1bb3dbd85f3434444c7bc8dccc531e"
+  },
+  {
+    "key": "47436",
+    "url": "https://t.me/s/war_monitor?before=47436",
+    "observed_at": "2026-10-12T07:40:54.262314+00:00",
+    "file": "47436_0007.html.gz",
+    "sha256": "dd739cd4c8d2a0e48cc306cc4d0f6d32c4e282315e033d818117de5cf5032f78"
+  },
+  {
+    "key": "latest",
+    "url": "https://t.me/s/war_monitor",
+    "observed_at": "2026-10-12T07:43:32.382261+00:00",
+    "file": "latest_0008.html.gz",
+    "sha256": "2f650e6d9f6a86912250d923799752f1ce211089d6d1c3479c652d3c99c5058e"
+  },
+  {
+    "key": "47416",
+    "url": "https://t.me/s/war_monitor?before=47416",
+    "observed_at": "2026-10-12T07:43:33.003093+00:00",
+    "file": "47416_0009.html.gz",
+    "sha256": "ff47cddbcac1c280c9dd85ec8b226cf9c53aaa28679b12552108275f3b717838"
+  },
+  {
+    "key": "47396",
+    "url": "https://t.me/s/war_monitor?before=47396",
+    "observed_at": "2026-10-12T07:43:33.529183+00:00",
+    "file": "47396_0010.html.gz",
+    "sha256": "393686a6604bb9affb67a59fd68339318d4015561946aa1bb2815c178d2e2dfa"
+  },
+  {
+    "key": "47376",
+    "url": "https://t.me/s/war_monitor?before=47376",
+    "observed_at": "2026-10-12T07:43:34.046961+00:00",
+    "file": "47376_0011.html.gz",
+    "sha256": "189160d19891242d27d80a57df1c9ded94f59df1cd6b4d63c6e158f7361d2865"
+  },
+  {
+    "key": "47356",
+    "url": "https://t.me/s/war_monitor?before=47356",
+    "observed_at": "2026-10-12T07:43:34.576944+00:00",
+    "file": "47356_0012.html.gz",
+    "sha256": "6eb4ef8304b1626ff09f2ffad9d7f1ba0db10fe599b60dcd4fe460e36fc05b09"
+  },
+  {
+    "key": "47336",
+    "url": "https://t.me/s/war_monitor?before=47336",
+    "observed_at": "2026-10-12T07:43:35.105764+00:00",
+    "file": "47336_0013.html.gz",
+    "sha256": "2544b67fd294d9a74a70b2475f69f587880508bcee77286469e11c304ea2cbf3"
+  },
+  {
+    "key": "47316",
+    "url": "https://t.me/s/war_monitor?before=47316",
+    "observed_at": "2026-10-12T07:43:35.574411+00:00",
+    "file": "47316_0014.html.gz",
+    "sha256": "00d62efc1772de1ffdb1102c231315d3e16974a0a0fff5b483d7beecd4fbcf7f"
+  },
+  {
+    "key": "47296",
+    "url": "https://t.me/s/war_monitor?before=47296",
+    "observed_at": "2026-10-12T07:43:36.068110+00:00",
+    "file": "47296_0015.html.gz",
+    "sha256": "d43c246f7f46ae5582c20510f9d2338e35ca5e837978106431c745fd6502e7ca"
+  },
+  {
+    "key": "47276",
+    "url": "https://t.me/s/war_monitor?before=47276",
+    "observed_at": "2026-10-12T07:43:36.567073+00:00",
+    "file": "47276_0016.html.gz",
+    "sha256": "2edf2f29d6196f49e3763a7e31a183b72c5324615d01fa76938453513232b33e"
+  },
+  {
+    "key": "47256",
+    "url": "https://t.me/s/war_monitor?before=47256",
+    "observed_at": "2026-10-12T07:43:37.123217+00:00",
+    "file": "47256_0017.html.gz",
+    "sha256": "97eb8abaefae291c1d0206eb172567fe8d222056128b36994c57b6788752cc8c"
+  },
+  {
+    "key": "47236",
+    "url": "https://t.me/s/war_monitor?before=47236",
+    "observed_at": "2026-10-12T07:43:37.698062+00:00",
+    "file": "47236_0018.html.gz",
+    "sha256": "914fde2d5f2f58354595f6ee1f62eb5ec0da235e767ad55d1ea94d7fb408c5fd"
+  },
+  {
+    "key": "47216",
+    "url": "https://t.me/s/war_monitor?before=47216",
+    "observed_at": "2026-10-12T07:43:38.196620+00:00",
+    "file": "47216_0019.html.gz",
+    "sha256": "9f94e6f063c35fc1562c233e20eb78baa408f1140013a1ee8067e923209ad52c"
+  },
+  {
+    "key": "47196",
+    "url": "https://t.me/s/war_monitor?before=47196",
+    "observed_at": "2026-10-12T07:43:38.680974+00:00",
+    "file": "47196_0020.html.gz",
+    "sha256": "7a7b2dd7f94bc9974ba3cf2a85635868a94acb841682d10596afd486ede03c1c"
+  },
+  {
+    "key": "47176",
+    "url": "https://t.me/s/war_monitor?before=47176",
+    "observed_at": "2026-10-12T07:43:39.199610+00:00",
+    "file": "47176_0021.html.gz",
+    "sha256": "0719f5c39c447c2e03054f37572c9362aa3c9658dd96e42985dc7171016f7a53"
+  },
+  {
+    "key": "47156",
+    "url": "https://t.me/s/war_monitor?before=47156",
+    "observed_at": "2026-10-12T07:43:39.704354+00:00",
+    "file": "47156_0022.html.gz",
+    "sha256": "15864464dec83d2d2e3625c2e2d8b214ed6da29050ae87ad4efc24ce2db88510"
+  },
+  {
+    "key": "47136",
+    "url": "https://t.me/s/war_monitor?before=47136",
+    "observed_at": "2026-10-12T07:43:40.241941+00:00",
+    "file": "47136_0023.html.gz",
+    "sha256": "45896fc620b249114477d7918cdf4fc376df63d4f82c0ee8a128fe9ace5e8729"
+  },
+  {
+    "key": "47116",
+    "url": "https://t.me/s/war_monitor?before=47116",
+    "observed_at": "2026-10-12T07:43:40.764719+00:00",
+    "file": "47116_0024.html.gz",
+    "sha256": "9dcac2e21eb130fd025938e46838d170f6042b42dd669025853fcfdd61758585"
+  },
+  {
+    "key": "47095",
+    "url": "https://t.me/s/war_monitor?before=47095",
+    "observed_at": "2026-10-12T07:43:41.304591+00:00",
+    "file": "47095_0025.html.gz",
+    "sha256": "8ea51c33d1a8a68128bca2b0b35fa5dc1dcb47df3d03720893d1d1b177510585"
+  },
+  {
+    "key": "47075",
+    "url": "https://t.me/s/war_monitor?before=47075",
+    "observed_at": "2026-10-12T07:43:41.824013+00:00",
+    "file": "47075_0026.html.gz",
+    "sha256": "f943d41d73f540a02ab6629db7e68fd2903546bdef178159a21fd819651761ec"
+  },
+  {
+    "key": "47055",
+    "url": "https://t.me/s/war_monitor?before=47055",
+    "observed_at": "2026-10-12T07:43:42.332492+00:00",
+    "file": "47055_0027.html.gz",
+    "sha256": "88aca2c76dbe5ae2701b0a9d376afe0347caf4841fea3bfb7ebd451afd99dd6a"
+  },
+  {
+    "key": "47034",
+    "url": "https://t.me/s/war_monitor?before=47034",
+    "observed_at": "2026-10-12T07:43:42.897678+00:00",
+    "file": "47034_0028.html.gz",
+    "sha256": "b981f4d3e6940511cbbe6b75dc0ee2ff7a466fae17d392685aba052e081f044d"
+  },
+  {
+    "key": "47012",
+    "url": "https://t.me/s/war_monitor?before=47012",
+    "observed_at": "2026-10-12T07:43:43.387153+00:00",
+    "file": "47012_0029.html.gz",
+    "sha256": "4d8b513974d4c798532b6dc3c97d96af9910dfdede4bc0daa80e7be073a6b1d9"
+  },
+  {
+    "key": "46992",
+    "url": "https://t.me/s/war_monitor?before=46992",
+    "observed_at": "2026-10-12T07:43:43.921373+00:00",
+    "file": "46992_0030.html.gz",
+    "sha256": "b406ce37735a23d7053eba47f962d678498db34e762f51094afd7b1e56fc7573"
+  },
+  {
+    "key": "46972",
+    "url": "https://t.me/s/war_monitor?before=46972",
+    "observed_at": "2026-10-12T07:43:44.428165+00:00",
+    "file": "46972_0031.html.gz",
+    "sha256": "9831e14e628c09cf9ef73489a0d978cef4d4486c6bd204e32e2ea0ce4173fe8b"
+  },
+  {
+    "key": "46952",
+    "url": "https://t.me/s/war_monitor?before=46952",
+    "observed_at": "2026-10-12T07:43:44.952266+00:00",
+    "file": "46952_0032.html.gz",
+    "sha256": "81ec4ebeaf8ba8f25afcf0d780367117062edd9d2947545c72df61e90a67a009"
+  },
+  {
+    "key": "46932",
+    "url": "https://t.me/s/war_monitor?before=46932",
+    "observed_at": "2026-10-12T07:43:45.493486+00:00",
+    "file": "46932_0033.html.gz",
+    "sha256": "9a7bb4e0e7d9b1a1e7d538f6627efd3951cd6975551df0fb7e1f78fa992bc889"
+  },
+  {
+    "key": "46912",
+    "url": "https://t.me/s/war_monitor?before=46912",
+    "observed_at": "2026-10-12T07:43:46.013119+00:00",
+    "file": "46912_0034.html.gz",
+    "sha256": "e29a80745dc9954009797e182e9487a0125f80c0537ee0eeb636ccb29469941a"
+  },
+  {
+    "key": "46892",
+    "url": "https://t.me/s/war_monitor?before=46892",
+    "observed_at": "2026-10-12T07:43:46.537557+00:00",
+    "file": "46892_0035.html.gz",
+    "sha256": "b96468c87981bd5a1940af76fe4dad1470fc4728abd5824af9226affd8ad09bd"
+  },
+  {
+    "key": "46872",
+    "url": "https://t.me/s/war_monitor?before=46872",
+    "observed_at": "2026-10-12T07:43:47.088963+00:00",
+    "file": "46872_0036.html.gz",
+    "sha256": "705d85b845bf21eb74eb926cdb4bd8683bd7e351bff95b918dd2ef1ebfe202ed"
+  },
+  {
+    "key": "46852",
+    "url": "https://t.me/s/war_monitor?before=46852",
+    "observed_at": "2026-10-12T07:43:47.598964+00:00",
+    "file": "46852_0037.html.gz",
+    "sha256": "5bab2e4c33d192fe36b5eaf095e97f7e9ea9975df8f04944e51eb746c77cebb3"
+  },
+  {
+    "key": "46832",
+    "url": "https://t.me/s/war_monitor?before=46832",
+    "observed_at": "2026-10-12T07:43:48.123111+00:00",
+    "file": "46832_0038.html.gz",
+    "sha256": "d799b0e02a9698de2adb9dc5d2040b5d2cbb52f5d522c8530220d3c714a70db1"
+  },
+  {
+    "key": "46812",
+    "url": "https://t.me/s/war_monitor?before=46812",
+    "observed_at": "2026-10-12T07:43:48.940362+00:00",
+    "file": "46812_0039.html.gz",
+    "sha256": "4dd064802657f0f4a69f40f4c622e3e89dd699940c4b1dfbe147ab573d6b0973"
+  },
+  {
+    "key": "46792",
+    "url": "https://t.me/s/war_monitor?before=46792",
+    "observed_at": "2026-10-12T07:43:49.507774+00:00",
+    "file": "46792_0040.html.gz",
+    "sha256": "c2b66bf0db0c1af33c15ced76777c482fe7a8601d57266e3b2ccaa1bbc5606a7"
+  },
+  {
+    "key": "46772",
+    "url": "https://t.me/s/war_monitor?before=46772",
+    "observed_at": "2026-10-12T07:43:50.029718+00:00",
+    "file": "46772_0041.html.gz",
+    "sha256": "4a689b3dabda80a30b0b85068449b2b0819d3f532a4ee9bf3440d12479e8fc82"
+  },
+  {
+    "key": "46752",
+    "url": "https://t.me/s/war_monitor?before=46752",
+    "observed_at": "2026-10-12T07:43:50.555596+00:00",
+    "file": "46752_0042.html.gz",
+    "sha256": "f90dba05fae03ade46361ebf268a16e5a35cc937bf9db1c1c86b0ef5cf4a13f4"
+  },
+  {
+    "key": "46732",
+    "url": "https://t.me/s/war_monitor?before=46732",
+    "observed_at": "2026-10-12T07:43:51.082737+00:00",
+    "file": "46732_0043.html.gz",
+    "sha256": "72ada6c4164b64504c32ead9e7d83d08dc19853733d1041f108f5cef8c7dbeaf"
+  },
+  {
+    "key": "46712",
+    "url": "https://t.me/s/war_monitor?before=46712",
+    "observed_at": "2026-10-12T07:43:51.603629+00:00",
+    "file": "46712_0044.html.gz",
+    "sha256": "0eecd5dc63b6a7e6a0c3dd10e6a2007ca57564d69017b614f562be8e37d8336b"
+  },
+  {
+    "key": "46692",
+    "url": "https://t.me/s/war_monitor?before=46692",
+    "observed_at": "2026-10-12T07:43:52.128668+00:00",
+    "file": "46692_0045.html.gz",
+    "sha256": "97bb0dc6746fd2272935f85e10cef965054558b93d18523593faf803275edc26"
+  },
+  {
+    "key": "46671",
+    "url": "https://t.me/s/war_monitor?before=46671",
+    "observed_at": "2026-10-12T07:43:52.665622+00:00",
+    "file": "46671_0046.html.gz",
+    "sha256": "06f6b7ff314188d177d51f7b159154fcb1976087eca79b57a80af74f3a42f00f"
+  },
+  {
+    "key": "46651",
+    "url": "https://t.me/s/war_monitor?before=46651",
+    "observed_at": "2026-10-12T07:43:53.174345+00:00",
+    "file": "46651_0047.html.gz",
+    "sha256": "4f4b9001a795004e7863397da8c6097d7dfdfd796d05ec8514f68f5bbb0152a4"
+  },
+  {
+    "key": "46631",
+    "url": "https://t.me/s/war_monitor?before=46631",
+    "observed_at": "2026-10-12T07:43:53.718202+00:00",
+    "file": "46631_0048.html.gz",
+    "sha256": "a6b70df56162e0cfbf05136b41ea237c129c0b074066beb26f9bb5bec0e1cbc1"
+  },
+  {
+    "key": "46611",
+    "url": "https://t.me/s/war_monitor?before=46611",
+    "observed_at": "2026-10-12T07:43:54.211831+00:00",
+    "file": "46611_0049.html.gz",
+    "sha256": "220ce54d6624e91080a101e076f5eaff68bd954e70c8af8907b6c20a1ca17d60"
+  },
+  {
+    "key": "46591",
+    "url": "https://t.me/s/war_monitor?before=46591",
+    "observed_at": "2026-10-12T07:43:54.883962+00:00",
+    "file": "46591_0050.html.gz",
+    "sha256": "3930b767aa1a6d7510bc6708306deb0b4bbd5e21e96ffd4689ec2c5aa35e9c33"
+  },
+  {
+    "key": "46571",
+    "url": "https://t.me/s/war_monitor?before=46571",
+    "observed_at": "2026-10-12T07:43:55.449842+00:00",
+    "file": "46571_0051.html.gz",
+    "sha256": "5359d7c79376d1c3df9e483003271cae454a3057765e2c05c918341c3cc46aeb"
+  },
+  {
+    "key": "46551",
+    "url": "https://t.me/s/war_monitor?before=46551",
+    "observed_at": "2026-10-12T07:43:56.029416+00:00",
+    "file": "46551_0052.html.gz",
+    "sha256": "0aac964febef9cf82a8a87669b22f45e440550829f7e16de9560d6d37a194eb0"
+  },
+  {
+    "key": "46531",
+    "url": "https://t.me/s/war_monitor?before=46531",
+    "observed_at": "2026-10-12T07:43:56.525594+00:00",
+    "file": "46531_0053.html.gz",
+    "sha256": "29ef85c5f1972e4fe4a066828b8fd288c095abee1ef4cacb2270679c28a05624"
+  },
+  {
+    "key": "46511",
+    "url": "https://t.me/s/war_monitor?before=46511",
+    "observed_at": "2026-10-12T07:43:57.036381+00:00",
+    "file": "46511_0054.html.gz",
+    "sha256": "9a0394d3bf42be4a1540281c9916f6060f1d0f03ef931602e365725fc359173f"
+  },
+  {
+    "key": "46491",
+    "url": "https://t.me/s/war_monitor?before=46491",
+    "observed_at": "2026-10-12T07:43:57.551998+00:00",
+    "file": "46491_0055.html.gz",
+    "sha256": "1abfee89f5792268295d7afbaa36dcae18b435d260869271db639891e6f5cecb"
+  },
+  {
+    "key": "46471",
+    "url": "https://t.me/s/war_monitor?before=46471",
+    "observed_at": "2026-10-12T07:43:58.085204+00:00",
+    "file": "46471_0056.html.gz",
+    "sha256": "9d871e6ee776a2ffe8bfb056ab0b1c1e72c8ce5e7367e828bb07bc6958eca068"
+  },
+  {
+    "key": "46451",
+    "url": "https://t.me/s/war_monitor?before=46451",
+    "observed_at": "2026-10-12T07:43:58.607373+00:00",
+    "file": "46451_0057.html.gz",
+    "sha256": "c83d9f5d1e364357ce6133dafc58ef05bdab11f795fd26a82a4af03d81494865"
+  },
+  {
+    "key": "46431",
+    "url": "https://t.me/s/war_monitor?before=46431",
+    "observed_at": "2026-10-12T07:43:59.141966+00:00",
+    "file": "46431_0058.html.gz",
+    "sha256": "79ec21320a62997517eeeaef580b410f8c270d9c36ab032b74d7bcd7d8f66296"
+  },
+  {
+    "key": "46411",
+    "url": "https://t.me/s/war_monitor?before=46411",
+    "observed_at": "2026-10-12T07:43:59.656204+00:00",
+    "file": "46411_0059.html.gz",
+    "sha256": "805c4e5a2cb3917b92f0dc56fcb818f6c4360241579089f00787749a445a426d"
+  },
+  {
+    "key": "46391",
+    "url": "https://t.me/s/war_monitor?before=46391",
+    "observed_at": "2026-10-12T07:44:00.181120+00:00",
+    "file": "46391_0060.html.gz",
+    "sha256": "b6112ac93d6b01a739280a00d9b4c00a92404952679ce954152c8563be1a16b2"
+  },
+  {
+    "key": "46371",
+    "url": "https://t.me/s/war_monitor?before=46371",
+    "observed_at": "2026-10-12T07:44:00.697362+00:00",
+    "file": "46371_0061.html.gz",
+    "sha256": "dffe59486fe4951e19725979cbfb6d13e2b0632159b6c17f50f946f55f581e38"
+  },
+  {
+    "key": "46351",
+    "url": "https://t.me/s/war_monitor?before=46351",
+    "observed_at": "2026-10-12T07:44:01.245246+00:00",
+    "file": "46351_0062.html.gz",
+    "sha256": "9a4e1d9bc84c537fca1ae7f510e32930f1ca275a5b466c27be129ac53c069f10"
+  },
+  {
+    "key": "46331",
+    "url": "https://t.me/s/war_monitor?before=46331",
+    "observed_at": "2026-10-12T07:44:02.047326+00:00",
+    "file": "46331_0063.html.gz",
+    "sha256": "8da8ceac2fb1085894a7b7e954777fccd816b1773c27176cec1aa72e1c7fada7"
+  },
+  {
+    "key": "46311",
+    "url": "https://t.me/s/war_monitor?before=46311",
+    "observed_at": "2026-10-12T07:44:02.612261+00:00",
+    "file": "46311_0064.html.gz",
+    "sha256": "56e46d3cd884dfbcf1648e9776533ed8c73c981195e108e9159adb8c333ea520"
+  },
+  {
+    "key": "46291",
+    "url": "https://t.me/s/war_monitor?before=46291",
+    "observed_at": "2026-10-12T07:44:03.131033+00:00",
+    "file": "46291_0065.html.gz",
+    "sha256": "ad90e99fd5f8b18a39448ec5bf20c1668867e383a2b9eba0caf65bf5cad39541"
+  },
+  {
+    "key": "46271",
+    "url": "https://t.me/s/war_monitor?before=46271",
+    "observed_at": "2026-10-12T07:44:03.657546+00:00",
+    "file": "46271_0066.html.gz",
+    "sha256": "94842aa06db22f5e8d91720e8f423a78e675be7bd97fefac027190e27e08d157"
+  },
+  {
+    "key": "46251",
+    "url": "https://t.me/s/war_monitor?before=46251",
+    "observed_at": "2026-10-12T07:44:04.335032+00:00",
+    "file": "46251_0067.html.gz",
+    "sha256": "142fb12aa07c0ff71ce11f3e1b08c0a211de260e44abb3e27c7a104dbc62afbe"
+  },
+  {
+    "key": "46231",
+    "url": "https://t.me/s/war_monitor?before=46231",
+    "observed_at": "2026-10-12T07:44:04.900344+00:00",
+    "file": "46231_0068.html.gz",
+    "sha256": "8ed457ef079945b79164ea6e8bca89d12851844a3d122d28118d70ef25997a4c"
+  },
+  {
+    "key": "46211",
+    "url": "https://t.me/s/war_monitor?before=46211",
+    "observed_at": "2026-10-12T07:44:05.413245+00:00",
+    "file": "46211_0069.html.gz",
+    "sha256": "20d89797989bed5010135117c6da6970dd2fc7ccc621925a5de043a5e1d43635"
+  },
+  {
+    "key": "46191",
+    "url": "https://t.me/s/war_monitor?before=46191",
+    "observed_at": "2026-10-12T07:44:05.955888+00:00",
+    "file": "46191_0070.html.gz",
+    "sha256": "27e91ee6d84dca9c644581c2ebb75fe6859fd6a97b805ab35679dd301abc59aa"
+  },
+  {
+    "key": "46171",
+    "url": "https://t.me/s/war_monitor?before=46171",
+    "observed_at": "2026-10-12T07:44:06.669270+00:00",
+    "file": "46171_0071.html.gz",
+    "sha256": "54d378c08b028c095b4b91880a6494f9b5b84f71beddfeb18e864990561a6211"
+  },
+  {
+    "key": "46151",
+    "url": "https://t.me/s/war_monitor?before=46151",
+    "observed_at": "2026-10-12T07:44:07.339419+00:00",
+    "file": "46151_0072.html.gz",
+    "sha256": "4f9b4c91a21547ddd014277b205f1ba5a4f431c81ddda8d7d74f046a38fd3152"
+  },
+  {
+    "key": "46131",
+    "url": "https://t.me/s/war_monitor?before=46131",
+    "observed_at": "2026-10-12T07:44:07.989987+00:00",
+    "file": "46131_0073.html.gz",
+    "sha256": "170b4c5ad586b08fe1698909a00aec698e32da31f7b455e5c1c916e577140f69"
+  },
+  {
+    "key": "46111",
+    "url": "https://t.me/s/war_monitor?before=46111",
+    "observed_at": "2026-10-12T07:44:08.559929+00:00",
+    "file": "46111_0074.html.gz",
+    "sha256": "9263b04f6b3fdfaa113e0d2817123f9211a3e92384fce2099c3dddd35437591b"
+  },
+  {
+    "key": "46091",
+    "url": "https://t.me/s/war_monitor?before=46091",
+    "observed_at": "2026-10-12T07:44:09.101948+00:00",
+    "file": "46091_0075.html.gz",
+    "sha256": "60d66c195f8eda629cbdb98a5f7b049b535a16276ad040abb83b34cc22e137ce"
+  },
+  {
+    "key": "46071",
+    "url": "https://t.me/s/war_monitor?before=46071",
+    "observed_at": "2026-10-12T07:44:09.628767+00:00",
+    "file": "46071_0076.html.gz",
+    "sha256": "190a62a3e595cefb10fb3278aece2bdc6748715e424923d9d6a2691e1711ebf9"
+  },
+  {
+    "key": "46051",
+    "url": "https://t.me/s/war_monitor?before=46051",
+    "observed_at": "2026-10-12T07:44:10.149895+00:00",
+    "file": "46051_0077.html.gz",
+    "sha256": "b4aab7d6bba23c30670bff10b721c17a872c1ef303d1e8156d1c2fa0fb48a5d7"
+  },
+  {
+    "key": "46031",
+    "url": "https://t.me/s/war_monitor?before=46031",
+    "observed_at": "2026-10-12T07:44:10.768858+00:00",
+    "file": "46031_0078.html.gz",
+    "sha256": "43dd91f3d167e41ecd8081e1da9706f38ec4f9d21cb373bc31c08628fdee23aa"
+  },
+  {
+    "key": "46011",
+    "url": "https://t.me/s/war_monitor?before=46011",
+    "observed_at": "2026-10-12T07:44:11.386879+00:00",
+    "file": "46011_0079.html.gz",
+    "sha256": "6ccee06657b6a6586df474ccb040e979cf99a1e27d1f60e94c4b8e3aecdcea86"
+  },
+  {
+    "key": "45991",
+    "url": "https://t.me/s/war_monitor?before=45991",
+    "observed_at": "2026-10-12T07:44:11.972531+00:00",
+    "file": "45991_0080.html.gz",
+    "sha256": "9e9977092de2c3a9a6cb39a5c9f94f1b768143b7c57359750fa133424b1ce01d"
+  },
+  {
+    "key": "45971",
+    "url": "https://t.me/s/war_monitor?before=45971",
+    "observed_at": "2026-10-12T07:44:12.578749+00:00",
+    "file": "45971_0081.html.gz",
+    "sha256": "26fbac430bff0770c9a0250da3668a1cebe1950b1171a68b4a39cb848ebc43b4"
+  },
+  {
+    "key": "45951",
+    "url": "https://t.me/s/war_monitor?before=45951",
+    "observed_at": "2026-10-12T07:44:13.107834+00:00",
+    "file": "45951_0082.html.gz",
+    "sha256": "4bfc9a392a1a9de93825bcd3c76e841f60d822cf6da24fdce032b834c0bbe7ab"
+  },
+  {
+    "key": "45931",
+    "url": "https://t.me/s/war_monitor?before=45931",
+    "observed_at": "2026-10-12T07:44:13.639177+00:00",
+    "file": "45931_0083.html.gz",
+    "sha256": "4a47355dc2f5a2de38dc43933a7fe5a15863484e20b8017ef2ad46d45e62ca5e"
+  },
+  {
+    "key": "45911",
+    "url": "https://t.me/s/war_monitor?before=45911",
+    "observed_at": "2026-10-12T07:44:14.148465+00:00",
+    "file": "45911_0084.html.gz",
+    "sha256": "cd8bc50891eb7ad612fe4027e199ca03c70e0305d45e5e78a874394a6ca565d2"
+  },
+  {
+    "key": "45891",
+    "url": "https://t.me/s/war_monitor?before=45891",
+    "observed_at": "2026-10-12T07:44:14.682404+00:00",
+    "file": "45891_0085.html.gz",
+    "sha256": "dcd0c631f5935ed9473796d3b6204d9fd86c980dd7b48cf7679d9ac0220a075f"
+  },
+  {
+    "key": "45871",
+    "url": "https://t.me/s/war_monitor?before=45871",
+    "observed_at": "2026-10-12T07:44:15.193197+00:00",
+    "file": "45871_0086.html.gz",
+    "sha256": "92e5637be7eeeeaa9959337438b21f6e5e21db4163da26428bfab13565c425c1"
+  },
+  {
+    "key": "45851",
+    "url": "https://t.me/s/war_monitor?before=45851",
+    "observed_at": "2026-10-12T07:44:15.726781+00:00",
+    "file": "45851_0087.html.gz",
+    "sha256": "eaa71d4ed07ea16e6eb02e70c6351a7d6dcfddc11afac2292be81e5a5bb9d664"
+  },
+  {
+    "key": "45831",
+    "url": "https://t.me/s/war_monitor?before=45831",
+    "observed_at": "2026-10-12T07:44:16.246083+00:00",
+    "file": "45831_0088.html.gz",
+    "sha256": "e8d45d12a275977397d1d19540132fd358d89215eb631d9c346db920290f9028"
+  },
+  {
+    "key": "45811",
+    "url": "https://t.me/s/war_monitor?before=45811",
+    "observed_at": "2026-10-12T07:44:16.766040+00:00",
+    "file": "45811_0089.html.gz",
+    "sha256": "1706218e4b4438478d66c2dc6d2273b6101b0c7bef0ec41424a7c28b9615e75f"
+  },
+  {
+    "key": "45791",
+    "url": "https://t.me/s/war_monitor?before=45791",
+    "observed_at": "2026-10-12T07:44:17.293261+00:00",
+    "file": "45791_0090.html.gz",
+    "sha256": "3ba13fd0ee3fbff4ced0fb5600ac17329ce5851ee21267d9a8308b4cf0dd7e1e"
+  },
+  {
+    "key": "45771",
+    "url": "https://t.me/s/war_monitor?before=45771",
+    "observed_at": "2026-10-12T07:44:17.813225+00:00",
+    "file": "45771_0091.html.gz",
+    "sha256": "0e83883ea14b31b24927e3b8fff39f672816c2c1ab6feec1ff864d8e1b76f5ec"
+  },
+  {
+    "key": "45751",
+    "url": "https://t.me/s/war_monitor?before=45751",
+    "observed_at": "2026-10-12T07:44:18.329280+00:00",
+    "file": "45751_0092.html.gz",
+    "sha256": "40793f793cbfc5860a3dfd81eb8714aaae88060c7bf32fa0544a221b55ca230e"
+  },
+  {
+    "key": "45730",
+    "url": "https://t.me/s/war_monitor?before=45730",
+    "observed_at": "2026-10-12T07:44:18.853198+00:00",
+    "file": "45730_0093.html.gz",
+    "sha256": "a2b7c4857fe67155f41757ca176fa6c3c53e136b1c2e233ce18bb4dfc0898c64"
+  },
+  {
+    "key": "45710",
+    "url": "https://t.me/s/war_monitor?before=45710",
+    "observed_at": "2026-10-12T07:44:19.373106+00:00",
+    "file": "45710_0094.html.gz",
+    "sha256": "f06ac5a5ffc18b13e20c60014f45542fb36502d31e6f36308729e64751327e32"
+  },
+  {
+    "key": "45690",
+    "url": "https://t.me/s/war_monitor?before=45690",
+    "observed_at": "2026-10-12T07:44:19.914268+00:00",
+    "file": "45690_0095.html.gz",
+    "sha256": "21acd918ae3571fd7ab9a22bdcfbdaa4258a97d992dff9e580dc2d50edae7cef"
+  },
+  {
+    "key": "45670",
+    "url": "https://t.me/s/war_monitor?before=45670",
+    "observed_at": "2026-10-12T07:44:20.443179+00:00",
+    "file": "45670_0096.html.gz",
+    "sha256": "a074b969eec8480bce8ae867008821de4242a0f65ec1aacfad3483f544cd35ba"
+  },
+  {
+    "key": "45650",
+    "url": "https://t.me/s/war_monitor?before=45650",
+    "observed_at": "2026-10-12T07:44:21.043128+00:00",
+    "file": "45650_0097.html.gz",
+    "sha256": "b5190f65e67df1f8c3b000e7d21c97b7e32478f4e59f4e436a5ebad7b8f9e1d4"
+  },
+  {
+    "key": "45624",
+    "url": "https://t.me/s/war_monitor?before=45624",
+    "observed_at": "2026-10-12T07:44:21.634442+00:00",
+    "file": "45624_0098.html.gz",
+    "sha256": "51a1bc3256c3ae690f38fc0221f67ae46c84f5e4db427c784488eca23caf067e"
+  },
+  {
+    "key": "45604",
+    "url": "https://t.me/s/war_monitor?before=45604",
+    "observed_at": "2026-10-12T07:44:22.194712+00:00",
+    "file": "45604_0099.html.gz",
+    "sha256": "248c1ef9b10184503ecb4c8457d44a9d6238aa8a4b230bcb34b6a8575f4a98e4"
+  },
+  {
+    "key": "45584",
+    "url": "https://t.me/s/war_monitor?before=45584",
+    "observed_at": "2026-10-12T07:44:22.723531+00:00",
+    "file": "45584_0100.html.gz",
+    "sha256": "343156a07d46dc599d096781ffa20ede20817e32281e7ced4096a3a922ed56ec"
+  },
+  {
+    "key": "45564",
+    "url": "https://t.me/s/war_monitor?before=45564",
+    "observed_at": "2026-10-12T07:44:23.282514+00:00",
+    "file": "45564_0101.html.gz",
+    "sha256": "aa15c4a97ef31092528e84990cc8974d36ab768f06e8cb42d1803f6687813a9d"
+  },
+  {
+    "key": "45544",
+    "url": "https://t.me/s/war_monitor?before=45544",
+    "observed_at": "2026-10-12T07:44:23.789198+00:00",
+    "file": "45544_0102.html.gz",
+    "sha256": "2782fa43beea0f4ffa92ebc4b176ae4e835a22c6f0989d1ff8eac317f35a0a50"
+  },
+  {
+    "key": "45524",
+    "url": "https://t.me/s/war_monitor?before=45524",
+    "observed_at": "2026-10-12T07:44:24.493897+00:00",
+    "file": "45524_0103.html.gz",
+    "sha256": "e43be910bb47058475f6d748a99274c5f0fd16e91d1a24272d6313883fc097ff"
+  },
+  {
+    "key": "45504",
+    "url": "https://t.me/s/war_monitor?before=45504",
+    "observed_at": "2026-10-12T07:44:25.078538+00:00",
+    "file": "45504_0104.html.gz",
+    "sha256": "ca345184408acd3f3ba0a2ca1ab6171374a77e3bbabbbc622074996dc834f6d7"
+  },
+  {
+    "key": "45484",
+    "url": "https://t.me/s/war_monitor?before=45484",
+    "observed_at": "2026-10-12T07:44:25.692240+00:00",
+    "file": "45484_0105.html.gz",
+    "sha256": "cd2913e3d8fb3013bdd9d67e1a3fe33b3e460124e8313f582610bca9b53130b1"
+  },
+  {
+    "key": "45462",
+    "url": "https://t.me/s/war_monitor?before=45462",
+    "observed_at": "2026-10-12T07:44:26.205817+00:00",
+    "file": "45462_0106.html.gz",
+    "sha256": "2a52c6f2197233076513e955473f63b65f86b5c438a5b40259b055dd0e34b14c"
+  },
+  {
+    "key": "45442",
+    "url": "https://t.me/s/war_monitor?before=45442",
+    "observed_at": "2026-10-12T07:44:26.725791+00:00",
+    "file": "45442_0107.html.gz",
+    "sha256": "115d0aa7c20fcd87cb603e4f1ecc3a7b7174da7f1909bb4287dde59e9c961811"
+  },
+  {
+    "key": "45422",
+    "url": "https://t.me/s/war_monitor?before=45422",
+    "observed_at": "2026-10-12T07:44:27.375502+00:00",
+    "file": "45422_0108.html.gz",
+    "sha256": "830d1b4b071f13894cd2d4acf349112aba9d48f3bd1a00d6fed29d8918f121d3"
+  },
+  {
+    "key": "45402",
+    "url": "https://t.me/s/war_monitor?before=45402",
+    "observed_at": "2026-10-12T07:44:27.979653+00:00",
+    "file": "45402_0109.html.gz",
+    "sha256": "e5f674005f3b979bb5bf960082ce6cf6d632ff1ec2b0e7983a6bad22c361837a"
+  },
+  {
+    "key": "45382",
+    "url": "https://t.me/s/war_monitor?before=45382",
+    "observed_at": "2026-10-12T07:44:28.523412+00:00",
+    "file": "45382_0110.html.gz",
+    "sha256": "84c10ec32cb9112c00a5a569609c6dc16cc5c03c9f6f6c0caf0f4fbe4c103cf7"
+  },
+  {
+    "key": "45362",
+    "url": "https://t.me/s/war_monitor?before=45362",
+    "observed_at": "2026-10-12T07:44:29.062745+00:00",
+    "file": "45362_0111.html.gz",
+    "sha256": "65be75d16e4627aa725a086e6278b52f6361081fbdb29e3b63ee0584f8424306"
+  },
+  {
+    "key": "45342",
+    "url": "https://t.me/s/war_monitor?before=45342",
+    "observed_at": "2026-10-12T07:44:29.628651+00:00",
+    "file": "45342_0112.html.gz",
+    "sha256": "7e628bbd1c724952ea17dc068af0d3e9d0480e456ce42cc91c66dfb55184d7a9"
+  },
+  {
+    "key": "45322",
+    "url": "https://t.me/s/war_monitor?before=45322",
+    "observed_at": "2026-10-12T07:44:30.152915+00:00",
+    "file": "45322_0113.html.gz",
+    "sha256": "435d1bd900d61d62da2b44c214bc3b1ee184cb981f1c88815e8cd54f8072364f"
+  },
+  {
+    "key": "45302",
+    "url": "https://t.me/s/war_monitor?before=45302",
+    "observed_at": "2026-10-12T07:44:30.783553+00:00",
+    "file": "45302_0114.html.gz",
+    "sha256": "dff28daebba23c5ce23c93474519d54541a92cf5f802bb01021fedf38877a8cb"
+  },
+  {
+    "key": "45282",
+    "url": "https://t.me/s/war_monitor?before=45282",
+    "observed_at": "2026-10-12T07:44:31.402030+00:00",
+    "file": "45282_0115.html.gz",
+    "sha256": "52535bf87b5ab1f3ebc16f7252cd445af7962f22b47e5ca7a6069e893bb747ca"
+  },
+  {
+    "key": "45262",
+    "url": "https://t.me/s/war_monitor?before=45262",
+    "observed_at": "2026-10-12T07:44:31.967271+00:00",
+    "file": "45262_0116.html.gz",
+    "sha256": "f1be4b6bb492ca429f785ff7ab209aca100576292851b436d98e421d8fbadf7b"
+  },
+  {
+    "key": "45242",
+    "url": "https://t.me/s/war_monitor?before=45242",
+    "observed_at": "2026-10-12T07:44:32.505343+00:00",
+    "file": "45242_0117.html.gz",
+    "sha256": "3a0368d0d201b68061c580a42259d4735dedbef972e4f3718f3cdcfffff66fa4"
+  },
+  {
+    "key": "45222",
+    "url": "https://t.me/s/war_monitor?before=45222",
+    "observed_at": "2026-10-12T07:44:33.030696+00:00",
+    "file": "45222_0118.html.gz",
+    "sha256": "d7556d56129c223bf2e4c1c20cd4c9f751cd2aaf4cb51854e29140867c95f6b4"
+  },
+  {
+    "key": "45202",
+    "url": "https://t.me/s/war_monitor?before=45202",
+    "observed_at": "2026-10-12T07:44:33.660350+00:00",
+    "file": "45202_0119.html.gz",
+    "sha256": "4882056078f1681d6a87db5a5baeb68524a2b171f11ef4a3fd84fee115534172"
+  },
+  {
+    "key": "45182",
+    "url": "https://t.me/s/war_monitor?before=45182",
+    "observed_at": "2026-10-12T07:44:34.332110+00:00",
+    "file": "45182_0120.html.gz",
+    "sha256": "670bf305136b468dafd2c0461fdf7cbf5994d86fd6a3eefd6be1d1df054ebdc2"
+  },
+  {
+    "key": "45162",
+    "url": "https://t.me/s/war_monitor?before=45162",
+    "observed_at": "2026-10-12T07:44:34.869558+00:00",
+    "file": "45162_0121.html.gz",
+    "sha256": "b8f0295b6c9b87aca090605b212ef4506e04c9aacd278edb1aa0791f4c0a99dc"
+  },
+  {
+    "key": "45142",
+    "url": "https://t.me/s/war_monitor?before=45142",
+    "observed_at": "2026-10-12T07:44:35.363513+00:00",
+    "file": "45142_0122.html.gz",
+    "sha256": "3d49163b1aaf211353204d9c3a477e81dcf68b88e5bad69d423cfceb43eb23d0"
+  },
+  {
+    "key": "45122",
+    "url": "https://t.me/s/war_monitor?before=45122",
+    "observed_at": "2026-10-12T07:44:35.878075+00:00",
+    "file": "45122_0123.html.gz",
+    "sha256": "e35aba6dba91ca7d297f39b7fbc006bcaff127402284d5b19b60890fd5a67e82"
+  },
+  {
+    "key": "45102",
+    "url": "https://t.me/s/war_monitor?before=45102",
+    "observed_at": "2026-10-12T07:44:36.399266+00:00",
+    "file": "45102_0124.html.gz",
+    "sha256": "f9c29065dc7f324860c093686b4f9208598d3f7ae2e44b78a4b8b363132ee59d"
+  },
+  {
+    "key": "45082",
+    "url": "https://t.me/s/war_monitor?before=45082",
+    "observed_at": "2026-10-12T07:44:36.936270+00:00",
+    "file": "45082_0125.html.gz",
+    "sha256": "7c575aa167d75042978d316cf67741cdc94708903961fd8a02f2b2d4ed080985"
+  },
+  {
+    "key": "45062",
+    "url": "https://t.me/s/war_monitor?before=45062",
+    "observed_at": "2026-10-12T07:44:37.464594+00:00",
+    "file": "45062_0126.html.gz",
+    "sha256": "f12faba0242c5730ac4bd0db45b11c2f3435590d4e023f7750b642f1214b6bfd"
+  },
+  {
+    "key": "45042",
+    "url": "https://t.me/s/war_monitor?before=45042",
+    "observed_at": "2026-10-12T07:44:38.010906+00:00",
+    "file": "45042_0127.html.gz",
+    "sha256": "1f1f6e928d0afb8c8a3a6e0ec59cb2bfd4e2f1986b718906edec48fee7d1f784"
+  },
+  {
+    "key": "45022",
+    "url": "https://t.me/s/war_monitor?before=45022",
+    "observed_at": "2026-10-12T07:44:38.549066+00:00",
+    "file": "45022_0128.html.gz",
+    "sha256": "7f5cef6e37438eeb0829c066be903da53aa476dad622b294ae2662818c7a5b1b"
+  },
+  {
+    "key": "45002",
+    "url": "https://t.me/s/war_monitor?before=45002",
+    "observed_at": "2026-10-12T07:44:39.078132+00:00",
+    "file": "45002_0129.html.gz",
+    "sha256": "f9bfc8ec9004cc49eb461bcaf7d3451f586b00d321f83d148e7ad50d372a91d3"
+  },
+  {
+    "key": "44982",
+    "url": "https://t.me/s/war_monitor?before=44982",
+    "observed_at": "2026-10-12T07:44:39.600725+00:00",
+    "file": "44982_0130.html.gz",
+    "sha256": "8cceb2d529cc23296a874e53a43ace1a05f721f0fd57ef4aaee8037441e69184"
+  },
+  {
+    "key": "44962",
+    "url": "https://t.me/s/war_monitor?before=44962",
+    "observed_at": "2026-10-12T07:44:40.220814+00:00",
+    "file": "44962_0131.html.gz",
+    "sha256": "0524a67239ee2dbfdd064f1d568cdc1a0a673e5f6cc024421347175436ca2b9f"
+  },
+  {
+    "key": "44942",
+    "url": "https://t.me/s/war_monitor?before=44942",
+    "observed_at": "2026-10-12T07:44:40.864298+00:00",
+    "file": "44942_0132.html.gz",
+    "sha256": "fd84286d8a9a64c104d13a7ac339ef27ebbe41a186ca4d1ec9ef4f8c75439ed3"
+  },
+  {
+    "key": "44922",
+    "url": "https://t.me/s/war_monitor?before=44922",
+    "observed_at": "2026-10-12T07:44:41.415618+00:00",
+    "file": "44922_0133.html.gz",
+    "sha256": "5b29b423df51e97d209efc15f7c65149137c3308e35550c2ad342fd9bca7118f"
+  },
+  {
+    "key": "44902",
+    "url": "https://t.me/s/war_monitor?before=44902",
+    "observed_at": "2026-10-12T07:44:42.040189+00:00",
+    "file": "44902_0134.html.gz",
+    "sha256": "a112dd9aeacfb72e481bdc5805e6da923ed2960f12ef0b7daa449810b4d8ded5"
+  },
+  {
+    "key": "44882",
+    "url": "https://t.me/s/war_monitor?before=44882",
+    "observed_at": "2026-10-12T07:44:42.639146+00:00",
+    "file": "44882_0135.html.gz",
+    "sha256": "401b9f07fb9d5893369046a317f2d0477ef2c2339269a4c2c5afebed718ae0e1"
+  },
+  {
+    "key": "44862",
+    "url": "https://t.me/s/war_monitor?before=44862",
+    "observed_at": "2026-10-12T07:44:43.205735+00:00",
+    "file": "44862_0136.html.gz",
+    "sha256": "8c5aead1e123b85d0f22890da02e5717675eb9a630dc118d645dae7214eb9daa"
+  },
+  {
+    "key": "44842",
+    "url": "https://t.me/s/war_monitor?before=44842",
+    "observed_at": "2026-10-12T07:44:43.785544+00:00",
+    "file": "44842_0137.html.gz",
+    "sha256": "4eb4b0a78c92ac4c4cf1755e645d4044525d8ca31011a817ac48c2323d8d2cb5"
+  },
+  {
+    "key": "44822",
+    "url": "https://t.me/s/war_monitor?before=44822",
+    "observed_at": "2026-10-12T07:44:44.415546+00:00",
+    "file": "44822_0138.html.gz",
+    "sha256": "81d0f9ce97987e3b5385e07295f6dd86ae55a378515e70eb819fdfa63d3eea66"
+  },
+  {
+    "key": "44802",
+    "url": "https://t.me/s/war_monitor?before=44802",
+    "observed_at": "2026-10-12T07:44:45.034415+00:00",
+    "file": "44802_0139.html.gz",
+    "sha256": "87c70edd4a256211d97f2e400b1405241f8c2a482a3106ec81db370f8df4ef65"
+  },
+  {
+    "key": "44782",
+    "url": "https://t.me/s/war_monitor?before=44782",
+    "observed_at": "2026-10-12T07:44:45.607611+00:00",
+    "file": "44782_0140.html.gz",
+    "sha256": "1533e816d0c5fc492a4201558d3ad69803d1ac02d4e8aefc48c945d0e2fd4a4e"
+  },
+  {
+    "key": "44762",
+    "url": "https://t.me/s/war_monitor?before=44762",
+    "observed_at": "2026-10-12T07:44:46.160698+00:00",
+    "file": "44762_0141.html.gz",
+    "sha256": "2efb1d8aa88c7343cc90bd4e68517ea08aae4c1cfa9cdd5b7ab98070720e75b2"
+  },
+  {
+    "key": "44741",
+    "url": "https://t.me/s/war_monitor?before=44741",
+    "observed_at": "2026-10-12T07:44:46.751509+00:00",
+    "file": "44741_0142.html.gz",
+    "sha256": "72ae74bcd6260e9ba1a3d6924cc5554b066e2c46e5864f454adcc0e60271dc00"
+  },
+  {
+    "key": "44721",
+    "url": "https://t.me/s/war_monitor?before=44721",
+    "observed_at": "2026-10-12T07:44:47.353104+00:00",
+    "file": "44721_0143.html.gz",
+    "sha256": "a50fc0c10db3b8bd86629ff853e8cd625cda4513865439fc103b26f163a589cd"
+  },
+  {
+    "key": "44701",
+    "url": "https://t.me/s/war_monitor?before=44701",
+    "observed_at": "2026-10-12T07:44:47.903082+00:00",
+    "file": "44701_0144.html.gz",
+    "sha256": "d12340bf7ba5a2b4756d71c920a3d52396ede71019ec7d1acb1efafdf7d57ecb"
+  },
+  {
+    "key": "44681",
+    "url": "https://t.me/s/war_monitor?before=44681",
+    "observed_at": "2026-10-12T07:44:48.418543+00:00",
+    "file": "44681_0145.html.gz",
+    "sha256": "fad51d82b430edaecd76973f6f519ca0a1c6cd4a4db8913c07d27b1243f17fb8"
+  },
+  {
+    "key": "44661",
+    "url": "https://t.me/s/war_monitor?before=44661",
+    "observed_at": "2026-10-12T07:44:48.964881+00:00",
+    "file": "44661_0146.html.gz",
+    "sha256": "54a015a2ed816b03d7005f18304802c531e0a3383523e77f9e856dad0614aa4e"
+  },
+  {
+    "key": "44641",
+    "url": "https://t.me/s/war_monitor?before=44641",
+    "observed_at": "2026-10-12T07:44:49.482324+00:00",
+    "file": "44641_0147.html.gz",
+    "sha256": "a35e2984ff8491ec50acafec54d2312cae7720f622b799ffe19644a84bf5c6d0"
+  },
+  {
+    "key": "44621",
+    "url": "https://t.me/s/war_monitor?before=44621",
+    "observed_at": "2026-10-12T07:44:50.011548+00:00",
+    "file": "44621_0148.html.gz",
+    "sha256": "66969e501a2a6989b38c0fd2352eef67b09a5da73699c854427748ba83f316a9"
+  },
+  {
+    "key": "44601",
+    "url": "https://t.me/s/war_monitor?before=44601",
+    "observed_at": "2026-10-12T07:44:50.527252+00:00",
+    "file": "44601_0149.html.gz",
+    "sha256": "c06566aea084e53c0b07d6dd9bbb7a92c9607d47c44d132b76bf89dd71a30d0a"
+  },
+  {
+    "key": "44581",
+    "url": "https://t.me/s/war_monitor?before=44581",
+    "observed_at": "2026-10-12T07:44:51.088260+00:00",
+    "file": "44581_0150.html.gz",
+    "sha256": "ed88e4240887fc0395be9e5b6547444e132b1ca6bf2e22a88da242232773a0fc"
+  },
+  {
+    "key": "44561",
+    "url": "https://t.me/s/war_monitor?before=44561",
+    "observed_at": "2026-10-12T07:44:51.646780+00:00",
+    "file": "44561_0151.html.gz",
+    "sha256": "3f1743eddeafaac2a3dfff2859ead162239de8a0317576f804991633e917a280"
+  },
+  {
+    "key": "44541",
+    "url": "https://t.me/s/war_monitor?before=44541",
+    "observed_at": "2026-10-12T07:44:52.278912+00:00",
+    "file": "44541_0152.html.gz",
+    "sha256": "cc65acc6b4ef942714a11716bba07e486a307874b53c93cbab2464b55150bc0c"
+  },
+  {
+    "key": "44521",
+    "url": "https://t.me/s/war_monitor?before=44521",
+    "observed_at": "2026-10-12T07:44:52.944200+00:00",
+    "file": "44521_0153.html.gz",
+    "sha256": "e8ee4f21dd5fa4a5394a6358ddb5c1e58ccebc2cc5d7f0b25b1dd2de5212fa0e"
+  },
+  {
+    "key": "44501",
+    "url": "https://t.me/s/war_monitor?before=44501",
+    "observed_at": "2026-10-12T07:44:53.463660+00:00",
+    "file": "44501_0154.html.gz",
+    "sha256": "9abadcde6a95e6b1b5be92d9a10a8d4ddbcd24bee9496fc933b061a9accc2271"
+  },
+  {
+    "key": "44481",
+    "url": "https://t.me/s/war_monitor?before=44481",
+    "observed_at": "2026-10-12T07:44:53.994405+00:00",
+    "file": "44481_0155.html.gz",
+    "sha256": "a9d5824f0a4ec8be43106e9ebaaa1a3309e4e81684e1e5cd03a570c1b7c415c8"
+  },
+  {
+    "key": "44461",
+    "url": "https://t.me/s/war_monitor?before=44461",
+    "observed_at": "2026-10-12T07:44:54.515198+00:00",
+    "file": "44461_0156.html.gz",
+    "sha256": "b6c788beef74a6f08463b6601556e8977bda0c77116c152e63e13ce22690693d"
+  },
+  {
+    "key": "44441",
+    "url": "https://t.me/s/war_monitor?before=44441",
+    "observed_at": "2026-10-12T07:44:55.045423+00:00",
+    "file": "44441_0157.html.gz",
+    "sha256": "bdebcc0aff00eeb1a3d4de77994b0edac0737549baae58e8bddb914fafbf4a77"
+  },
+  {
+    "key": "44421",
+    "url": "https://t.me/s/war_monitor?before=44421",
+    "observed_at": "2026-10-12T07:44:55.566333+00:00",
+    "file": "44421_0158.html.gz",
+    "sha256": "27ae93ae148c5740bdd31ec069dc2b760e43d3c2a0ec8b8b349ad5e3d7241012"
+  },
+  {
+    "key": "44401",
+    "url": "https://t.me/s/war_monitor?before=44401",
+    "observed_at": "2026-10-12T07:44:56.099512+00:00",
+    "file": "44401_0159.html.gz",
+    "sha256": "058ea23fff790022b8d81b49280200bba48ab56cc8e5cc555977e39e614d3909"
+  },
+  {
+    "key": "44381",
+    "url": "https://t.me/s/war_monitor?before=44381",
+    "observed_at": "2026-10-12T07:44:56.758054+00:00",
+    "file": "44381_0160.html.gz",
+    "sha256": "dceca2c3f2d18f7fc50b4b104320c628fbcd31b59187401e1344e10c06720d28"
+  },
+  {
+    "key": "44361",
+    "url": "https://t.me/s/war_monitor?before=44361",
+    "observed_at": "2026-10-12T07:44:57.362316+00:00",
+    "file": "44361_0161.html.gz",
+    "sha256": "001802e27ff6aaba00c790497bade93922f81c4eb8cb89543ed70305a6253173"
+  },
+  {
+    "key": "44341",
+    "url": "https://t.me/s/war_monitor?before=44341",
+    "observed_at": "2026-10-12T07:44:57.922139+00:00",
+    "file": "44341_0162.html.gz",
+    "sha256": "ccbf2966ee07b4b1becd91cb8d0a3873b2e5f217130a0dd9c53a143819a899e0"
+  },
+  {
+    "key": "44321",
+    "url": "https://t.me/s/war_monitor?before=44321",
+    "observed_at": "2026-10-12T07:44:58.446288+00:00",
+    "file": "44321_0163.html.gz",
+    "sha256": "35b853b685ad4149b028b0a23306306e4e2011076f4dd47029b4870f2fc87bb8"
+  },
+  {
+    "key": "44301",
+    "url": "https://t.me/s/war_monitor?before=44301",
+    "observed_at": "2026-10-12T07:44:59.094838+00:00",
+    "file": "44301_0164.html.gz",
+    "sha256": "340675269dee00b3f35189452c1b4bcc1d205560823c61272d4b73db4f7a15e6"
+  },
+  {
+    "key": "44281",
+    "url": "https://t.me/s/war_monitor?before=44281",
+    "observed_at": "2026-10-12T07:44:59.739092+00:00",
+    "file": "44281_0165.html.gz",
+    "sha256": "d522e5cb6b55e58eea0b70157bdba7c066e1423e28f24a07aa7f0f6431eba68a"
+  },
+  {
+    "key": "44261",
+    "url": "https://t.me/s/war_monitor?before=44261",
+    "observed_at": "2026-10-12T07:45:00.289471+00:00",
+    "file": "44261_0166.html.gz",
+    "sha256": "a9ef30bdcfe6f79178edecb603d5ba3d6436450b393bd0e9a9aeef62c70d1065"
+  },
+  {
+    "key": "44241",
+    "url": "https://t.me/s/war_monitor?before=44241",
+    "observed_at": "2026-10-12T07:45:00.829545+00:00",
+    "file": "44241_0167.html.gz",
+    "sha256": "9af8a1913bf80b6bb83350172a77b7681b54502c6bafa6706dc2d7ef72f0615b"
+  },
+  {
+    "key": "44221",
+    "url": "https://t.me/s/war_monitor?before=44221",
+    "observed_at": "2026-10-12T07:45:01.457363+00:00",
+    "file": "44221_0168.html.gz",
+    "sha256": "f0735cfe66041ad4b667ea53961c89f1a8daf288c7e8dec2be3fe819a4419079"
+  },
+  {
+    "key": "44201",
+    "url": "https://t.me/s/war_monitor?before=44201",
+    "observed_at": "2026-10-12T07:45:02.072978+00:00",
+    "file": "44201_0169.html.gz",
+    "sha256": "3262d9f91431c896cad197c30cacfa7de96296ccc66a943c4e7b424cb0436616"
+  },
+  {
+    "key": "44181",
+    "url": "https://t.me/s/war_monitor?before=44181",
+    "observed_at": "2026-10-12T07:45:02.609994+00:00",
+    "file": "44181_0170.html.gz",
+    "sha256": "2eb8e844f728693ecf0f2477887d1c41a46c06602f1b73150f59131f5bec13a9"
+  },
+  {
+    "key": "44161",
+    "url": "https://t.me/s/war_monitor?before=44161",
+    "observed_at": "2026-10-12T07:45:03.149790+00:00",
+    "file": "44161_0171.html.gz",
+    "sha256": "4ce175863b0f7d2f5f27b6801f354b7de4a0106e98425246bd1ff0ea8d17c525"
+  },
+  {
+    "key": "44141",
+    "url": "https://t.me/s/war_monitor?before=44141",
+    "observed_at": "2026-10-12T07:45:03.701646+00:00",
+    "file": "44141_0172.html.gz",
+    "sha256": "fbe66a8a8c46e5d5844d85e14bee3ef311ee998a095986582a5e3ae23dedb1d8"
+  },
+  {
+    "key": "44121",
+    "url": "https://t.me/s/war_monitor?before=44121",
+    "observed_at": "2026-10-12T07:45:04.337540+00:00",
+    "file": "44121_0173.html.gz",
+    "sha256": "e42030090feae7d9ad16ca6eced0d2afdb4f431f3803e8ca2f8bea563d41390d"
+  },
+  {
+    "key": "44101",
+    "url": "https://t.me/s/war_monitor?before=44101",
+    "observed_at": "2026-10-12T07:45:04.996489+00:00",
+    "file": "44101_0174.html.gz",
+    "sha256": "8fa32ba0d0b44a79a63443f12055fdc093565377ea9e5b222a44e9a922a2b330"
+  },
+  {
+    "key": "44081",
+    "url": "https://t.me/s/war_monitor?before=44081",
+    "observed_at": "2026-10-12T07:45:05.527648+00:00",
+    "file": "44081_0175.html.gz",
+    "sha256": "0e71c3925f755924bb29020277bb7a6d92bd459d7abbe00f2f42aac537954443"
+  },
+  {
+    "key": "44061",
+    "url": "https://t.me/s/war_monitor?before=44061",
+    "observed_at": "2026-10-12T07:45:06.058030+00:00",
+    "file": "44061_0176.html.gz",
+    "sha256": "c52d4d8eca72a3c1e0875218a31d87eab2e68d7aecd8b425f1f7af5e736279eb"
+  },
+  {
+    "key": "44041",
+    "url": "https://t.me/s/war_monitor?before=44041",
+    "observed_at": "2026-10-12T07:45:06.605813+00:00",
+    "file": "44041_0177.html.gz",
+    "sha256": "2bed3a2e71ea645347ec5f9a3a0b848525e8faf88155bf24dd241b3da07c04b5"
+  },
+  {
+    "key": "44021",
+    "url": "https://t.me/s/war_monitor?before=44021",
+    "observed_at": "2026-10-12T07:45:07.278630+00:00",
+    "file": "44021_0178.html.gz",
+    "sha256": "489f896afc0969d6608a053fdb2201d0a5d76c4ee1517afdea417da22d95dc78"
+  },
+  {
+    "key": "44001",
+    "url": "https://t.me/s/war_monitor?before=44001",
+    "observed_at": "2026-10-12T07:45:07.858728+00:00",
+    "file": "44001_0179.html.gz",
+    "sha256": "20c3f9ae6a66437bf73d2bbacdf6621a13474ca0b78358820599f16e956ad4c4"
+  },
+  {
+    "key": "43981",
+    "url": "https://t.me/s/war_monitor?before=43981",
+    "observed_at": "2026-10-12T07:45:08.399976+00:00",
+    "file": "43981_0180.html.gz",
+    "sha256": "20c93d295f2b6c9f28fe1dd5cc1857e0683927772c81c357d3501cf6a6bec735"
+  },
+  {
+    "key": "43961",
+    "url": "https://t.me/s/war_monitor?before=43961",
+    "observed_at": "2026-10-12T07:45:08.955223+00:00",
+    "file": "43961_0181.html.gz",
+    "sha256": "540abb344461a3b9d0df3dbab9a0cbf57968677a98ce263939e04a3cf9d67e77"
+  },
+  {
+    "key": "43941",
+    "url": "https://t.me/s/war_monitor?before=43941",
+    "observed_at": "2026-10-12T07:45:09.465069+00:00",
+    "file": "43941_0182.html.gz",
+    "sha256": "0534fbd929fca773bf6f4f28c1d065cc11351f19022f90afe8a0b85bd9b5aaf9"
+  },
+  {
+    "key": "43921",
+    "url": "https://t.me/s/war_monitor?before=43921",
+    "observed_at": "2026-10-12T07:45:10.103323+00:00",
+    "file": "43921_0183.html.gz",
+    "sha256": "e21e56260fe8fc40c0c9dbaec34b0aeab2445ac17b0600197997f3bf45bf2445"
+  },
+  {
+    "key": "43901",
+    "url": "https://t.me/s/war_monitor?before=43901",
+    "observed_at": "2026-10-12T07:45:10.717586+00:00",
+    "file": "43901_0184.html.gz",
+    "sha256": "3edf7de9dfe45c8caab8e3d4be231da57a83c9164708c9be0bb68b4e7adacf0f"
+  },
+  {
+    "key": "43880",
+    "url": "https://t.me/s/war_monitor?before=43880",
+    "observed_at": "2026-10-12T07:45:11.293899+00:00",
+    "file": "43880_0185.html.gz",
+    "sha256": "fb7083995de5f6ce2e497dc980b5712f9fb7290e798431950225ed3670a265a1"
+  },
+  {
+    "key": "43860",
+    "url": "https://t.me/s/war_monitor?before=43860",
+    "observed_at": "2026-10-12T07:45:11.848289+00:00",
+    "file": "43860_0186.html.gz",
+    "sha256": "9127d82a8953196539fd916a418e879e909d98041b7e50e714243791729ffe97"
+  },
+  {
+    "key": "43839",
+    "url": "https://t.me/s/war_monitor?before=43839",
+    "observed_at": "2026-10-12T07:45:12.442771+00:00",
+    "file": "43839_0187.html.gz",
+    "sha256": "0f7afa1035f23ec4288504cff7ea88f5e5d986c23a3e9dd0cf73e77d1ae49cd4"
+  },
+  {
+    "key": "43819",
+    "url": "https://t.me/s/war_monitor?before=43819",
+    "observed_at": "2026-10-12T07:45:13.074044+00:00",
+    "file": "43819_0188.html.gz",
+    "sha256": "9ac841e999f68b46f374537916981c9668cff03528e6b63dd61d172cabb2e632"
+  },
+  {
+    "key": "43799",
+    "url": "https://t.me/s/war_monitor?before=43799",
+    "observed_at": "2026-10-12T07:45:13.634906+00:00",
+    "file": "43799_0189.html.gz",
+    "sha256": "255e02ec7c843fd64d283273cf1f38e07bcfc8d977fb935017ea1670585f6fd0"
+  },
+  {
+    "key": "43779",
+    "url": "https://t.me/s/war_monitor?before=43779",
+    "observed_at": "2026-10-12T07:45:14.168384+00:00",
+    "file": "43779_0190.html.gz",
+    "sha256": "779a1abffc196d9a2c4b075c9ee00d7b62535b28f59ee7e4ddc2479b976a67da"
+  },
+  {
+    "key": "43759",
+    "url": "https://t.me/s/war_monitor?before=43759",
+    "observed_at": "2026-10-12T07:45:14.699498+00:00",
+    "file": "43759_0191.html.gz",
+    "sha256": "3986035b7e1f095f23954017362c386e1afe1e4d770ca34e45c1a8abeed10fc3"
+  },
+  {
+    "key": "43739",
+    "url": "https://t.me/s/war_monitor?before=43739",
+    "observed_at": "2026-10-12T07:45:15.237789+00:00",
+    "file": "43739_0192.html.gz",
+    "sha256": "a5421e7d568ca40d9f51312ef22ea68a04a1b5dcf06dfaafba32a9b4140db3e9"
+  },
+  {
+    "key": "43719",
+    "url": "https://t.me/s/war_monitor?before=43719",
+    "observed_at": "2026-10-12T07:45:15.763217+00:00",
+    "file": "43719_0193.html.gz",
+    "sha256": "ce8db7f4e1097d7bed72de8d87c5b04ac38974512147ed8fd39eac11e45459f5"
+  },
+  {
+    "key": "43699",
+    "url": "https://t.me/s/war_monitor?before=43699",
+    "observed_at": "2026-10-12T07:45:16.287778+00:00",
+    "file": "43699_0194.html.gz",
+    "sha256": "6fac200cf71eb8152e8537f556047537f9bd6a80bbce591ffdce9b27df16268b"
+  },
+  {
+    "key": "43679",
+    "url": "https://t.me/s/war_monitor?before=43679",
+    "observed_at": "2026-10-12T07:45:16.920405+00:00",
+    "file": "43679_0195.html.gz",
+    "sha256": "98cf59188471697816b90d850f85b6fd695873b2941a82e24ca0025c4584eacb"
+  },
+  {
+    "key": "43659",
+    "url": "https://t.me/s/war_monitor?before=43659",
+    "observed_at": "2026-10-12T07:45:17.538296+00:00",
+    "file": "43659_0196.html.gz",
+    "sha256": "df9787aba0ddbe6fff64c7be974d5dbbc287d1b9b1b0ecece94d61678fc567ec"
+  },
+  {
+    "key": "43639",
+    "url": "https://t.me/s/war_monitor?before=43639",
+    "observed_at": "2026-10-12T07:45:18.159955+00:00",
+    "file": "43639_0197.html.gz",
+    "sha256": "ddc87e267cb07bee98970bb75b462d545255473e9d9170cee6d3ecf493d30ec0"
+  },
+  {
+    "key": "43619",
+    "url": "https://t.me/s/war_monitor?before=43619",
+    "observed_at": "2026-10-12T07:45:18.847267+00:00",
+    "file": "43619_0198.html.gz",
+    "sha256": "a0a0bce78aae98056c38c9e383aa43acf3c9d66a15522ad10ebb1b0b10f1a51b"
+  },
+  {
+    "key": "43599",
+    "url": "https://t.me/s/war_monitor?before=43599",
+    "observed_at": "2026-10-12T07:45:19.373835+00:00",
+    "file": "43599_0199.html.gz",
+    "sha256": "437fbe873b42685977db0bb1cc10c58ca216ed3cbdd76fc51ca4ce51768f4d1f"
+  },
+  {
+    "key": "43579",
+    "url": "https://t.me/s/war_monitor?before=43579",
+    "observed_at": "2026-10-12T07:45:19.933157+00:00",
+    "file": "43579_0200.html.gz",
+    "sha256": "92bda2c11b7307f62ba07a40c119b93d51ffa85ad2cfc1f5f5eda890c6100160"
+  },
+  {
+    "key": "43559",
+    "url": "https://t.me/s/war_monitor?before=43559",
+    "observed_at": "2026-10-12T07:45:20.420855+00:00",
+    "file": "43559_0201.html.gz",
+    "sha256": "b5c3e08a7a2d70ad27134aac7ce1fe6e506147b8a0f83c888611635db3563db7"
+  },
+  {
+    "key": "43539",
+    "url": "https://t.me/s/war_monitor?before=43539",
+    "observed_at": "2026-10-12T07:45:20.964619+00:00",
+    "file": "43539_0202.html.gz",
+    "sha256": "cfc68587d4972781807f11bfb82ab962b79bbf71f82ee345954b75f07e92f61b"
+  },
+  {
+    "key": "43519",
+    "url": "https://t.me/s/war_monitor?before=43519",
+    "observed_at": "2026-10-12T07:45:21.502469+00:00",
+    "file": "43519_0203.html.gz",
+    "sha256": "246498869472631994f0bc629b5bb681e8eda8fbaf1c620d39395d38498e2a2f"
+  },
+  {
+    "key": "43499",
+    "url": "https://t.me/s/war_monitor?before=43499",
+    "observed_at": "2026-10-12T07:45:22.161892+00:00",
+    "file": "43499_0204.html.gz",
+    "sha256": "5dd5269d45fc9347b5a540f9550580538c6fb41fbb3b28e61be47ce865a102db"
+  },
+  {
+    "key": "43479",
+    "url": "https://t.me/s/war_monitor?before=43479",
+    "observed_at": "2026-10-12T07:45:22.830802+00:00",
+    "file": "43479_0205.html.gz",
+    "sha256": "cf962df560bd959022eb3d2749e1b51a4a2de59bf88b607dc93b2ab6897dc13d"
+  },
+  {
+    "key": "43459",
+    "url": "https://t.me/s/war_monitor?before=43459",
+    "observed_at": "2026-10-12T07:45:23.353319+00:00",
+    "file": "43459_0206.html.gz",
+    "sha256": "6c9085b67bb38e1cdd7dcac70b94f7fcb365ec44666e1eaae280e492e7d387c4"
+  },
+  {
+    "key": "43439",
+    "url": "https://t.me/s/war_monitor?before=43439",
+    "observed_at": "2026-10-12T07:45:23.886302+00:00",
+    "file": "43439_0207.html.gz",
+    "sha256": "40dc39ff50439f56f48fe3852355c646e6391d0291aebdaab07d2acc3cef8f2a"
+  },
+  {
+    "key": "43419",
+    "url": "https://t.me/s/war_monitor?before=43419",
+    "observed_at": "2026-10-12T07:45:24.408762+00:00",
+    "file": "43419_0208.html.gz",
+    "sha256": "e4db216b722ad940934bd52f93c2f88f29185f249d36c84f14583ba718a0f1e6"
+  },
+  {
+    "key": "43399",
+    "url": "https://t.me/s/war_monitor?before=43399",
+    "observed_at": "2026-10-12T07:45:25.025637+00:00",
+    "file": "43399_0209.html.gz",
+    "sha256": "e241d429791f4281b06ff7d206eaa11e0ca311fd9ddd55e38a27a4fee39c7910"
+  },
+  {
+    "key": "43379",
+    "url": "https://t.me/s/war_monitor?before=43379",
+    "observed_at": "2026-10-12T07:45:25.625251+00:00",
+    "file": "43379_0210.html.gz",
+    "sha256": "6b3a6e00bafb1004683f9323142b77b0a710474cc4f1cdfa56c73222183557f7"
+  },
+  {
+    "key": "43359",
+    "url": "https://t.me/s/war_monitor?before=43359",
+    "observed_at": "2026-10-12T07:45:26.170684+00:00",
+    "file": "43359_0211.html.gz",
+    "sha256": "e6bf0bffa3808c4539e1f953c252c5ca775d38f567fce480674bcd995f07af21"
+  },
+  {
+    "key": "43339",
+    "url": "https://t.me/s/war_monitor?before=43339",
+    "observed_at": "2026-10-12T07:45:26.774892+00:00",
+    "file": "43339_0212.html.gz",
+    "sha256": "368015a142b3d86180033de627476cfe1b557b879246394cd1604c2770552e7a"
+  },
+  {
+    "key": "43314",
+    "url": "https://t.me/s/war_monitor?before=43314",
+    "observed_at": "2026-10-12T07:45:27.404743+00:00",
+    "file": "43314_0213.html.gz",
+    "sha256": "b5f97dbd96f4fe37d2d7e907d6021f97166f313ce7e2ebd296c09875138c29fb"
+  },
+  {
+    "key": "43294",
+    "url": "https://t.me/s/war_monitor?before=43294",
+    "observed_at": "2026-10-12T07:45:28.017338+00:00",
+    "file": "43294_0214.html.gz",
+    "sha256": "4b933587fc9d5b5ffa7236e43ef16d1b67f4d116c111b1be2e16550c357dbab2"
+  },
+  {
+    "key": "43274",
+    "url": "https://t.me/s/war_monitor?before=43274",
+    "observed_at": "2026-10-12T07:45:28.599382+00:00",
+    "file": "43274_0215.html.gz",
+    "sha256": "359f711c827c0c24a1adec19b509f34d1b5d4337b9f027cde9dfdf46442bc98e"
+  },
+  {
+    "key": "43254",
+    "url": "https://t.me/s/war_monitor?before=43254",
+    "observed_at": "2026-10-12T07:45:29.161657+00:00",
+    "file": "43254_0216.html.gz",
+    "sha256": "bc13653295b19f2c14eb41f20024aeb53f1ec975e1c213d492272471d54d1c7c"
+  },
+  {
+    "key": "43234",
+    "url": "https://t.me/s/war_monitor?before=43234",
+    "observed_at": "2026-10-12T07:45:29.782294+00:00",
+    "file": "43234_0217.html.gz",
+    "sha256": "8cb08b36970008d3a99c0dd30a5d784786ce34c090c17a7d5e9d4add22e69e12"
+  },
+  {
+    "key": "43214",
+    "url": "https://t.me/s/war_monitor?before=43214",
+    "observed_at": "2026-10-12T07:45:30.363952+00:00",
+    "file": "43214_0218.html.gz",
+    "sha256": "c76fe7f47545483184dc33efcf78104c12a336e1cf0f67b52424d1127c98e83c"
+  },
+  {
+    "key": "43194",
+    "url": "https://t.me/s/war_monitor?before=43194",
+    "observed_at": "2026-10-12T07:45:31.178709+00:00",
+    "file": "43194_0219.html.gz",
+    "sha256": "ec0df80558342c1f77a78497762d4eb4213ce47b4f42249e8cbc9ccad6cd4e25"
+  },
+  {
+    "key": "43174",
+    "url": "https://t.me/s/war_monitor?before=43174",
+    "observed_at": "2026-10-12T07:45:31.731363+00:00",
+    "file": "43174_0220.html.gz",
+    "sha256": "5e8d6628f9a9115d0825abe974cb11055a413e6e290b7f70b6eedd319f720475"
+  },
+  {
+    "key": "43154",
+    "url": "https://t.me/s/war_monitor?before=43154",
+    "observed_at": "2026-10-12T07:45:32.260657+00:00",
+    "file": "43154_0221.html.gz",
+    "sha256": "cfa816d0b99ea7c3a9360f6d2bf66d5c5341b948e06ca0420cbe1b187835fc86"
+  },
+  {
+    "key": "43134",
+    "url": "https://t.me/s/war_monitor?before=43134",
+    "observed_at": "2026-10-12T07:45:32.794412+00:00",
+    "file": "43134_0222.html.gz",
+    "sha256": "aac727daa041785cbe398df3740f16cad816f1aab8669e3d04fe57719039d79d"
+  },
+  {
+    "key": "43114",
+    "url": "https://t.me/s/war_monitor?before=43114",
+    "observed_at": "2026-10-12T07:45:33.319462+00:00",
+    "file": "43114_0223.html.gz",
+    "sha256": "0ae307a75ce9e76ccd3a6764e412c29dfd4541abe50a3f632a6fdf5cbb651934"
+  },
+  {
+    "key": "43094",
+    "url": "https://t.me/s/war_monitor?before=43094",
+    "observed_at": "2026-10-12T07:45:33.970073+00:00",
+    "file": "43094_0224.html.gz",
+    "sha256": "ee65e5fd109c92aad866a8acc46392a5e85e09f4eb6a4f86b5859112d47b8954"
+  },
+  {
+    "key": "43074",
+    "url": "https://t.me/s/war_monitor?before=43074",
+    "observed_at": "2026-10-12T07:45:34.584705+00:00",
+    "file": "43074_0225.html.gz",
+    "sha256": "30cf4eaeb0f9120512f37ecbb5c054aebc69a2e02c0d381408984be30353bfd9"
+  },
+  {
+    "key": "43054",
+    "url": "https://t.me/s/war_monitor?before=43054",
+    "observed_at": "2026-10-12T07:45:35.107666+00:00",
+    "file": "43054_0226.html.gz",
+    "sha256": "e49e6f7801ce304c85ab8058c9ad7cbb6180d611390bb47675ca6035efc72878"
+  },
+  {
+    "key": "43034",
+    "url": "https://t.me/s/war_monitor?before=43034",
+    "observed_at": "2026-10-12T07:45:35.618583+00:00",
+    "file": "43034_0227.html.gz",
+    "sha256": "a287df2edf71204b090e9fb5539be7e3f2d2ccbab4675a2868c3fcd6fd1e924e"
+  },
+  {
+    "key": "43014",
+    "url": "https://t.me/s/war_monitor?before=43014",
+    "observed_at": "2026-10-12T07:45:36.164805+00:00",
+    "file": "43014_0228.html.gz",
+    "sha256": "3fcbbec8f0a08380ca67cf3330f4b83f3107880dbcb7f5efd450bc2c940faa46"
+  },
+  {
+    "key": "42994",
+    "url": "https://t.me/s/war_monitor?before=42994",
+    "observed_at": "2026-10-12T07:45:36.841796+00:00",
+    "file": "42994_0229.html.gz",
+    "sha256": "e334363d24064311bb4526fee13ddf3524e764bc3702028fe41f9bf0319a5773"
+  },
+  {
+    "key": "42974",
+    "url": "https://t.me/s/war_monitor?before=42974",
+    "observed_at": "2026-10-12T07:45:37.447659+00:00",
+    "file": "42974_0230.html.gz",
+    "sha256": "ca8e663030ef7c38fd43a90b0dbbfac180bf97a314144b0e2689c146f6142e86"
+  },
+  {
+    "key": "42953",
+    "url": "https://t.me/s/war_monitor?before=42953",
+    "observed_at": "2026-10-12T07:45:38.081684+00:00",
+    "file": "42953_0231.html.gz",
+    "sha256": "a308fc24f3e980ac395d7a988c3a6f754dd2c112ab3a6359a18e7f08eaff25ae"
+  },
+  {
+    "key": "42933",
+    "url": "https://t.me/s/war_monitor?before=42933",
+    "observed_at": "2026-10-12T07:45:38.680915+00:00",
+    "file": "42933_0232.html.gz",
+    "sha256": "05f7bd8f7f8fbff5900edd48d3c01c26b16785fdb254ea6f47981ff4351f81fa"
+  },
+  {
+    "key": "42912",
+    "url": "https://t.me/s/war_monitor?before=42912",
+    "observed_at": "2026-10-12T07:45:39.297715+00:00",
+    "file": "42912_0233.html.gz",
+    "sha256": "2f11b9fc3c7f4377ccc9739a96dc1d5786d1ef187fcd1110f326a0211e664bef"
+  },
+  {
+    "key": "42892",
+    "url": "https://t.me/s/war_monitor?before=42892",
+    "observed_at": "2026-10-12T07:45:39.841254+00:00",
+    "file": "42892_0234.html.gz",
+    "sha256": "1caa302a424b8f2cf980fe25be8a96b7847c6fb8acf4687f757540f0b2373ae2"
+  },
+  {
+    "key": "42872",
+    "url": "https://t.me/s/war_monitor?before=42872",
+    "observed_at": "2026-10-12T07:45:40.393511+00:00",
+    "file": "42872_0235.html.gz",
+    "sha256": "200d6ead7c24f6d69d20824da93f7328edb3a9590fe2d261a68179b18343dcfe"
+  },
+  {
+    "key": "42852",
+    "url": "https://t.me/s/war_monitor?before=42852",
+    "observed_at": "2026-10-12T07:45:41.045644+00:00",
+    "file": "42852_0236.html.gz",
+    "sha256": "d3267041083af0e74c45b96186987aaf49f5daa4a58edab88a321556a2495ee3"
+  },
+  {
+    "key": "42832",
+    "url": "https://t.me/s/war_monitor?before=42832",
+    "observed_at": "2026-10-12T07:45:41.693704+00:00",
+    "file": "42832_0237.html.gz",
+    "sha256": "bc15d85f79392897f01349424fa1190a47e96525c7139ba200696908007b0e15"
+  },
+  {
+    "key": "42810",
+    "url": "https://t.me/s/war_monitor?before=42810",
+    "observed_at": "2026-10-12T07:45:42.226686+00:00",
+    "file": "42810_0238.html.gz",
+    "sha256": "7972da1e27a8aa01dad7d9a38dda79b25986feabcad7973e07c3cc497a8d1bd3"
+  },
+  {
+    "key": "42790",
+    "url": "https://t.me/s/war_monitor?before=42790",
+    "observed_at": "2026-10-12T07:45:42.748684+00:00",
+    "file": "42790_0239.html.gz",
+    "sha256": "8b8e1f37b466fde1982353ec760d738f7da11ef90ddde3b2ed22d56827e870e5"
+  },
+  {
+    "key": "42770",
+    "url": "https://t.me/s/war_monitor?before=42770",
+    "observed_at": "2026-10-12T07:45:43.266075+00:00",
+    "file": "42770_0240.html.gz",
+    "sha256": "f76ada26bce582810d15e9491ab516262c6bc81df3806038605e6f4075819ffe"
+  },
+  {
+    "key": "42750",
+    "url": "https://t.me/s/war_monitor?before=42750",
+    "observed_at": "2026-10-12T07:45:43.932248+00:00",
+    "file": "42750_0241.html.gz",
+    "sha256": "3f43cd21947368e139c5fdb4bd953d748cc2f11057e6a236f7e333b27b6cbe61"
+  },
+  {
+    "key": "42730",
+    "url": "https://t.me/s/war_monitor?before=42730",
+    "observed_at": "2026-10-12T07:45:44.845157+00:00",
+    "file": "42730_0242.html.gz",
+    "sha256": "7d8b92a1b9e2c8297d4cb51c088115aceed01b846ca8d884bb68de5b746441a6"
+  },
+  {
+    "key": "42710",
+    "url": "https://t.me/s/war_monitor?before=42710",
+    "observed_at": "2026-10-12T07:45:45.385819+00:00",
+    "file": "42710_0243.html.gz",
+    "sha256": "b9866439a32f4c500dbefc39b73791dbc4deca04bb60fc85ffd273fdd4aa3ab7"
+  },
+  {
+    "key": "42690",
+    "url": "https://t.me/s/war_monitor?before=42690",
+    "observed_at": "2026-10-12T07:45:46.022887+00:00",
+    "file": "42690_0244.html.gz",
+    "sha256": "6ff4e5df2251b1c39c99329b963189805c927902aedb3a4bdc2bc7b7fb143cdf"
+  },
+  {
+    "key": "42670",
+    "url": "https://t.me/s/war_monitor?before=42670",
+    "observed_at": "2026-10-12T07:45:46.652210+00:00",
+    "file": "42670_0245.html.gz",
+    "sha256": "f24ef48fec090295de0d8852503f1f5a3c8f8d8f1d100211f9241c9e96b0bc5c"
+  },
+  {
+    "key": "42650",
+    "url": "https://t.me/s/war_monitor?before=42650",
+    "observed_at": "2026-10-12T07:45:47.180368+00:00",
+    "file": "42650_0246.html.gz",
+    "sha256": "5d8271189b78be913f7c753645ef4f44e2dbb38f92027a35b55b417b5c6b9610"
+  },
+  {
+    "key": "42630",
+    "url": "https://t.me/s/war_monitor?before=42630",
+    "observed_at": "2026-10-12T07:45:47.735265+00:00",
+    "file": "42630_0247.html.gz",
+    "sha256": "6103bea017b42e9f65f92d9336c1d7a150d68a5490843d6242f0eafda013a1b8"
+  },
+  {
+    "key": "42610",
+    "url": "https://t.me/s/war_monitor?before=42610",
+    "observed_at": "2026-10-12T07:45:48.283277+00:00",
+    "file": "42610_0248.html.gz",
+    "sha256": "6d68325a2a6b9b4647d1a2a8ee5df768fcf3068660d42fc303309042244df2bf"
+  },
+  {
+    "key": "42590",
+    "url": "https://t.me/s/war_monitor?before=42590",
+    "observed_at": "2026-10-12T07:45:48.784732+00:00",
+    "file": "42590_0249.html.gz",
+    "sha256": "78beb386acaacc50ab1367c20f9a607b0bf1e722ee29de7c8272067b9b10e7c0"
+  },
+  {
+    "key": "42570",
+    "url": "https://t.me/s/war_monitor?before=42570",
+    "observed_at": "2026-10-12T07:45:49.312079+00:00",
+    "file": "42570_0250.html.gz",
+    "sha256": "3ab80e9de9ef38f21a1d0485b08d6ae21c7accdf1d19fe3d8696480494f43019"
+  },
+  {
+    "key": "42550",
+    "url": "https://t.me/s/war_monitor?before=42550",
+    "observed_at": "2026-10-12T07:45:49.951754+00:00",
+    "file": "42550_0251.html.gz",
+    "sha256": "454b8549ec2d4c69bccc83a34c8525cbf375f5d6e707288b50d034066a9e8202"
+  },
+  {
+    "key": "42530",
+    "url": "https://t.me/s/war_monitor?before=42530",
+    "observed_at": "2026-10-12T07:45:50.562831+00:00",
+    "file": "42530_0252.html.gz",
+    "sha256": "5450cd37bfeb1c72b0ae9082b29c4ded73355c449541f4c9f9dfbe468ea7501b"
+  },
+  {
+    "key": "42510",
+    "url": "https://t.me/s/war_monitor?before=42510",
+    "observed_at": "2026-10-12T07:45:51.142354+00:00",
+    "file": "42510_0253.html.gz",
+    "sha256": "2037a86e31dc92ed85ba8f45ce5c5b704ec109258808b0065a57cd54f0de6257"
+  },
+  {
+    "key": "42490",
+    "url": "https://t.me/s/war_monitor?before=42490",
+    "observed_at": "2026-10-12T07:45:51.664578+00:00",
+    "file": "42490_0254.html.gz",
+    "sha256": "e08ab50f7d32a90c6a156f087834532476a8b491649f39a782f76a96736d4eda"
+  },
+  {
+    "key": "42470",
+    "url": "https://t.me/s/war_monitor?before=42470",
+    "observed_at": "2026-10-12T07:45:52.201470+00:00",
+    "file": "42470_0255.html.gz",
+    "sha256": "e8cbdc6d434038673ca8ecff422beedf9942024d60b0389813a4aa5e70ef70c3"
+  },
+  {
+    "key": "42450",
+    "url": "https://t.me/s/war_monitor?before=42450",
+    "observed_at": "2026-10-12T07:45:52.745004+00:00",
+    "file": "42450_0256.html.gz",
+    "sha256": "27ab040da378e6b72800e7576ff66b61fdcca57f506b086ac068da553b726352"
+  },
+  {
+    "key": "42430",
+    "url": "https://t.me/s/war_monitor?before=42430",
+    "observed_at": "2026-10-12T07:45:53.402675+00:00",
+    "file": "42430_0257.html.gz",
+    "sha256": "59eef9e18ce4fff0a17f82a3a3fc43656e4c50c7e0acb274f2b51e2ba33c5178"
+  },
+  {
+    "key": "42410",
+    "url": "https://t.me/s/war_monitor?before=42410",
+    "observed_at": "2026-10-12T07:45:53.988417+00:00",
+    "file": "42410_0258.html.gz",
+    "sha256": "feccb2ea0b13806972a69a5b2751a768cdbd4e6bd3b9274dda0ca77d8d46baca"
+  },
+  {
+    "key": "42390",
+    "url": "https://t.me/s/war_monitor?before=42390",
+    "observed_at": "2026-10-12T07:45:54.485012+00:00",
+    "file": "42390_0259.html.gz",
+    "sha256": "6017ed7ddc91826bde3500c14fd70613b773451f5adee83c4cd1b4e1f06e92b1"
+  },
+  {
+    "key": "42370",
+    "url": "https://t.me/s/war_monitor?before=42370",
+    "observed_at": "2026-10-12T07:45:55.019440+00:00",
+    "file": "42370_0260.html.gz",
+    "sha256": "1232a47f910322ab23f3dec0c9260bfdc7f4502fd3a06dbec6b142e2e2abe23f"
+  },
+  {
+    "key": "42350",
+    "url": "https://t.me/s/war_monitor?before=42350",
+    "observed_at": "2026-10-12T07:45:55.538592+00:00",
+    "file": "42350_0261.html.gz",
+    "sha256": "21fcde31336b1211eddb35727540be430b0ecc45d8786b0cef3b0928ab9616f9"
+  },
+  {
+    "key": "42330",
+    "url": "https://t.me/s/war_monitor?before=42330",
+    "observed_at": "2026-10-12T07:45:56.063742+00:00",
+    "file": "42330_0262.html.gz",
+    "sha256": "d7a910938e69607a5ee529505f2a854663d283c671a19b2ee62db35d7d8aee73"
+  },
+  {
+    "key": "42310",
+    "url": "https://t.me/s/war_monitor?before=42310",
+    "observed_at": "2026-10-12T07:45:56.598065+00:00",
+    "file": "42310_0263.html.gz",
+    "sha256": "cb42d4c704204e30bc310c488031b92dbffe2338bd011d4210d56cf3c1d6cff6"
+  },
+  {
+    "key": "42290",
+    "url": "https://t.me/s/war_monitor?before=42290",
+    "observed_at": "2026-10-12T07:45:57.444642+00:00",
+    "file": "42290_0264.html.gz",
+    "sha256": "09ee5bd23d819dbb771fd4e887dc574e92641cb856d680cf4fa2985f194e77c7"
+  },
+  {
+    "key": "42270",
+    "url": "https://t.me/s/war_monitor?before=42270",
+    "observed_at": "2026-10-12T07:45:58.129334+00:00",
+    "file": "42270_0265.html.gz",
+    "sha256": "e357765f472ea028e7ba44834902e9221cad4ceda6c1767000ee548d47dc3540"
+  },
+  {
+    "key": "42250",
+    "url": "https://t.me/s/war_monitor?before=42250",
+    "observed_at": "2026-10-12T07:45:58.708364+00:00",
+    "file": "42250_0266.html.gz",
+    "sha256": "37a7ce1b88401956e3cc819a91e7a6212334ff40a96ab7830c1ea8a18992a0ed"
+  },
+  {
+    "key": "42230",
+    "url": "https://t.me/s/war_monitor?before=42230",
+    "observed_at": "2026-10-12T07:45:59.269443+00:00",
+    "file": "42230_0267.html.gz",
+    "sha256": "11da8dcbbe80c7fb5c2e5b1ddfb85fdb1f8c6f9aec4cefa39aa3c077ca6902dc"
+  },
+  {
+    "key": "42210",
+    "url": "https://t.me/s/war_monitor?before=42210",
+    "observed_at": "2026-10-12T07:45:59.808472+00:00",
+    "file": "42210_0268.html.gz",
+    "sha256": "96c88420148dbe68940766f7a14ca35253fb8ffd96cdf55e7340fa048a8eee05"
+  },
+  {
+    "key": "42190",
+    "url": "https://t.me/s/war_monitor?before=42190",
+    "observed_at": "2026-10-12T07:46:00.494550+00:00",
+    "file": "42190_0269.html.gz",
+    "sha256": "cda9642c7dace3e051c61490cce005d981c275663ca278c50f391d59d8359b0c"
+  },
+  {
+    "key": "42170",
+    "url": "https://t.me/s/war_monitor?before=42170",
+    "observed_at": "2026-10-12T07:46:01.147318+00:00",
+    "file": "42170_0270.html.gz",
+    "sha256": "b45032cfe63ba639a3fcc333b7d8da46fc964e1907b29e4ea60d997522db1247"
+  },
+  {
+    "key": "42147",
+    "url": "https://t.me/s/war_monitor?before=42147",
+    "observed_at": "2026-10-12T07:46:01.744142+00:00",
+    "file": "42147_0271.html.gz",
+    "sha256": "6655dcae9c33e844ea3dde6f7660dedb5e493ff9a18d52259dd9f4320f4748c8"
+  },
+  {
+    "key": "42127",
+    "url": "https://t.me/s/war_monitor?before=42127",
+    "observed_at": "2026-10-12T07:46:02.367728+00:00",
+    "file": "42127_0272.html.gz",
+    "sha256": "e1485d416b83c944f9f19212d8737d86f532f725d5a9d22b5a0dd7e5da594bfe"
+  },
+  {
+    "key": "42107",
+    "url": "https://t.me/s/war_monitor?before=42107",
+    "observed_at": "2026-10-12T07:46:03.153887+00:00",
+    "file": "42107_0273.html.gz",
+    "sha256": "5e3f014fac47cc2a931990eb46555046e8e2eb3ff4403f1c69447a9a6fe19a93"
+  },
+  {
+    "key": "42087",
+    "url": "https://t.me/s/war_monitor?before=42087",
+    "observed_at": "2026-10-12T07:46:03.714941+00:00",
+    "file": "42087_0274.html.gz",
+    "sha256": "e5149abf10ee8fdb646a7a0dee2ce3c2a2d9e275fddfb61b27585587d708c1a7"
+  },
+  {
+    "key": "42067",
+    "url": "https://t.me/s/war_monitor?before=42067",
+    "observed_at": "2026-10-12T07:46:04.242358+00:00",
+    "file": "42067_0275.html.gz",
+    "sha256": "83655db6086d79887814ba12b1f4bae82cba0aaa64789e69fe58977df5549a2a"
+  },
+  {
+    "key": "42047",
+    "url": "https://t.me/s/war_monitor?before=42047",
+    "observed_at": "2026-10-12T07:46:04.784388+00:00",
+    "file": "42047_0276.html.gz",
+    "sha256": "ebaed02241c2f7d4d54cac78167a6490f26dae7806c73ee5b39e99c646356fca"
+  },
+  {
+    "key": "42027",
+    "url": "https://t.me/s/war_monitor?before=42027",
+    "observed_at": "2026-10-12T07:46:05.333194+00:00",
+    "file": "42027_0277.html.gz",
+    "sha256": "06f2f5edf8237fbde7793f00608f61802b39cdb166529cd0c96ac07329af4029"
+  },
+  {
+    "key": "42007",
+    "url": "https://t.me/s/war_monitor?before=42007",
+    "observed_at": "2026-10-12T07:46:06.022922+00:00",
+    "file": "42007_0278.html.gz",
+    "sha256": "5f19137d8b7a74b592956c372bebb930de971aa2d929cb3b2bd1d5f3d357677f"
+  },
+  {
+    "key": "41987",
+    "url": "https://t.me/s/war_monitor?before=41987",
+    "observed_at": "2026-10-12T07:46:06.577896+00:00",
+    "file": "41987_0279.html.gz",
+    "sha256": "58bde7a9c3012d104bf40e9ba078ccb455f1e90915a2d6bfdb49e895ea92e218"
+  },
+  {
+    "key": "41967",
+    "url": "https://t.me/s/war_monitor?before=41967",
+    "observed_at": "2026-10-12T07:46:07.249895+00:00",
+    "file": "41967_0280.html.gz",
+    "sha256": "1adc248b93eeaad08ceeb897b93eb63a97c82215980cea95a357d0a2d9f07eac"
+  },
+  {
+    "key": "41947",
+    "url": "https://t.me/s/war_monitor?before=41947",
+    "observed_at": "2026-10-12T07:46:07.921615+00:00",
+    "file": "41947_0281.html.gz",
+    "sha256": "76afcf5ef11da92e84f8176818fcb7caa7d936c0833e47f635b46b6b516b14ff"
+  },
+  {
+    "key": "41927",
+    "url": "https://t.me/s/war_monitor?before=41927",
+    "observed_at": "2026-10-12T07:46:08.451714+00:00",
+    "file": "41927_0282.html.gz",
+    "sha256": "4c9d65c5db24c2ff7658ee4fef0432741c75a61c430645ab099d5745098a1c5f"
+  },
+  {
+    "key": "41906",
+    "url": "https://t.me/s/war_monitor?before=41906",
+    "observed_at": "2026-10-12T07:46:09.089812+00:00",
+    "file": "41906_0283.html.gz",
+    "sha256": "9a4fd898098bff282cbf7347c125d09cc5bace31c1a82d7e7157d92f8142f5bd"
+  },
+  {
+    "key": "41886",
+    "url": "https://t.me/s/war_monitor?before=41886",
+    "observed_at": "2026-10-12T07:46:09.766290+00:00",
+    "file": "41886_0284.html.gz",
+    "sha256": "151f836d8f2e4adf1b515ce4e574d34a1c0fb5d360fd5cb0212b825061e337c2"
+  },
+  {
+    "key": "41864",
+    "url": "https://t.me/s/war_monitor?before=41864",
+    "observed_at": "2026-10-12T07:46:10.300986+00:00",
+    "file": "41864_0285.html.gz",
+    "sha256": "87d3f446eaf95f7ca039563ea2e80aaca25614e33e8e020a180d49fe62185ea7"
+  },
+  {
+    "key": "41844",
+    "url": "https://t.me/s/war_monitor?before=41844",
+    "observed_at": "2026-10-12T07:46:10.919915+00:00",
+    "file": "41844_0286.html.gz",
+    "sha256": "32d592e67b0eae1b7ac33c33a5c1aeb64d496eb095930172c924cd37b92ccbfb"
+  },
+  {
+    "key": "41824",
+    "url": "https://t.me/s/war_monitor?before=41824",
+    "observed_at": "2026-10-12T07:46:11.593821+00:00",
+    "file": "41824_0287.html.gz",
+    "sha256": "b6dec0646fb5f8f4881ef6c450a4ff4ec01aad54d8279d39045bf15cdfb8e9ae"
+  },
+  {
+    "key": "41804",
+    "url": "https://t.me/s/war_monitor?before=41804",
+    "observed_at": "2026-10-12T07:46:12.251318+00:00",
+    "file": "41804_0288.html.gz",
+    "sha256": "7d51471b2901228f83fc000c3ce8337d4d5660ac254a005ecb82bc5700ccd6bc"
+  },
+  {
+    "key": "41784",
+    "url": "https://t.me/s/war_monitor?before=41784",
+    "observed_at": "2026-10-12T07:46:12.878077+00:00",
+    "file": "41784_0289.html.gz",
+    "sha256": "a01073966b67462b9549b982da733adf0fb41d802cbe24fe74bf4ff1c6a41586"
+  },
+  {
+    "key": "41764",
+    "url": "https://t.me/s/war_monitor?before=41764",
+    "observed_at": "2026-10-12T07:46:13.540812+00:00",
+    "file": "41764_0290.html.gz",
+    "sha256": "864415732b33a6facec175b32a8eee05c12b4afe6a13cbf3147a8d4c1c640724"
+  },
+  {
+    "key": "41744",
+    "url": "https://t.me/s/war_monitor?before=41744",
+    "observed_at": "2026-10-12T07:46:14.214116+00:00",
+    "file": "41744_0291.html.gz",
+    "sha256": "81d9b348c8d808e98e81e3f003f71ca319eed8c668893002d53c2ec69af5c8f7"
+  },
+  {
+    "key": "41724",
+    "url": "https://t.me/s/war_monitor?before=41724",
+    "observed_at": "2026-10-12T07:46:14.772648+00:00",
+    "file": "41724_0292.html.gz",
+    "sha256": "9248081ec3fcc16e24d8654830c9caac746c6fed35897eb657dd135b0d2c3078"
+  },
+  {
+    "key": "41703",
+    "url": "https://t.me/s/war_monitor?before=41703",
+    "observed_at": "2026-10-12T07:46:15.408218+00:00",
+    "file": "41703_0293.html.gz",
+    "sha256": "64037bb9ddd7fce19090a0efbe758d5649091e4f420050ec64ca1a75afc63871"
+  },
+  {
+    "key": "41683",
+    "url": "https://t.me/s/war_monitor?before=41683",
+    "observed_at": "2026-10-12T07:46:15.989741+00:00",
+    "file": "41683_0294.html.gz",
+    "sha256": "d2363c38d40725f52ca05bb84b82df2155cf08798d8637c04b038cac3eedda10"
+  },
+  {
+    "key": "41663",
+    "url": "https://t.me/s/war_monitor?before=41663",
+    "observed_at": "2026-10-12T07:46:16.577941+00:00",
+    "file": "41663_0295.html.gz",
+    "sha256": "995d07be6f5fc92b2f8708d49a4749a22cadc054a93f7359b89595bbb89de588"
+  },
+  {
+    "key": "41643",
+    "url": "https://t.me/s/war_monitor?before=41643",
+    "observed_at": "2026-10-12T07:46:17.213973+00:00",
+    "file": "41643_0296.html.gz",
+    "sha256": "cff87d07b83c80cf7bef7fe668daf0b8951211083a21d71737979e6fdb6c0611"
+  },
+  {
+    "key": "41623",
+    "url": "https://t.me/s/war_monitor?before=41623",
+    "observed_at": "2026-10-12T07:46:17.831907+00:00",
+    "file": "41623_0297.html.gz",
+    "sha256": "3fda4469c6715e1b7ae9124d38d9f94248386ca1243250878fc0f5a4d581a1a3"
+  },
+  {
+    "key": "41603",
+    "url": "https://t.me/s/war_monitor?before=41603",
+    "observed_at": "2026-10-12T07:46:18.401368+00:00",
+    "file": "41603_0298.html.gz",
+    "sha256": "3f729d62eee3c33cbb8c457ed5850778c4c67486236bbd396091f8db086fa33a"
+  },
+  {
+    "key": "41583",
+    "url": "https://t.me/s/war_monitor?before=41583",
+    "observed_at": "2026-10-12T07:46:18.985064+00:00",
+    "file": "41583_0299.html.gz",
+    "sha256": "0fdb5f650dcf5141da1f37da359676f464b664fbae55eaa9e370118ecb1d53f7"
+  },
+  {
+    "key": "41563",
+    "url": "https://t.me/s/war_monitor?before=41563",
+    "observed_at": "2026-10-12T07:46:19.622403+00:00",
+    "file": "41563_0300.html.gz",
+    "sha256": "792283c7a68a2350ead2fa60183a7957a7b83fe695ab550a312b49e004f5cb90"
+  },
+  {
+    "key": "41543",
+    "url": "https://t.me/s/war_monitor?before=41543",
+    "observed_at": "2026-10-12T07:46:20.206432+00:00",
+    "file": "41543_0301.html.gz",
+    "sha256": "05079099e64587dcf3e7d621c895d6d8fead4a8f462c65fe8c815476e65346fd"
+  },
+  {
+    "key": "41523",
+    "url": "https://t.me/s/war_monitor?before=41523",
+    "observed_at": "2026-10-12T07:46:20.768321+00:00",
+    "file": "41523_0302.html.gz",
+    "sha256": "0dde2378a5166903ec9e7a0ae3ff16774f48c5f0179dedf9fc11bac96f02dd8b"
+  },
+  {
+    "key": "41503",
+    "url": "https://t.me/s/war_monitor?before=41503",
+    "observed_at": "2026-10-12T07:46:21.416173+00:00",
+    "file": "41503_0303.html.gz",
+    "sha256": "fe9003a6e63cc6030d9dd8c7e423ce28a79ee99a9fc5fa88532f1c398a41a278"
+  },
+  {
+    "key": "41483",
+    "url": "https://t.me/s/war_monitor?before=41483",
+    "observed_at": "2026-10-12T07:46:22.021973+00:00",
+    "file": "41483_0304.html.gz",
+    "sha256": "3ed189a9ee1856b2ed2f82028dac3ffc7900e2e317ac733861f05c8e1945b3ac"
+  },
+  {
+    "key": "41463",
+    "url": "https://t.me/s/war_monitor?before=41463",
+    "observed_at": "2026-10-12T07:46:22.598145+00:00",
+    "file": "41463_0305.html.gz",
+    "sha256": "8a9febbce7700053c378cd6f4c180090dd5803cbd24d81a3f81cc44732c7f123"
+  },
+  {
+    "key": "41443",
+    "url": "https://t.me/s/war_monitor?before=41443",
+    "observed_at": "2026-10-12T07:46:23.242821+00:00",
+    "file": "41443_0306.html.gz",
+    "sha256": "a3200c4f3c33db90e3847c64388bcfad7d20063657462063480c7237963185c5"
+  },
+  {
+    "key": "41423",
+    "url": "https://t.me/s/war_monitor?before=41423",
+    "observed_at": "2026-10-12T07:46:23.821069+00:00",
+    "file": "41423_0307.html.gz",
+    "sha256": "f397eb2a3b10b713d3c913ceef93a9fb276009dcaed7f2b9713614520c8ac054"
+  },
+  {
+    "key": "41403",
+    "url": "https://t.me/s/war_monitor?before=41403",
+    "observed_at": "2026-10-12T07:46:24.387257+00:00",
+    "file": "41403_0308.html.gz",
+    "sha256": "c7918b33f85fa9c00d8c00f0eaed41575f3202edecd923b2a9d68284529fefda"
+  },
+  {
+    "key": "41383",
+    "url": "https://t.me/s/war_monitor?before=41383",
+    "observed_at": "2026-10-12T07:46:24.925218+00:00",
+    "file": "41383_0309.html.gz",
+    "sha256": "ef52abf8e5ed5e22de722d063d71e0102e276a551a57a7dcb36795e2d7659f15"
+  },
+  {
+    "key": "41363",
+    "url": "https://t.me/s/war_monitor?before=41363",
+    "observed_at": "2026-10-12T07:46:25.451208+00:00",
+    "file": "41363_0310.html.gz",
+    "sha256": "ca3a92447cbbf46ef5c271d6d8c23d565f47450f77d80fdb393cf415d5b0e6f3"
+  },
+  {
+    "key": "41343",
+    "url": "https://t.me/s/war_monitor?before=41343",
+    "observed_at": "2026-10-12T07:46:26.026734+00:00",
+    "file": "41343_0311.html.gz",
+    "sha256": "66ccb5a4177bc86cd3532531a00dbe85728a2616eeb924b2d6ff9f15cfc1452e"
+  },
+  {
+    "key": "41323",
+    "url": "https://t.me/s/war_monitor?before=41323",
+    "observed_at": "2026-10-12T07:46:26.523516+00:00",
+    "file": "41323_0312.html.gz",
+    "sha256": "f14f1b766b99d2389d6fd4ac61f50e2b07c8bad2a51020b663255f41e0a2e60d"
+  },
+  {
+    "key": "41303",
+    "url": "https://t.me/s/war_monitor?before=41303",
+    "observed_at": "2026-10-12T07:46:27.062632+00:00",
+    "file": "41303_0313.html.gz",
+    "sha256": "c0aa7e866956d9f451c87ec29d857953afd5a977632ed26110c4d02a3c9e5112"
+  },
+  {
+    "key": "41283",
+    "url": "https://t.me/s/war_monitor?before=41283",
+    "observed_at": "2026-10-12T07:46:27.596042+00:00",
+    "file": "41283_0314.html.gz",
+    "sha256": "7c00c05729acfdb14a10128e62f072e020523b1301c8a27fb0effb1e056928a8"
+  },
+  {
+    "key": "41263",
+    "url": "https://t.me/s/war_monitor?before=41263",
+    "observed_at": "2026-10-12T07:46:28.220442+00:00",
+    "file": "41263_0315.html.gz",
+    "sha256": "2fc9c0ef51c2f5bd69e3568d21ae370e5d789f57c5f7b2f672aac15fc49a7656"
+  },
+  {
+    "key": "41243",
+    "url": "https://t.me/s/war_monitor?before=41243",
+    "observed_at": "2026-10-12T07:46:28.838385+00:00",
+    "file": "41243_0316.html.gz",
+    "sha256": "54663bc8b91826f462f763d7edf09306c4e6e2b771411bb907e29548be02383b"
+  },
+  {
+    "key": "41223",
+    "url": "https://t.me/s/war_monitor?before=41223",
+    "observed_at": "2026-10-12T07:46:29.427687+00:00",
+    "file": "41223_0317.html.gz",
+    "sha256": "1f4095a9309feb4ad1e1e30ccd0ab53f37403135dbfa7a604c738d17a1d82573"
+  },
+  {
+    "key": "41203",
+    "url": "https://t.me/s/war_monitor?before=41203",
+    "observed_at": "2026-10-12T07:46:29.944933+00:00",
+    "file": "41203_0318.html.gz",
+    "sha256": "d545f40437a8083fe650e24b68f2cce40f3df004cf5bf7b5e01ccd6d214c099c"
+  },
+  {
+    "key": "41183",
+    "url": "https://t.me/s/war_monitor?before=41183",
+    "observed_at": "2026-10-12T07:46:30.491559+00:00",
+    "file": "41183_0319.html.gz",
+    "sha256": "3c10a53e3e270649e60b96c42b26f83a41a27545dc65eeddc9841204708e40c8"
+  },
+  {
+    "key": "41163",
+    "url": "https://t.me/s/war_monitor?before=41163",
+    "observed_at": "2026-10-12T07:46:31.080030+00:00",
+    "file": "41163_0320.html.gz",
+    "sha256": "bd00e35308f78f9a2ca94a1830c42d86ac1dbe938b686fd907c0076c6814f5cc"
+  },
+  {
+    "key": "41143",
+    "url": "https://t.me/s/war_monitor?before=41143",
+    "observed_at": "2026-10-12T07:46:31.892011+00:00",
+    "file": "41143_0321.html.gz",
+    "sha256": "b5bad3d643a8ba3160949306f375ebf4203ceb16859ca77c75446f338ea2af99"
+  },
+  {
+    "key": "41123",
+    "url": "https://t.me/s/war_monitor?before=41123",
+    "observed_at": "2026-10-12T07:46:32.491272+00:00",
+    "file": "41123_0322.html.gz",
+    "sha256": "edcee6aef868458e649f30425113d6d2066201de0289f6eee04e8f4642bb8b91"
+  },
+  {
+    "key": "41103",
+    "url": "https://t.me/s/war_monitor?before=41103",
+    "observed_at": "2026-10-12T07:46:33.083829+00:00",
+    "file": "41103_0323.html.gz",
+    "sha256": "125dac7b71576aab4f961b41d165aae53c58c9f56aa182bdf7acd7135434f5a2"
+  },
+  {
+    "key": "41083",
+    "url": "https://t.me/s/war_monitor?before=41083",
+    "observed_at": "2026-10-12T07:46:33.628145+00:00",
+    "file": "41083_0324.html.gz",
+    "sha256": "d6bb4bc862cef05b1867bb37ab59bc8e8d4b764625e171febd5aa566251736a6"
+  },
+  {
+    "key": "41063",
+    "url": "https://t.me/s/war_monitor?before=41063",
+    "observed_at": "2026-10-12T07:46:34.274587+00:00",
+    "file": "41063_0325.html.gz",
+    "sha256": "e319af6b9e1198753f4a43d340d407dadd5c314cd4902c412a82ae7bb74ecde8"
+  },
+  {
+    "key": "41043",
+    "url": "https://t.me/s/war_monitor?before=41043",
+    "observed_at": "2026-10-12T07:46:35.185321+00:00",
+    "file": "41043_0326.html.gz",
+    "sha256": "1775e575830859e159e56eda4e500bac6772997aa534a49d50c8ea7fb70013a0"
+  },
+  {
+    "key": "41023",
+    "url": "https://t.me/s/war_monitor?before=41023",
+    "observed_at": "2026-10-12T07:46:35.737052+00:00",
+    "file": "41023_0327.html.gz",
+    "sha256": "4518460db2c2f250c80a4082b95142e4ee73655cd0de7860b725b9897c12b632"
+  },
+  {
+    "key": "41003",
+    "url": "https://t.me/s/war_monitor?before=41003",
+    "observed_at": "2026-10-12T07:46:36.352096+00:00",
+    "file": "41003_0328.html.gz",
+    "sha256": "147a8b5f54c559fa6ad4d0e7dbaecbf40287c272b51d4dae03b66f85babb9525"
+  },
+  {
+    "key": "40983",
+    "url": "https://t.me/s/war_monitor?before=40983",
+    "observed_at": "2026-10-12T07:46:36.937072+00:00",
+    "file": "40983_0329.html.gz",
+    "sha256": "4ec96c6f6c5399087f6116f84d6c2b180415b882c40519f4db7b092153c7e9c1"
+  },
+  {
+    "key": "40963",
+    "url": "https://t.me/s/war_monitor?before=40963",
+    "observed_at": "2026-10-12T07:46:37.512364+00:00",
+    "file": "40963_0330.html.gz",
+    "sha256": "3226f250c83974b577e6a98155285753f59fa226dd10d53c5967d2b83ea435b6"
+  },
+  {
+    "key": "40943",
+    "url": "https://t.me/s/war_monitor?before=40943",
+    "observed_at": "2026-10-12T07:46:39.242069+00:00",
+    "file": "40943_0331.html.gz",
+    "sha256": "5739ba83cf15f09d67c0d49ff833f708aeab890a18050803b58911c97e6de706"
+  },
+  {
+    "key": "40921",
+    "url": "https://t.me/s/war_monitor?before=40921",
+    "observed_at": "2026-10-12T07:46:39.857342+00:00",
+    "file": "40921_0332.html.gz",
+    "sha256": "4695660f03324dbc50e7e48c9def28d9978e824bbfad2ebd4a144897b97323e7"
+  },
+  {
+    "key": "40901",
+    "url": "https://t.me/s/war_monitor?before=40901",
+    "observed_at": "2026-10-12T07:46:40.472852+00:00",
+    "file": "40901_0333.html.gz",
+    "sha256": "2128b7d82549c4ff9695ed5b3051c07fa03d3e8fb0a1344294a59461597d523b"
+  },
+  {
+    "key": "40875",
+    "url": "https://t.me/s/war_monitor?before=40875",
+    "observed_at": "2026-10-12T07:46:41.094973+00:00",
+    "file": "40875_0334.html.gz",
+    "sha256": "e4d4586765356d91e54e3ba017a51b0fc7c08fa753f0567801c483aec833bcab"
+  },
+  {
+    "key": "40855",
+    "url": "https://t.me/s/war_monitor?before=40855",
+    "observed_at": "2026-10-12T07:46:41.683980+00:00",
+    "file": "40855_0335.html.gz",
+    "sha256": "247bba2eff6c3f334daeb9c125cc7c9e9e83a24505499339fd417b82d0ec745b"
+  },
+  {
+    "key": "40835",
+    "url": "https://t.me/s/war_monitor?before=40835",
+    "observed_at": "2026-10-12T07:46:42.197952+00:00",
+    "file": "40835_0336.html.gz",
+    "sha256": "3239edc4eda768d3d8c783e289946ad2339b2b1321f3618a17f8db85722a26e3"
+  },
+  {
+    "key": "40815",
+    "url": "https://t.me/s/war_monitor?before=40815",
+    "observed_at": "2026-10-12T07:46:42.903535+00:00",
+    "file": "40815_0337.html.gz",
+    "sha256": "1c06477a474fbec2fc90686c5cd7692ebc36351b289a9418066408e2fa82e5ba"
+  },
+  {
+    "key": "40795",
+    "url": "https://t.me/s/war_monitor?before=40795",
+    "observed_at": "2026-10-12T07:46:43.516554+00:00",
+    "file": "40795_0338.html.gz",
+    "sha256": "e8b7104da35bb6c1713053d7b5488b2ff5e75f9ad8afa743a5bf79e324940bf4"
+  },
+  {
+    "key": "40775",
+    "url": "https://t.me/s/war_monitor?before=40775",
+    "observed_at": "2026-10-12T07:46:44.130295+00:00",
+    "file": "40775_0339.html.gz",
+    "sha256": "b59ed3797ae30830f0b265766763cd29ab17f575817e118c15bf2c6a7e8bafc0"
+  },
+  {
+    "key": "40754",
+    "url": "https://t.me/s/war_monitor?before=40754",
+    "observed_at": "2026-10-12T07:46:44.760170+00:00",
+    "file": "40754_0340.html.gz",
+    "sha256": "c28e828b82c570ae3fc83c342ea54f20657878af78b5708694c1e049485ea2ee"
+  },
+  {
+    "key": "40734",
+    "url": "https://t.me/s/war_monitor?before=40734",
+    "observed_at": "2026-10-12T07:46:45.341345+00:00",
+    "file": "40734_0341.html.gz",
+    "sha256": "90035e0d9026dc6b310d36a50209823243f61b8b61c6df0662853b2e986da1bf"
+  },
+  {
+    "key": "40714",
+    "url": "https://t.me/s/war_monitor?before=40714",
+    "observed_at": "2026-10-12T07:46:45.891366+00:00",
+    "file": "40714_0342.html.gz",
+    "sha256": "b27f1d86d16dc0a605bb6742098629f32578df17900c053a481108d4371b4f9b"
+  },
+  {
+    "key": "40694",
+    "url": "https://t.me/s/war_monitor?before=40694",
+    "observed_at": "2026-10-12T07:46:46.422730+00:00",
+    "file": "40694_0343.html.gz",
+    "sha256": "e09ff8ba4db123dc4b0d1eeb2c087ed6e0b809be7bc79c8aeb05c6d7426c8192"
+  },
+  {
+    "key": "40674",
+    "url": "https://t.me/s/war_monitor?before=40674",
+    "observed_at": "2026-10-12T07:46:46.994449+00:00",
+    "file": "40674_0344.html.gz",
+    "sha256": "71af67d2816a3e6e1dbc89b3074997b14691f2b425f35cb6d61e3f4cd21f1546"
+  },
+  {
+    "key": "40654",
+    "url": "https://t.me/s/war_monitor?before=40654",
+    "observed_at": "2026-10-12T07:46:47.507605+00:00",
+    "file": "40654_0345.html.gz",
+    "sha256": "8d8fb8efe53b7804100a8cd70d55d6b8dab22b1c01646611f091bf794931254f"
+  },
+  {
+    "key": "40634",
+    "url": "https://t.me/s/war_monitor?before=40634",
+    "observed_at": "2026-10-12T07:46:48.023636+00:00",
+    "file": "40634_0346.html.gz",
+    "sha256": "87381c5f046e829911e0aab4ffca2ea55a38fd792afcd53efab5cbb1a9378a13"
+  },
+  {
+    "key": "40614",
+    "url": "https://t.me/s/war_monitor?before=40614",
+    "observed_at": "2026-10-12T07:46:48.666508+00:00",
+    "file": "40614_0347.html.gz",
+    "sha256": "8893b1495952708dff52daea50253432e28cca95a9add198dfb6d009013ee034"
+  },
+  {
+    "key": "40594",
+    "url": "https://t.me/s/war_monitor?before=40594",
+    "observed_at": "2026-10-12T07:46:49.338589+00:00",
+    "file": "40594_0348.html.gz",
+    "sha256": "2275893b56370b58b017a6fcac569049ede74c1032f15d75ee02916a5d6c5096"
+  },
+  {
+    "key": "40574",
+    "url": "https://t.me/s/war_monitor?before=40574",
+    "observed_at": "2026-10-12T07:46:49.993966+00:00",
+    "file": "40574_0349.html.gz",
+    "sha256": "bdb329e131a1beb33c8c02ff23f2a1b6f370264aff421107293e499e685deed3"
+  },
+  {
+    "key": "40554",
+    "url": "https://t.me/s/war_monitor?before=40554",
+    "observed_at": "2026-10-12T07:46:50.605753+00:00",
+    "file": "40554_0350.html.gz",
+    "sha256": "efe84da3cf0117a893946981e27577405c44e56c584a5b98996bed43b15ecc0b"
+  },
+  {
+    "key": "40534",
+    "url": "https://t.me/s/war_monitor?before=40534",
+    "observed_at": "2026-10-12T07:46:51.137390+00:00",
+    "file": "40534_0351.html.gz",
+    "sha256": "411990b30492a9a2bc619148a5f53301e55b77d63a42a203eadfda3fb7375ea7"
+  },
+  {
+    "key": "40514",
+    "url": "https://t.me/s/war_monitor?before=40514",
+    "observed_at": "2026-10-12T07:46:51.657590+00:00",
+    "file": "40514_0352.html.gz",
+    "sha256": "5ea9e9443109680dde203a5caf1ca138af7b0db8dcabdede0ec0103a04bf24d7"
+  },
+  {
+    "key": "40494",
+    "url": "https://t.me/s/war_monitor?before=40494",
+    "observed_at": "2026-10-12T07:46:52.337288+00:00",
+    "file": "40494_0353.html.gz",
+    "sha256": "5c9bbcbf05999ed8546e78a040376d88b9e02ee9d99aec66bf83389772363b6e"
+  },
+  {
+    "key": "40474",
+    "url": "https://t.me/s/war_monitor?before=40474",
+    "observed_at": "2026-10-12T07:46:52.987577+00:00",
+    "file": "40474_0354.html.gz",
+    "sha256": "60cb18f90f85d1f1a77dda119df0679fe9c52cea13f0b100d4bd5c6e87c40870"
+  },
+  {
+    "key": "40454",
+    "url": "https://t.me/s/war_monitor?before=40454",
+    "observed_at": "2026-10-12T07:46:53.530264+00:00",
+    "file": "40454_0355.html.gz",
+    "sha256": "613169f5303b005a54b9f601caeb71567e53ce5a1cbb2c9cf7d2686a3a40f6c4"
+  },
+  {
+    "key": "40434",
+    "url": "https://t.me/s/war_monitor?before=40434",
+    "observed_at": "2026-10-12T07:46:54.171063+00:00",
+    "file": "40434_0356.html.gz",
+    "sha256": "fa10d332b0bd924a1d3eb3dac7134259cba6a5c71700671abe72a91c498db596"
+  },
+  {
+    "key": "40414",
+    "url": "https://t.me/s/war_monitor?before=40414",
+    "observed_at": "2026-10-12T07:46:54.789404+00:00",
+    "file": "40414_0357.html.gz",
+    "sha256": "29df1c6b1e7d2b209864fc8e267e5c9d66f83765a360cad66c28c86b0b32c112"
+  },
+  {
+    "key": "40394",
+    "url": "https://t.me/s/war_monitor?before=40394",
+    "observed_at": "2026-10-12T07:46:55.365609+00:00",
+    "file": "40394_0358.html.gz",
+    "sha256": "9e98b6620778aee512d0cf2bb7a8987d520f60eff25bd9af0a2f49c73bddd2c0"
+  },
+  {
+    "key": "40374",
+    "url": "https://t.me/s/war_monitor?before=40374",
+    "observed_at": "2026-10-12T07:46:55.850542+00:00",
+    "file": "40374_0359.html.gz",
+    "sha256": "53a1e2474a1a37d4c32ed6fa61b9b415dddfd1e3abec3a2f6c66ba5a709d5e60"
+  },
+  {
+    "key": "40354",
+    "url": "https://t.me/s/war_monitor?before=40354",
+    "observed_at": "2026-10-12T07:46:56.359078+00:00",
+    "file": "40354_0360.html.gz",
+    "sha256": "7c2df696b8d053f7027b2364acf658d440967ebd3fc37aad9a9644f64e29ab48"
+  },
+  {
+    "key": "40334",
+    "url": "https://t.me/s/war_monitor?before=40334",
+    "observed_at": "2026-10-12T07:46:56.909098+00:00",
+    "file": "40334_0361.html.gz",
+    "sha256": "c9da74bbc460535d97a7e6bd6b3e0d53ec4c191fe517894361f8043412ba59e7"
+  },
+  {
+    "key": "40314",
+    "url": "https://t.me/s/war_monitor?before=40314",
+    "observed_at": "2026-10-12T07:46:57.450758+00:00",
+    "file": "40314_0362.html.gz",
+    "sha256": "e2d735b69fe065a106f615ff380bd8660eea98f902bc4897faa1723070dc3ae5"
+  },
+  {
+    "key": "40294",
+    "url": "https://t.me/s/war_monitor?before=40294",
+    "observed_at": "2026-10-12T07:46:57.982295+00:00",
+    "file": "40294_0363.html.gz",
+    "sha256": "9ba8a03fb3d8b62db990cad7fd27ebef1aa33df6cc357886254458d5b21c031c"
+  },
+  {
+    "key": "40274",
+    "url": "https://t.me/s/war_monitor?before=40274",
+    "observed_at": "2026-10-12T07:46:58.629482+00:00",
+    "file": "40274_0364.html.gz",
+    "sha256": "349f9f8c2eb0e86712a149eeae4eec8e96287e257691df39b77c37afff8d4d04"
+  },
+  {
+    "key": "40254",
+    "url": "https://t.me/s/war_monitor?before=40254",
+    "observed_at": "2026-10-12T07:46:59.245328+00:00",
+    "file": "40254_0365.html.gz",
+    "sha256": "cf7dd996de33b7ebde5925441bd312498b9401ca6fa234393376a38989266a56"
+  },
+  {
+    "key": "40234",
+    "url": "https://t.me/s/war_monitor?before=40234",
+    "observed_at": "2026-10-12T07:46:59.813743+00:00",
+    "file": "40234_0366.html.gz",
+    "sha256": "d5dc52291ced29b0bde37539746a9d68fb44facd069334d8311d65206da9f1e2"
+  },
+  {
+    "key": "40214",
+    "url": "https://t.me/s/war_monitor?before=40214",
+    "observed_at": "2026-10-12T07:47:00.345167+00:00",
+    "file": "40214_0367.html.gz",
+    "sha256": "63ca751cf41ff8207fd1653ec9d3d799dde5e37a00ce36d93176e16ee17268eb"
+  },
+  {
+    "key": "40194",
+    "url": "https://t.me/s/war_monitor?before=40194",
+    "observed_at": "2026-10-12T07:47:00.867027+00:00",
+    "file": "40194_0368.html.gz",
+    "sha256": "7c8ab2c0abf169ac775ef856a18449e6d5679d7ac634dc481cd2028179a345a4"
+  },
+  {
+    "key": "40174",
+    "url": "https://t.me/s/war_monitor?before=40174",
+    "observed_at": "2026-10-12T07:47:01.434758+00:00",
+    "file": "40174_0369.html.gz",
+    "sha256": "489e97849c02e37180fc27ac92ecd1ee2a5fa6a0652eeb231646a38ee8230beb"
+  },
+  {
+    "key": "40154",
+    "url": "https://t.me/s/war_monitor?before=40154",
+    "observed_at": "2026-10-12T07:47:02.187724+00:00",
+    "file": "40154_0370.html.gz",
+    "sha256": "ee3b688a86e4e7b0e9200a227919d9c977ac5e31c48bcad737c141cf98d12201"
+  },
+  {
+    "key": "40134",
+    "url": "https://t.me/s/war_monitor?before=40134",
+    "observed_at": "2026-10-12T07:47:02.730206+00:00",
+    "file": "40134_0371.html.gz",
+    "sha256": "cb60c6b90f5c5efe4cb30133b1d15bacda2f31079f440349262eaedc87e525aa"
+  },
+  {
+    "key": "40114",
+    "url": "https://t.me/s/war_monitor?before=40114",
+    "observed_at": "2026-10-12T07:47:03.442082+00:00",
+    "file": "40114_0372.html.gz",
+    "sha256": "1a3126aa47b5cc13a89668c4f3c7db2b0f58ce22c4475197435843aef2b8627e"
+  },
+  {
+    "key": "40094",
+    "url": "https://t.me/s/war_monitor?before=40094",
+    "observed_at": "2026-10-12T07:47:04.103172+00:00",
+    "file": "40094_0373.html.gz",
+    "sha256": "9f7152e9776d847e3eb261a4763dd23841fab419a9c11980a04ba90b33cc7150"
+  },
+  {
+    "key": "40074",
+    "url": "https://t.me/s/war_monitor?before=40074",
+    "observed_at": "2026-10-12T07:47:05.715529+00:00",
+    "file": "40074_0374.html.gz",
+    "sha256": "2d7ff636b37286cad7a8f572286d485fff644385d61cccb9ad8842137907ee74"
+  },
+  {
+    "key": "40054",
+    "url": "https://t.me/s/war_monitor?before=40054",
+    "observed_at": "2026-10-12T07:47:06.324910+00:00",
+    "file": "40054_0375.html.gz",
+    "sha256": "a7895cc7c264e28216bb34dd857b0bdaeeabfa721e37417a36709179f20d0068"
+  },
+  {
+    "key": "40034",
+    "url": "https://t.me/s/war_monitor?before=40034",
+    "observed_at": "2026-10-12T07:47:06.880378+00:00",
+    "file": "40034_0376.html.gz",
+    "sha256": "4119ef3d6bcf0dccf4525a15dfe85a640ee7848a3e91f6d8fdf78e783a391448"
+  },
+  {
+    "key": "40014",
+    "url": "https://t.me/s/war_monitor?before=40014",
+    "observed_at": "2026-10-12T07:47:07.414030+00:00",
+    "file": "40014_0377.html.gz",
+    "sha256": "88ac44b0e49310989d7fb8fbcffc429b1a3c264979037448f7f1fe68f7c7c0b8"
+  },
+  {
+    "key": "39994",
+    "url": "https://t.me/s/war_monitor?before=39994",
+    "observed_at": "2026-10-12T07:47:08.064886+00:00",
+    "file": "39994_0378.html.gz",
+    "sha256": "d27e503f48403da3c79ed78b9eb83889320709aaebcb1e4d7074d9f8dd757307"
+  },
+  {
+    "key": "39974",
+    "url": "https://t.me/s/war_monitor?before=39974",
+    "observed_at": "2026-10-12T07:47:08.713192+00:00",
+    "file": "39974_0379.html.gz",
+    "sha256": "a44ea55f0fa7bdb1f42c7a5e15fb1d5d829f65593a3916d66d6766e3036308d1"
+  },
+  {
+    "key": "39954",
+    "url": "https://t.me/s/war_monitor?before=39954",
+    "observed_at": "2026-10-12T07:47:09.251035+00:00",
+    "file": "39954_0380.html.gz",
+    "sha256": "0bf2d9bc486f463964c11386400d7822dca714883078478dd12327c4bfa3182a"
+  },
+  {
+    "key": "39934",
+    "url": "https://t.me/s/war_monitor?before=39934",
+    "observed_at": "2026-10-12T07:47:09.807024+00:00",
+    "file": "39934_0381.html.gz",
+    "sha256": "952554742b48a7d840ad0c23e389a4429811a464debff71566de8e974c658cd6"
+  },
+  {
+    "key": "39914",
+    "url": "https://t.me/s/war_monitor?before=39914",
+    "observed_at": "2026-10-12T07:47:10.308846+00:00",
+    "file": "39914_0382.html.gz",
+    "sha256": "2352e6fa3febcd09b094e3262051655683017db24f5c3f03b49d54a5ad73363f"
+  },
+  {
+    "key": "39894",
+    "url": "https://t.me/s/war_monitor?before=39894",
+    "observed_at": "2026-10-12T07:47:10.860532+00:00",
+    "file": "39894_0383.html.gz",
+    "sha256": "f1479b4f8e4556921335a1daa4c1e7f2c02b2dd27271e4aabddaf8bc5e8f592e"
+  },
+  {
+    "key": "39874",
+    "url": "https://t.me/s/war_monitor?before=39874",
+    "observed_at": "2026-10-12T07:47:11.498635+00:00",
+    "file": "39874_0384.html.gz",
+    "sha256": "f35d348f638060494b0451afa3689699b2b29b8630fc6305ea7212ce31590ff7"
+  },
+  {
+    "key": "39854",
+    "url": "https://t.me/s/war_monitor?before=39854",
+    "observed_at": "2026-10-12T07:47:12.145003+00:00",
+    "file": "39854_0385.html.gz",
+    "sha256": "b906d844f628ce6c214d8491288848355a4d26a97dfe842d0b875c08648b8e8b"
+  },
+  {
+    "key": "39834",
+    "url": "https://t.me/s/war_monitor?before=39834",
+    "observed_at": "2026-10-12T07:47:12.668933+00:00",
+    "file": "39834_0386.html.gz",
+    "sha256": "000904a64bd323c739a7bc4436d49e122f1f2a7e3def0baaf271f2d632f0a526"
+  },
+  {
+    "key": "39814",
+    "url": "https://t.me/s/war_monitor?before=39814",
+    "observed_at": "2026-10-12T07:47:13.183772+00:00",
+    "file": "39814_0387.html.gz",
+    "sha256": "59ef5e5117f5069cee8e8d82193aa6a59ca1400c5810badc4ca19dc5e846d22c"
+  },
+  {
+    "key": "39794",
+    "url": "https://t.me/s/war_monitor?before=39794",
+    "observed_at": "2026-10-12T07:47:13.981323+00:00",
+    "file": "39794_0388.html.gz",
+    "sha256": "0ed2abe65a80e1f1740e3b80ff7dc2b8bd4d23ffa7c30de86cdd8eee2b13f8c3"
+  },
+  {
+    "key": "39774",
+    "url": "https://t.me/s/war_monitor?before=39774",
+    "observed_at": "2026-10-12T07:47:14.710514+00:00",
+    "file": "39774_0389.html.gz",
+    "sha256": "4afbc63ca6e419724c1f5c00de711005cfb579a734d5d5714054de9db20f7e13"
+  },
+  {
+    "key": "39754",
+    "url": "https://t.me/s/war_monitor?before=39754",
+    "observed_at": "2026-10-12T07:47:15.226965+00:00",
+    "file": "39754_0390.html.gz",
+    "sha256": "36050060eb985a0aa8a374174d71571d4c2547c9fe0c29f8cdcff919278410a5"
+  },
+  {
+    "key": "39734",
+    "url": "https://t.me/s/war_monitor?before=39734",
+    "observed_at": "2026-10-12T07:47:15.721678+00:00",
+    "file": "39734_0391.html.gz",
+    "sha256": "713d6c103d9fdb79978e7c16aec0bb8fb0202e22d3f741bad95e1626f7289bfa"
+  },
+  {
+    "key": "39714",
+    "url": "https://t.me/s/war_monitor?before=39714",
+    "observed_at": "2026-10-12T07:47:16.264196+00:00",
+    "file": "39714_0392.html.gz",
+    "sha256": "8373a4044535f4dbe89b2c3b603aabc6554f61e4e78a39b5dc27a8d1fa4e9208"
+  },
+  {
+    "key": "39694",
+    "url": "https://t.me/s/war_monitor?before=39694",
+    "observed_at": "2026-10-12T07:47:16.856154+00:00",
+    "file": "39694_0393.html.gz",
+    "sha256": "fb4af70e8300a6518f8a30dad108d0dd50a1049e81fe077eb8b3c969b87de784"
+  },
+  {
+    "key": "39674",
+    "url": "https://t.me/s/war_monitor?before=39674",
+    "observed_at": "2026-10-12T07:47:17.503325+00:00",
+    "file": "39674_0394.html.gz",
+    "sha256": "24f07ecdda764be5e0b4ec1f8a2e20ad099df2c9f30e1ccc7ef678fb79c9e9b2"
+  },
+  {
+    "key": "39654",
+    "url": "https://t.me/s/war_monitor?before=39654",
+    "observed_at": "2026-10-12T07:47:18.122643+00:00",
+    "file": "39654_0395.html.gz",
+    "sha256": "4ca6e48bbc0d6cf567fe568ae8e88b5ceb6de74810b69652118d50f0b6ff8ad7"
+  },
+  {
+    "key": "39634",
+    "url": "https://t.me/s/war_monitor?before=39634",
+    "observed_at": "2026-10-12T07:47:18.798642+00:00",
+    "file": "39634_0396.html.gz",
+    "sha256": "52792eca75a332c4dde2de6af027ade74d11456581ca4938cee8d4e88b64e2ae"
+  },
+  {
+    "key": "39614",
+    "url": "https://t.me/s/war_monitor?before=39614",
+    "observed_at": "2026-10-12T07:47:19.390990+00:00",
+    "file": "39614_0397.html.gz",
+    "sha256": "006fa41264a74eda9f7eedc4312ea80078f0a2f823f4f25d713a8009abe7a9a6"
+  },
+  {
+    "key": "39594",
+    "url": "https://t.me/s/war_monitor?before=39594",
+    "observed_at": "2026-10-12T07:47:19.955225+00:00",
+    "file": "39594_0398.html.gz",
+    "sha256": "2457ac57a2432782e3714d867102414ccfed41e1f0587c4890ca55273c175c7e"
+  },
+  {
+    "key": "39574",
+    "url": "https://t.me/s/war_monitor?before=39574",
+    "observed_at": "2026-10-12T07:47:20.478034+00:00",
+    "file": "39574_0399.html.gz",
+    "sha256": "9e523c17961b5e701af01a83d25a58a0cbeec6d81cec6bad2a7081a9aad7fcb3"
+  },
+  {
+    "key": "39554",
+    "url": "https://t.me/s/war_monitor?before=39554",
+    "observed_at": "2026-10-12T07:47:21.054983+00:00",
+    "file": "39554_0400.html.gz",
+    "sha256": "b881c2168c36e78044c73dbc356fe6e57dcb125afa8f06ed29ac33149e0a0476"
+  },
+  {
+    "key": "39534",
+    "url": "https://t.me/s/war_monitor?before=39534",
+    "observed_at": "2026-10-12T07:47:21.696898+00:00",
+    "file": "39534_0401.html.gz",
+    "sha256": "d65dccedba85d1737ee38c9681273285f96dc07788d4866c6ac226f8a07cfa69"
+  },
+  {
+    "key": "39514",
+    "url": "https://t.me/s/war_monitor?before=39514",
+    "observed_at": "2026-10-12T07:47:23.028745+00:00",
+    "file": "39514_0402.html.gz",
+    "sha256": "6e9cb395b032584908765639347b35b70ca1a904112d5a57febdcb876bdd5355"
+  },
+  {
+    "key": "39494",
+    "url": "https://t.me/s/war_monitor?before=39494",
+    "observed_at": "2026-10-12T07:47:23.620466+00:00",
+    "file": "39494_0403.html.gz",
+    "sha256": "b7f066b66f10501224cd1dcaf51c2b8372719bd36660d58efde2511f2a263150"
+  },
+  {
+    "key": "39474",
+    "url": "https://t.me/s/war_monitor?before=39474",
+    "observed_at": "2026-10-12T07:47:24.172690+00:00",
+    "file": "39474_0404.html.gz",
+    "sha256": "3b7cdb7f643c0d75f0f8dcd98e0afcd2736efb841173cd4c1003b7011e865ae5"
+  },
+  {
+    "key": "39454",
+    "url": "https://t.me/s/war_monitor?before=39454",
+    "observed_at": "2026-10-12T07:47:24.699889+00:00",
+    "file": "39454_0405.html.gz",
+    "sha256": "fd75e58176a9f7a4dd44ae7a622bcd38310ef31e7116399117ab5fecbc12cebd"
+  },
+  {
+    "key": "39434",
+    "url": "https://t.me/s/war_monitor?before=39434",
+    "observed_at": "2026-10-12T07:47:25.220902+00:00",
+    "file": "39434_0406.html.gz",
+    "sha256": "44d7c4c73263d2fe294e5fc86b8cb946410c36bea8cc1cddec188261c1863146"
+  },
+  {
+    "key": "39414",
+    "url": "https://t.me/s/war_monitor?before=39414",
+    "observed_at": "2026-10-12T07:47:25.780558+00:00",
+    "file": "39414_0407.html.gz",
+    "sha256": "61cef4eeacde60e2f0b215d71d89a25b2e94260ef70efda8e1b382bb3653ed58"
+  },
+  {
+    "key": "39394",
+    "url": "https://t.me/s/war_monitor?before=39394",
+    "observed_at": "2026-10-12T07:47:26.316990+00:00",
+    "file": "39394_0408.html.gz",
+    "sha256": "977beea9037fb69ceaa8be72f1460ca46a14daee02e806556962abd0517884b0"
+  },
+  {
+    "key": "39374",
+    "url": "https://t.me/s/war_monitor?before=39374",
+    "observed_at": "2026-10-12T07:47:26.846652+00:00",
+    "file": "39374_0409.html.gz",
+    "sha256": "e6d274a52f14e0ba9cd5442bd0d575a82deb85ca24b004c6f7b4773661eb9a6e"
+  },
+  {
+    "key": "39354",
+    "url": "https://t.me/s/war_monitor?before=39354",
+    "observed_at": "2026-10-12T07:47:27.462665+00:00",
+    "file": "39354_0410.html.gz",
+    "sha256": "9dc387aaf4e4225cb5e1c7462db46ec1f60e48ba8ad3aeafe946ce715e88dcfe"
+  },
+  {
+    "key": "39334",
+    "url": "https://t.me/s/war_monitor?before=39334",
+    "observed_at": "2026-10-12T07:47:28.098935+00:00",
+    "file": "39334_0411.html.gz",
+    "sha256": "c9e8b28ce3a11598affcd8041cd49e4ed6118fd05c632648d142f9e8c8415044"
+  },
+  {
+    "key": "39314",
+    "url": "https://t.me/s/war_monitor?before=39314",
+    "observed_at": "2026-10-12T07:47:28.649582+00:00",
+    "file": "39314_0412.html.gz",
+    "sha256": "d2ce91e0385b578e662b59aa8d0f007ed5243d61f20736f2911677be6f912ca1"
+  },
+  {
+    "key": "39294",
+    "url": "https://t.me/s/war_monitor?before=39294",
+    "observed_at": "2026-10-12T07:47:29.203993+00:00",
+    "file": "39294_0413.html.gz",
+    "sha256": "34d2407021ba2ef3791943e738a063414adbbfd6d1f2fbad218e20525df5b165"
+  },
+  {
+    "key": "39274",
+    "url": "https://t.me/s/war_monitor?before=39274",
+    "observed_at": "2026-10-12T07:47:29.819442+00:00",
+    "file": "39274_0414.html.gz",
+    "sha256": "5e0e87b8f4e0acf5eb554b51713166ea0982e3cbacab5d828d388ca935a6559e"
+  },
+  {
+    "key": "39254",
+    "url": "https://t.me/s/war_monitor?before=39254",
+    "observed_at": "2026-10-12T07:47:30.439924+00:00",
+    "file": "39254_0415.html.gz",
+    "sha256": "8fe7ad7828e0c70177a3ea6b99d8f94d0c579186f0e0504db89ffc30a3a4cc23"
+  },
+  {
+    "key": "39234",
+    "url": "https://t.me/s/war_monitor?before=39234",
+    "observed_at": "2026-10-12T07:47:31.037838+00:00",
+    "file": "39234_0416.html.gz",
+    "sha256": "404351ace99621a22229a04bd54b6e9160dcfc7ea42de91b2db7930f4135038d"
+  },
+  {
+    "key": "39214",
+    "url": "https://t.me/s/war_monitor?before=39214",
+    "observed_at": "2026-10-12T07:47:31.657756+00:00",
+    "file": "39214_0417.html.gz",
+    "sha256": "35570e067b57deecf566eec3a9edb7421486a8edf092669c5b7ec72389612fa5"
+  },
+  {
+    "key": "39194",
+    "url": "https://t.me/s/war_monitor?before=39194",
+    "observed_at": "2026-10-12T07:47:32.323022+00:00",
+    "file": "39194_0418.html.gz",
+    "sha256": "46e5d088562654e489710b9166e05a850ea9a5ecc21d95555d7593a902a00af9"
+  },
+  {
+    "key": "39174",
+    "url": "https://t.me/s/war_monitor?before=39174",
+    "observed_at": "2026-10-12T07:47:32.865910+00:00",
+    "file": "39174_0419.html.gz",
+    "sha256": "d2ab900c9cc1f1f3bf681264bfb9018d7a842fd6b345419f0332230693229529"
+  },
+  {
+    "key": "39154",
+    "url": "https://t.me/s/war_monitor?before=39154",
+    "observed_at": "2026-10-12T07:47:33.512475+00:00",
+    "file": "39154_0420.html.gz",
+    "sha256": "5244c2452ea65a745b12a9807be85a8515ecfc1f67f7d6e9dbd12fc0814c2a7b"
+  },
+  {
+    "key": "39134",
+    "url": "https://t.me/s/war_monitor?before=39134",
+    "observed_at": "2026-10-12T07:47:34.086263+00:00",
+    "file": "39134_0421.html.gz",
+    "sha256": "36b2154897587b61c01617edda3b42a4b8558cd747f9c776f3cfd1ec44f9e917"
+  },
+  {
+    "key": "39114",
+    "url": "https://t.me/s/war_monitor?before=39114",
+    "observed_at": "2026-10-12T07:47:34.661218+00:00",
+    "file": "39114_0422.html.gz",
+    "sha256": "2611b980ce3e89ebbea728ea897d5fc36604e831451f319e3a39b291bd5d390b"
+  },
+  {
+    "key": "39094",
+    "url": "https://t.me/s/war_monitor?before=39094",
+    "observed_at": "2026-10-12T07:47:35.181364+00:00",
+    "file": "39094_0423.html.gz",
+    "sha256": "008f223c8e2bb97937a4d34cb865438cb8c2ed9602806bb89bc1a372e1a1d6ba"
+  },
+  {
+    "key": "39074",
+    "url": "https://t.me/s/war_monitor?before=39074",
+    "observed_at": "2026-10-12T07:47:35.713680+00:00",
+    "file": "39074_0424.html.gz",
+    "sha256": "b52ca6de1aefd3f350821b454a2200f179e7e39357818291a4c85b76c4226221"
+  },
+  {
+    "key": "39054",
+    "url": "https://t.me/s/war_monitor?before=39054",
+    "observed_at": "2026-10-12T07:47:36.243925+00:00",
+    "file": "39054_0425.html.gz",
+    "sha256": "5e2c91e740bf68fef9c771698df0b0e37b054ed1bacdbda331e630e6ca90f355"
+  },
+  {
+    "key": "39034",
+    "url": "https://t.me/s/war_monitor?before=39034",
+    "observed_at": "2026-10-12T07:47:36.788430+00:00",
+    "file": "39034_0426.html.gz",
+    "sha256": "b1463574c03a5a01156284f3e566a144ed0578f49f4becd9568c48c728e0b2cf"
+  },
+  {
+    "key": "39014",
+    "url": "https://t.me/s/war_monitor?before=39014",
+    "observed_at": "2026-10-12T07:47:37.290421+00:00",
+    "file": "39014_0427.html.gz",
+    "sha256": "fb822aa177a83d999fa0c7f798a054a95416336a3c115704385af1c84f9302bd"
+  },
+  {
+    "key": "38994",
+    "url": "https://t.me/s/war_monitor?before=38994",
+    "observed_at": "2026-10-12T07:47:37.792397+00:00",
+    "file": "38994_0428.html.gz",
+    "sha256": "24a90cea5f69b8f54a4f9c331d95fac9124f56c40c72d477f39ac3d65864efd4"
+  },
+  {
+    "key": "38974",
+    "url": "https://t.me/s/war_monitor?before=38974",
+    "observed_at": "2026-10-12T07:47:38.292202+00:00",
+    "file": "38974_0429.html.gz",
+    "sha256": "0d4eebbe01aac20598feff148ac3918cab998761615796561f0aca746c2c9937"
+  },
+  {
+    "key": "38954",
+    "url": "https://t.me/s/war_monitor?before=38954",
+    "observed_at": "2026-10-12T07:47:38.806169+00:00",
+    "file": "38954_0430.html.gz",
+    "sha256": "d775f24698f1a3de8f75cf27249d9c6bcb54d03879690ef025d99f10540ed51c"
+  },
+  {
+    "key": "38934",
+    "url": "https://t.me/s/war_monitor?before=38934",
+    "observed_at": "2026-10-12T07:47:39.342834+00:00",
+    "file": "38934_0431.html.gz",
+    "sha256": "9f2d1817d2d9bb15b73133d2136190ad2f647d70778efd72478bfcc82f565bf6"
+  },
+  {
+    "key": "38914",
+    "url": "https://t.me/s/war_monitor?before=38914",
+    "observed_at": "2026-10-12T07:47:39.844132+00:00",
+    "file": "38914_0432.html.gz",
+    "sha256": "531bf8fc61f1a8296e85304632c538ca0e15ea78763e4f65c0aac6c885684cd7"
+  },
+  {
+    "key": "38894",
+    "url": "https://t.me/s/war_monitor?before=38894",
+    "observed_at": "2026-10-12T07:47:40.357305+00:00",
+    "file": "38894_0433.html.gz",
+    "sha256": "4646f757b38a7f87f24908f7e1f0f9cf25186dd4b63e94e667c19846295c8569"
+  },
+  {
+    "key": "38874",
+    "url": "https://t.me/s/war_monitor?before=38874",
+    "observed_at": "2026-10-12T07:47:40.901697+00:00",
+    "file": "38874_0434.html.gz",
+    "sha256": "476c82e71c40877c5c213b61d51875fb729735e2ec1cf52d955c69e7cb114147"
+  },
+  {
+    "key": "38854",
+    "url": "https://t.me/s/war_monitor?before=38854",
+    "observed_at": "2026-10-12T07:47:41.444916+00:00",
+    "file": "38854_0435.html.gz",
+    "sha256": "7e3eefc05820f2ad819cabe8530ce98c99337b99269932a70352b745ed34ca07"
+  },
+  {
+    "key": "38834",
+    "url": "https://t.me/s/war_monitor?before=38834",
+    "observed_at": "2026-10-12T07:47:41.991819+00:00",
+    "file": "38834_0436.html.gz",
+    "sha256": "aeec6a062ddb4c9ee1d5c7d4a33321c4ed5bd8989c35910a3ced9b59b1beaef3"
+  },
+  {
+    "key": "38814",
+    "url": "https://t.me/s/war_monitor?before=38814",
+    "observed_at": "2026-10-12T07:47:42.556007+00:00",
+    "file": "38814_0437.html.gz",
+    "sha256": "423e5a143f40d5fc3cc67da63e24d04e6aade83aa86527481d732f506986ada2"
+  },
+  {
+    "key": "38794",
+    "url": "https://t.me/s/war_monitor?before=38794",
+    "observed_at": "2026-10-12T07:47:43.076174+00:00",
+    "file": "38794_0438.html.gz",
+    "sha256": "64eab046cd70c9c31ea8a8dab22528456bdf36883e6317e63425b0cf0860f127"
+  },
+  {
+    "key": "38774",
+    "url": "https://t.me/s/war_monitor?before=38774",
+    "observed_at": "2026-10-12T07:47:43.618760+00:00",
+    "file": "38774_0439.html.gz",
+    "sha256": "1591769146ab7542ddec4227d7c92eaa21755cb51638c410dcfaea6832f349bd"
+  },
+  {
+    "key": "38754",
+    "url": "https://t.me/s/war_monitor?before=38754",
+    "observed_at": "2026-10-12T07:47:44.337983+00:00",
+    "file": "38754_0440.html.gz",
+    "sha256": "c1add36aec12561f63d51632064a5aa858dc8964ae498c38209b9585e517bf2f"
+  },
+  {
+    "key": "38734",
+    "url": "https://t.me/s/war_monitor?before=38734",
+    "observed_at": "2026-10-12T07:47:44.907624+00:00",
+    "file": "38734_0441.html.gz",
+    "sha256": "7ee6e41ec214236a9eea534889e991b6448ff9287c5a2b12bc6d77fed6f2ddcd"
+  },
+  {
+    "key": "38713",
+    "url": "https://t.me/s/war_monitor?before=38713",
+    "observed_at": "2026-10-12T07:47:45.626183+00:00",
+    "file": "38713_0442.html.gz",
+    "sha256": "870876c5f3b8ecf7e0af5d0edab2b98c2d928b129fb2ee5b4d3e1b578d269ccb"
+  },
+  {
+    "key": "38693",
+    "url": "https://t.me/s/war_monitor?before=38693",
+    "observed_at": "2026-10-12T07:47:46.146331+00:00",
+    "file": "38693_0443.html.gz",
+    "sha256": "6483b7a02c835ef3fd2e75f693078576b572303a7ccc527c558553854c58afe8"
+  },
+  {
+    "key": "38673",
+    "url": "https://t.me/s/war_monitor?before=38673",
+    "observed_at": "2026-10-12T07:47:46.719479+00:00",
+    "file": "38673_0444.html.gz",
+    "sha256": "2a9454391ae9c3497a3103f8b71104966178a54ebd51cc18a7bcfe6425cd3284"
+  },
+  {
+    "key": "38653",
+    "url": "https://t.me/s/war_monitor?before=38653",
+    "observed_at": "2026-10-12T07:47:47.225665+00:00",
+    "file": "38653_0445.html.gz",
+    "sha256": "a027a5f66381dec89d303f19248c63532e6173de713cf6b59318725ab6b3e0b3"
+  },
+  {
+    "key": "38633",
+    "url": "https://t.me/s/war_monitor?before=38633",
+    "observed_at": "2026-10-12T07:47:47.720479+00:00",
+    "file": "38633_0446.html.gz",
+    "sha256": "5516219f8cda3277c02c9d2bf0b1b01b9a4f6364d2ca93d406db935836073c55"
+  },
+  {
+    "key": "38613",
+    "url": "https://t.me/s/war_monitor?before=38613",
+    "observed_at": "2026-10-12T07:47:48.294116+00:00",
+    "file": "38613_0447.html.gz",
+    "sha256": "ea9d75aa3fa33d8e631a4cd2f45406e807e5d985140882e1d39e28896a85147e"
+  },
+  {
+    "key": "38593",
+    "url": "https://t.me/s/war_monitor?before=38593",
+    "observed_at": "2026-10-12T07:47:48.862124+00:00",
+    "file": "38593_0448.html.gz",
+    "sha256": "0ebb27afc1ba129103c5066830367889f132b0fa5f621ef6f505f905cb30c967"
+  },
+  {
+    "key": "38573",
+    "url": "https://t.me/s/war_monitor?before=38573",
+    "observed_at": "2026-10-12T07:47:49.373771+00:00",
+    "file": "38573_0449.html.gz",
+    "sha256": "c3479b04382cdee8fce8e0b92668c988a5ec19acac3a6c45acdee50763025cd9"
+  },
+  {
+    "key": "38553",
+    "url": "https://t.me/s/war_monitor?before=38553",
+    "observed_at": "2026-10-12T07:47:50.061505+00:00",
+    "file": "38553_0450.html.gz",
+    "sha256": "353d493605843d17e06624574c6671a15cd3e02fa2d2bf5b03d2cc4048cbb417"
+  },
+  {
+    "key": "38533",
+    "url": "https://t.me/s/war_monitor?before=38533",
+    "observed_at": "2026-10-12T07:47:50.773294+00:00",
+    "file": "38533_0451.html.gz",
+    "sha256": "58467080b6f542f5bb86c865ebccbf41f7fb720af075735cbe94633263567adc"
+  },
+  {
+    "key": "38513",
+    "url": "https://t.me/s/war_monitor?before=38513",
+    "observed_at": "2026-10-12T07:47:51.352636+00:00",
+    "file": "38513_0452.html.gz",
+    "sha256": "4384bd06b4d7a918b21b7344057f77a0189e8165bede494931b453ea35b642ad"
+  },
+  {
+    "key": "38493",
+    "url": "https://t.me/s/war_monitor?before=38493",
+    "observed_at": "2026-10-12T07:47:51.983903+00:00",
+    "file": "38493_0453.html.gz",
+    "sha256": "459a79b9d74783beda2003019804ebd0b20ed3a7110d3730f702e4b4fecc1fd9"
+  },
+  {
+    "key": "38473",
+    "url": "https://t.me/s/war_monitor?before=38473",
+    "observed_at": "2026-10-12T07:47:52.717064+00:00",
+    "file": "38473_0454.html.gz",
+    "sha256": "2de04d2f96010c195d4aa0ac941352605fd712fce590b0f4154a08215dfd5e1d"
+  },
+  {
+    "key": "38453",
+    "url": "https://t.me/s/war_monitor?before=38453",
+    "observed_at": "2026-10-12T07:47:53.289414+00:00",
+    "file": "38453_0455.html.gz",
+    "sha256": "58b39b55ba2923eb66ab15f007cc46d6c6afb3c60f45d466d41129c841a60d3d"
+  },
+  {
+    "key": "38433",
+    "url": "https://t.me/s/war_monitor?before=38433",
+    "observed_at": "2026-10-12T07:47:53.816338+00:00",
+    "file": "38433_0456.html.gz",
+    "sha256": "16c78e9978b758473183d4d7b98e2b9fafb5b3abbce956dd6401c6c80366e631"
+  },
+  {
+    "key": "38411",
+    "url": "https://t.me/s/war_monitor?before=38411",
+    "observed_at": "2026-10-12T07:47:54.349107+00:00",
+    "file": "38411_0457.html.gz",
+    "sha256": "c713c86db92a07a82f1e32f8c26d9674f9879afce0ff03aa4f79095eadbeb436"
+  },
+  {
+    "key": "38391",
+    "url": "https://t.me/s/war_monitor?before=38391",
+    "observed_at": "2026-10-12T07:47:54.881240+00:00",
+    "file": "38391_0458.html.gz",
+    "sha256": "3bb6be84361e09c3f181971f3925e26056961ac1ae6af110e9f80f645583a369"
+  },
+  {
+    "key": "38371",
+    "url": "https://t.me/s/war_monitor?before=38371",
+    "observed_at": "2026-10-12T07:47:55.397906+00:00",
+    "file": "38371_0459.html.gz",
+    "sha256": "c47148c7a8d2adb1b9e4a2630f1be13e86a18e4304ccb6557aea7ab74585adb7"
+  },
+  {
+    "key": "38351",
+    "url": "https://t.me/s/war_monitor?before=38351",
+    "observed_at": "2026-10-12T07:47:55.919969+00:00",
+    "file": "38351_0460.html.gz",
+    "sha256": "28ddbc90a81c30b0d9ca409d6917951ab70e59537cfb14cae165a4ddc2995870"
+  },
+  {
+    "key": "38331",
+    "url": "https://t.me/s/war_monitor?before=38331",
+    "observed_at": "2026-10-12T07:47:56.428735+00:00",
+    "file": "38331_0461.html.gz",
+    "sha256": "b104c116a19c42ae9ed927fb389815fb89242374fa08ab1a52fb859543003af1"
+  },
+  {
+    "key": "38311",
+    "url": "https://t.me/s/war_monitor?before=38311",
+    "observed_at": "2026-10-12T07:47:56.946912+00:00",
+    "file": "38311_0462.html.gz",
+    "sha256": "27ecdd738f6c50d57423771177ef8e1473ea73d6753ee86464d70e74c76e6ca0"
+  },
+  {
+    "key": "38291",
+    "url": "https://t.me/s/war_monitor?before=38291",
+    "observed_at": "2026-10-12T07:47:57.490002+00:00",
+    "file": "38291_0463.html.gz",
+    "sha256": "57ae1d33ed55f03685f88955a9397134690e92124ae08c124d5d72c7669dcec2"
+  },
+  {
+    "key": "38271",
+    "url": "https://t.me/s/war_monitor?before=38271",
+    "observed_at": "2026-10-12T07:47:58.000822+00:00",
+    "file": "38271_0464.html.gz",
+    "sha256": "229c298fe928a14a088167cbd3abad59115f83eafbe4c089fccca9bd43779930"
+  },
+  {
+    "key": "38251",
+    "url": "https://t.me/s/war_monitor?before=38251",
+    "observed_at": "2026-10-12T07:47:58.515063+00:00",
+    "file": "38251_0465.html.gz",
+    "sha256": "69784f1b7f073c6f0be8300003c65217696d5802eb4a224bc7efb350e96a9944"
+  },
+  {
+    "key": "38231",
+    "url": "https://t.me/s/war_monitor?before=38231",
+    "observed_at": "2026-10-12T07:47:59.060839+00:00",
+    "file": "38231_0466.html.gz",
+    "sha256": "464f67ebe01008f57df6f29f2020d4d71f220f19daf87510ab75de7752c3bc41"
+  },
+  {
+    "key": "38211",
+    "url": "https://t.me/s/war_monitor?before=38211",
+    "observed_at": "2026-10-12T07:47:59.584713+00:00",
+    "file": "38211_0467.html.gz",
+    "sha256": "afff1f0cae1a09eecaca0a47b6eed86bd6f78aac39eca646b7cf8831484038b4"
+  },
+  {
+    "key": "38191",
+    "url": "https://t.me/s/war_monitor?before=38191",
+    "observed_at": "2026-10-12T07:48:00.103425+00:00",
+    "file": "38191_0468.html.gz",
+    "sha256": "43c245dea63d4f5301d1b1d3d0acb3434b97481d36bc116a15a899b10a59c1d7"
+  },
+  {
+    "key": "38171",
+    "url": "https://t.me/s/war_monitor?before=38171",
+    "observed_at": "2026-10-12T07:48:00.633429+00:00",
+    "file": "38171_0469.html.gz",
+    "sha256": "8460f9636db20c3c618dc44a87e5bee8b414d80607776ee00db2adf879d0bd3b"
+  },
+  {
+    "key": "38151",
+    "url": "https://t.me/s/war_monitor?before=38151",
+    "observed_at": "2026-10-12T07:48:01.158144+00:00",
+    "file": "38151_0470.html.gz",
+    "sha256": "484351287168e642f410c20b67afc621aa78c281d9ea72117b7957c72a8dd6b2"
+  },
+  {
+    "key": "38131",
+    "url": "https://t.me/s/war_monitor?before=38131",
+    "observed_at": "2026-10-12T07:48:01.708418+00:00",
+    "file": "38131_0471.html.gz",
+    "sha256": "fbc53a0b12674bd1ac52495b9fdc35c7f4defedc2a3b4d57a76b5f933bde8a92"
+  },
+  {
+    "key": "38111",
+    "url": "https://t.me/s/war_monitor?before=38111",
+    "observed_at": "2026-10-12T07:48:02.211205+00:00",
+    "file": "38111_0472.html.gz",
+    "sha256": "173c2c3d57a4167fd39b492a6a3d7c9aab06912ee0ea120e024306f25bb98464"
+  },
+  {
+    "key": "38091",
+    "url": "https://t.me/s/war_monitor?before=38091",
+    "observed_at": "2026-10-12T07:48:02.782804+00:00",
+    "file": "38091_0473.html.gz",
+    "sha256": "758737634df22eaf8eb7df70403c7d97831a04f25dc9bb0d0b0a2dd60f98e5f5"
+  },
+  {
+    "key": "38071",
+    "url": "https://t.me/s/war_monitor?before=38071",
+    "observed_at": "2026-10-12T07:48:03.360812+00:00",
+    "file": "38071_0474.html.gz",
+    "sha256": "ed02815840fabb39390dc558cddfaffb09a56f9570810b20cdbe9af9ce7959fe"
+  },
+  {
+    "key": "38051",
+    "url": "https://t.me/s/war_monitor?before=38051",
+    "observed_at": "2026-10-12T07:48:04.160519+00:00",
+    "file": "38051_0475.html.gz",
+    "sha256": "2c7292f4dec8ef0db7db8d365eb66614ecb3f0382e4567c166cad1d463e9ac8a"
+  },
+  {
+    "key": "38031",
+    "url": "https://t.me/s/war_monitor?before=38031",
+    "observed_at": "2026-10-12T07:48:04.777243+00:00",
+    "file": "38031_0476.html.gz",
+    "sha256": "996f93061f06df48a46643bc0b7d2373493bce1d24561964e9717a19d3c30e53"
+  },
+  {
+    "key": "38011",
+    "url": "https://t.me/s/war_monitor?before=38011",
+    "observed_at": "2026-10-12T07:48:05.350031+00:00",
+    "file": "38011_0477.html.gz",
+    "sha256": "c4bb07835a430402de76690537aa428227eeec8caab5e2f369c6d98903fce0b6"
+  },
+  {
+    "key": "37991",
+    "url": "https://t.me/s/war_monitor?before=37991",
+    "observed_at": "2026-10-12T07:48:05.871718+00:00",
+    "file": "37991_0478.html.gz",
+    "sha256": "3697d3015dcd02e04a2495d6126fde2770f73a0e69a4712fd48795a0d7919b31"
+  },
+  {
+    "key": "37971",
+    "url": "https://t.me/s/war_monitor?before=37971",
+    "observed_at": "2026-10-12T07:48:06.405797+00:00",
+    "file": "37971_0479.html.gz",
+    "sha256": "b56d5c526ec344f81c36da4772e439bdb2a56763426923d060bc1bff2db720c4"
+  },
+  {
+    "key": "37951",
+    "url": "https://t.me/s/war_monitor?before=37951",
+    "observed_at": "2026-10-12T07:48:06.923747+00:00",
+    "file": "37951_0480.html.gz",
+    "sha256": "9bf517b6f484579c9ac6e81c48933947292f936072a31c264ff57bd055b7e667"
+  },
+  {
+    "key": "37931",
+    "url": "https://t.me/s/war_monitor?before=37931",
+    "observed_at": "2026-10-12T07:48:07.490163+00:00",
+    "file": "37931_0481.html.gz",
+    "sha256": "a1605bacec37615985b74280268ac48977f1da4873a54f0e53f24f782cbd59be"
+  },
+  {
+    "key": "37911",
+    "url": "https://t.me/s/war_monitor?before=37911",
+    "observed_at": "2026-10-12T07:48:08.093923+00:00",
+    "file": "37911_0482.html.gz",
+    "sha256": "c3cb9a0b186f693c01ddc5f038c07377cf45af7223dbd8ccde4b58850aa20321"
+  },
+  {
+    "key": "37891",
+    "url": "https://t.me/s/war_monitor?before=37891",
+    "observed_at": "2026-10-12T07:48:08.736920+00:00",
+    "file": "37891_0483.html.gz",
+    "sha256": "73cd3a0585056e897cc1ece606c5fa61ee5d98edb48562f48cf0e2bb76564671"
+  },
+  {
+    "key": "37871",
+    "url": "https://t.me/s/war_monitor?before=37871",
+    "observed_at": "2026-10-12T07:48:09.277780+00:00",
+    "file": "37871_0484.html.gz",
+    "sha256": "730d5c28c264fac883763b98e87f134b36da70361b6d4180b1bfc0a2a9b4ef83"
+  },
+  {
+    "key": "37851",
+    "url": "https://t.me/s/war_monitor?before=37851",
+    "observed_at": "2026-10-12T07:48:09.927387+00:00",
+    "file": "37851_0485.html.gz",
+    "sha256": "88c12f6ddcf49a1ffb3b10eb3bd08fdf3abad4ae3acc631a076a794ef1a625f9"
+  },
+  {
+    "key": "37831",
+    "url": "https://t.me/s/war_monitor?before=37831",
+    "observed_at": "2026-10-12T07:48:10.548900+00:00",
+    "file": "37831_0486.html.gz",
+    "sha256": "eedb57922796e4f004e313cacf63a6a06e36b025fb405d6fe6d45230e5887bf0"
+  },
+  {
+    "key": "37811",
+    "url": "https://t.me/s/war_monitor?before=37811",
+    "observed_at": "2026-10-12T07:48:11.119555+00:00",
+    "file": "37811_0487.html.gz",
+    "sha256": "30c6784e18d5121ac61c1ff4f12d95e38154d058dd72a0c38a2452199940f37b"
+  },
+  {
+    "key": "37790",
+    "url": "https://t.me/s/war_monitor?before=37790",
+    "observed_at": "2026-10-12T07:48:11.637189+00:00",
+    "file": "37790_0488.html.gz",
+    "sha256": "46dcba650a0cc44f18cfb06f9878173844a7354c8a2f83efbe7f8e6e1a353f8b"
+  },
+  {
+    "key": "37770",
+    "url": "https://t.me/s/war_monitor?before=37770",
+    "observed_at": "2026-10-12T07:48:12.179982+00:00",
+    "file": "37770_0489.html.gz",
+    "sha256": "538810c30327909e1f444bcdd3f2363f6d7dcbb910f7968e56598446d55eaf9f"
+  },
+  {
+    "key": "37750",
+    "url": "https://t.me/s/war_monitor?before=37750",
+    "observed_at": "2026-10-12T07:48:12.699958+00:00",
+    "file": "37750_0490.html.gz",
+    "sha256": "0f9bd423504c590a8c7507e4a7cc32dcb9475a38904bf9caae21c002b25ebce8"
+  },
+  {
+    "key": "37730",
+    "url": "https://t.me/s/war_monitor?before=37730",
+    "observed_at": "2026-10-12T07:48:13.252009+00:00",
+    "file": "37730_0491.html.gz",
+    "sha256": "371eb1990ce0a094e7e885389ff8898230dc71fb4df1226d430ffe3a3c0efe2a"
+  },
+  {
+    "key": "37710",
+    "url": "https://t.me/s/war_monitor?before=37710",
+    "observed_at": "2026-10-12T07:48:13.865123+00:00",
+    "file": "37710_0492.html.gz",
+    "sha256": "adeafd030ac5554ca69f886d5ec63b1032c10bd2ad5bbd84ac51ceac0c6a49ef"
+  },
+  {
+    "key": "37689",
+    "url": "https://t.me/s/war_monitor?before=37689",
+    "observed_at": "2026-10-12T07:48:14.549425+00:00",
+    "file": "37689_0493.html.gz",
+    "sha256": "80d1d2009af493b92ed2a7899680df9805d73fdc5f0d944af8e439708a998dd4"
+  }
+]

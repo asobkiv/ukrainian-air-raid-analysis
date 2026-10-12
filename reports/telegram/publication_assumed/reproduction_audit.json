@@ -1,0 +1,10 @@
+{
+  "offline_replay_passed": true,
+  "forecast_rows_recomputed": 36,
+  "regional_origins": 9,
+  "maximum_prediction_difference": 4.440892098500626e-16,
+  "validation_and_test_boundaries": true,
+  "fallback_case_replayed": true,
+  "source_and_original_baseline_hashes_verified": true,
+  "historical_text_availability_proven": false
+}

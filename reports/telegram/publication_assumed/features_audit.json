@@ -1,0 +1,8 @@
+{
+  "publication_before_feature_origin": true,
+  "strict_observation_time_passed": false,
+  "edited_marker_excluded": true,
+  "historical_version_proof": false,
+  "feature_days": 232,
+  "source": "current public web messages, incomplete/deletion and hidden-edit risks"
+}

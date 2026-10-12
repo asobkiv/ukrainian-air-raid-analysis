@@ -18,14 +18,21 @@
     "forecast_timing.csv"
   ],
   "maximum_numeric_difference": 0.0,
-  "unit_tests_passed": 23,
-  "notebook_executed_code_cells": 9,
-  "verified_at_utc": "2026-10-12T07:06:58.802044+00:00",
-  "local_report_links_checked": 29,
+  "unit_tests_passed": 35,
+  "notebook_executed_code_cells": 10,
+  "verified_at_utc": "2026-10-12T08:00:10.916540+00:00",
+  "local_report_links_checked": 39,
   "html_links_valid": true,
-  "revision_forecasts_and_protocol_unchanged": true,
-  "revision_independent_baselines_audit_passed": true,
-  "revision_calendar_audit_passed": true,
-  "revision_model_fits_reused": true,
-  "revision_reporting_recomputed_in_clean_environment": true
+  "telegram_sample_reproduction": {
+    "offline_replay_passed": true,
+    "forecast_rows_recomputed": 36,
+    "regional_origins": 9,
+    "maximum_prediction_difference": 4.440892098500626e-16,
+    "validation_and_test_boundaries": true,
+    "fallback_case_replayed": true,
+    "source_and_original_baseline_hashes_verified": true,
+    "historical_text_availability_proven": false
+  },
+  "clean_environment_reproduction_scope": "Full frozen baseline; Telegram sample replay of 36 forecasts, not a second full Telegram run",
+  "telegram_availability": "Exploratory publication assumption only; no strict historical scores"
 }

@@ -37,7 +37,7 @@ def daily_forecast(ledger, snapshots, protocol, reports, date, workers=1):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("command", choices=["run", "report", "audit", "prepare", "forecast"])
+    parser.add_argument("command", choices=["run", "report", "audit", "prepare", "forecast", "telegram-capture", "telegram-experiment"])
     parser.add_argument("--data", type=Path, default=ROOT / "data")
     parser.add_argument("--output", type=Path, default=ROOT / "reports")
     parser.add_argument("--config", type=Path, default=ROOT / "config.json")
@@ -45,8 +45,22 @@ def main():
     parser.add_argument("--repo", type=Path, help="Local source Git history for prepare/independent replay audit")
     parser.add_argument("--runs", type=Path, help="GitHub Actions workflow_runs JSON for prepare")
     parser.add_argument("--date", help="Kyiv calendar date YYYY-MM-DD for forecast")
+    parser.add_argument("--since", default="2026-02-19", help="Earliest UTC publication date for Telegram capture")
+    parser.add_argument("--max-pages", type=int, default=1200)
+    parser.add_argument("--text-mode", choices=["observed", "publication_assumed"], default="observed",
+                        help="observed enforces capture time; publication_assumed is explicitly exploratory")
+    parser.add_argument("--experiment-output", type=Path, help="Separate directory for a new Telegram protocol")
     args = parser.parse_args()
     args.output.mkdir(parents=True, exist_ok=True)
+    if args.command == "telegram-capture":
+        from .telegram import capture
+        capture(args.data / "telegram", args.since, args.max_pages)
+        return
+    if args.command == "telegram-experiment":
+        from .telegram_experiment import experiment
+        experiment(args.data, args.output, args.experiment_output or args.output / "telegram" / args.text_mode, args.text_mode,
+                   args.workers if args.workers is not None else 4)
+        return
     if args.command == "prepare":
         if args.repo is None or args.runs is None:
             parser.error("prepare requires --repo and --runs")

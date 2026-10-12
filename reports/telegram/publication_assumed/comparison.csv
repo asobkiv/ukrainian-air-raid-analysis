@@ -1,0 +1,7 @@
+target,comparator,comparator_mae,telegram_mae,relative_mae_improvement,mae_difference_ci_low,mae_difference_ci_high,meets_numeric_5_percent,certified_success,evidence
+count,arima_without_telegram,2.07765934925463,2.130900184888712,-0.025625392176625406,-0.16295628596738898,0.05053977936946472,False,False,publication_assumed_exploratory
+count,mean_7,2.02009596108975,2.130900184888712,-0.05485097041587483,-0.27426538223026636,0.016249212612384618,False,False,publication_assumed_exploratory
+count,original_selected,2.0045177926246467,2.130900184888712,-0.06304877548559173,-0.28071078137054056,0.0013036226826801502,False,False,publication_assumed_exploratory
+hours,arima_without_telegram,1.45911559010089,1.550245219613369,-0.062455387448898225,-0.17707534887287885,-0.005263344473199227,False,False,publication_assumed_exploratory
+hours,mean_7,1.4972883187091264,1.550245219613369,-0.03536853940722584,-0.13256281726367963,0.018302584632390224,False,False,publication_assumed_exploratory
+hours,original_selected,1.453168155324856,1.550245219613369,-0.0668037377042654,-0.1843427724099054,-0.011724547462675755,False,False,publication_assumed_exploratory
