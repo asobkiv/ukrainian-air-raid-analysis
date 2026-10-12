@@ -104,7 +104,7 @@
   "run.py": "91ea12f4c416755d7c69398d16c9d64dfa9db2f8142e64ba2e26218fd24e28b1",
   "scripts/package.py": "332a91f9008a13bb76d977e851dabb750b58465dd8bd87267bfe2794ae287069",
   "scripts/verify_reproduction.py": "39ee610937d33daf8ed79669a1d9c6e45737ec14c8e3d6563b1ae20c50c82aab",
-  "scripts/verify_telegram.py": "986075cda1369630f90e27269bf6215a2a68f7a385994807877c5520f8687659",
+  "scripts/verify_telegram.py": "96ee08d9653f07b1f4435b39fc2b1e1cc06725c3a9bff2f81641a24212d4568a",
   "src/airraid/__init__.py": "b1e5fa62271521470f80c6c239be5f81a8a59e2fdc2b856a7896465b5c11f7a5",
   "src/airraid/audit.py": "fb4239075eae5819aaca07d877beba48e9c25c9e4c28e9ce373d3ba2fb10d318",
   "src/airraid/cli.py": "27048c147df7505613044680d1fa6bcfb74f1535f2a9ca4f7ce14ee5ab80ab25",

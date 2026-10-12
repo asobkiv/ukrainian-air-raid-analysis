@@ -58,7 +58,7 @@ def main():
                      "max_feature_origin": features.loc[future_days[-1], "origin"]})
         for r in text_forecast(task):
             old = saved.loc[(saved.region == r["region"]) & (saved.date == r["date"]) & (saved.target == r["target"])].iloc[0]
-            difference = abs(r["prediction"] - old.prediction)
+            difference = float(abs(r["prediction"] - old.prediction))
             maximum = max(maximum, difference)
             differences.append({"region": r["region"], "date": r["date"], "target": r["target"], "model": "with_text",
                                 "difference": difference, "status_matches": r["status"] == (old.status if pd.notna(old.status) else "")})
@@ -67,14 +67,14 @@ def main():
             point = bounded(raw, r["target"]) * (task["day_hours"] if r["target"] == "hours" else 1)
             old_without = without.loc[(without.region == r["region"]) & (without.date == r["date"]) &
                                       (without.target == r["target"]) & (without.model == family)].iloc[0]
-            difference = abs(point - old_without.prediction)
+            difference = float(abs(point - old_without.prediction))
             maximum = max(maximum, difference)
             differences.append({"region": r["region"], "date": r["date"], "target": r["target"], "model": "without_text",
                                 "difference": difference, "status_matches": status == (old_without.status if pd.notna(old_without.status) else "")})
             checked += 2
     independent_feature_audit(data / "telegram/message_versions.csv.gz", output / "daily_features.csv", output)
     independent_metric_audit(output)
-    passed = maximum < args.atol and all(r["status_matches"] for r in differences)
+    passed = bool(maximum < args.atol and all(r["status_matches"] for r in differences))
     evidence = {"offline_replay_passed": passed, "forecast_rows_recomputed": checked,
                 "regional_origins": len(tasks), "maximum_prediction_difference": maximum,
                 "absolute_tolerance": args.atol, "all_statuses_match": all(r["status_matches"] for r in differences),
