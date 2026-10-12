@@ -28,6 +28,8 @@
     "forecast_rows_recomputed": 36,
     "regional_origins": 9,
     "maximum_prediction_difference": 4.440892098500626e-16,
+    "absolute_tolerance": 1e-09,
+    "all_statuses_match": true,
     "validation_and_test_boundaries": true,
     "fallback_case_replayed": true,
     "source_and_original_baseline_hashes_verified": true,

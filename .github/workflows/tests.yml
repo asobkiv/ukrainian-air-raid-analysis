@@ -11,4 +11,4 @@ jobs:
       - run: python -m pip install -r requirements.lock.txt
       - run: python -m pytest -q
       - run: python run.py audit
-      - run: python scripts/verify_telegram.py
+      - run: python scripts/verify_telegram.py --atol 0.0001

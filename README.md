@@ -164,6 +164,8 @@ python -m pytest -q
 
 Результати: [порівняння та інтервали](reports/telegram/publication_assumed/comparison.csv), [метрики за регіонами](reports/telegram/publication_assumed/metrics_by_region.csv), [валідація](reports/telegram/publication_assumed/validation_metrics.csv), [окремий звіт](reports/telegram/publication_assumed/experiment.md), [строгий аудит доступності](reports/telegram/observed/availability_audit.json). Інтервали отримано круговим блочним bootstrap по 7 календарних днів із переміщенням усіх регіонів разом, 2000 повторів; 28 тестових днів дають обмежену точність. Незалежний перерахунок: `python scripts/verify_telegram.py` (MAE/RMSE та 36 повторених прогнозів на межах валідації/тесту й випадок резервного прогнозу).
 
+Локальний повтор прогнозів перевіряється з абсолютним допуском `1e-9`; Linux CI порівнює з результатом macOS ARM із явно заданим допуском `1e-4` у початках/годинах (0,36 секунди для годин). Статуси збіжності/резервного прогнозу мають збігатися. Незалежний перерахунок збережених MAE/RMSE залишається з допуском `1e-10`; прогнозні результати не переписуються під CI.
+
 Збір публічних сторінок (мережа потрібна лише тут):
 
 ```bash
