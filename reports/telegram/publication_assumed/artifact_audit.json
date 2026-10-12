@@ -1,0 +1,17 @@
+{
+  "frozen_artifacts_passed": true,
+  "numerical_refitting_performed": false,
+  "independent_metrics": {
+    "independent_csv_math": true,
+    "regional_metric_rows": 184,
+    "same_dates_and_labels": true,
+    "paired_region_days_per_target": 643,
+    "mae_and_rmse_checked": true,
+    "physical_bounds_passed": true,
+    "maximum_mae_difference": 2.220446049250313e-16,
+    "strict_no_leakage_certified": false,
+    "reason": "Current web archive cannot prove historical versions"
+  },
+  "cross_platform_refitting_passed": false,
+  "promotion_blocked": true
+}

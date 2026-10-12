@@ -21,6 +21,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--atol", type=float, default=1e-9,
                         help="Absolute forecast tolerance; CI allows 1e-4 across macOS ARM / Linux x86")
+    parser.add_argument("--audit-only", action="store_true", help="Verify frozen artifacts; do not assert numerical refit portability")
     args = parser.parse_args()
     if not 0 < args.atol <= 1e-4:
         parser.error("Tolerance must be positive and no larger than 1e-4")
@@ -35,6 +36,15 @@ def main():
     assert hashlib.sha256((output / "protocol.json").read_bytes()).hexdigest() == (output / "protocol.sha256").read_text().strip()
     for name, expected in telegram_protocol["original_experiment_hashes"].items():
         assert hashlib.sha256((reports / name).read_bytes()).hexdigest() == expected
+    if args.audit_only:
+        independent_feature_audit(data / "telegram/message_versions.csv.gz", output / "daily_features.csv", output)
+        metrics = independent_metric_audit(output)
+        evidence = {"frozen_artifacts_passed": True, "numerical_refitting_performed": False,
+                    "independent_metrics": metrics, "cross_platform_refitting_passed": False,
+                    "promotion_blocked": True}
+        (output / "artifact_audit.json").write_text(json.dumps(evidence, indent=2))
+        print(json.dumps(evidence, indent=2))
+        return
     ledger = load_ledger(data / "event_ledger.csv.gz")
     snapshots = json.loads((data / "snapshots.json").read_text())
     families = pd.read_csv(output / "family_selection.csv")

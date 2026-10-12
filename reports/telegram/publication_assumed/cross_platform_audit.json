@@ -1,0 +1,307 @@
+{
+  "summary": {
+    "offline_replay_passed": false,
+    "forecast_rows_recomputed": 36,
+    "regional_origins": 9,
+    "maximum_prediction_difference": 0.8627495889625396,
+    "absolute_tolerance": 0.0001,
+    "all_statuses_match": false,
+    "validation_and_test_boundaries": true,
+    "fallback_case_replayed": true,
+    "source_and_original_baseline_hashes_verified": true,
+    "historical_text_availability_proven": false
+  },
+  "forecasts": [
+    {
+      "region": "Київ",
+      "date": "2026-08-21",
+      "target": "count",
+      "model": "with_text",
+      "difference": 7.168558036063644e-08,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-08-21",
+      "target": "count",
+      "model": "without_text",
+      "difference": 9.90270310197161e-10,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-08-21",
+      "target": "hours",
+      "model": "with_text",
+      "difference": 6.052394141420336e-10,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-08-21",
+      "target": "hours",
+      "model": "without_text",
+      "difference": 5.021243421055033e-10,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-08-21",
+      "target": "count",
+      "model": "with_text",
+      "difference": 2.142105515190451e-08,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-08-21",
+      "target": "count",
+      "model": "without_text",
+      "difference": 1.5786021378971782e-09,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-08-21",
+      "target": "hours",
+      "model": "with_text",
+      "difference": 0.00041247800559052195,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-08-21",
+      "target": "hours",
+      "model": "without_text",
+      "difference": 1.1958789514210366e-09,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-09-10",
+      "target": "count",
+      "model": "with_text",
+      "difference": 3.8462477647271953e-10,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-09-10",
+      "target": "count",
+      "model": "without_text",
+      "difference": 1.652461634193969e-08,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-09-10",
+      "target": "hours",
+      "model": "with_text",
+      "difference": 2.6093651683822827e-09,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-09-10",
+      "target": "hours",
+      "model": "without_text",
+      "difference": 1.9097790016076033e-10,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-09-10",
+      "target": "count",
+      "model": "with_text",
+      "difference": 1.0425921104229019e-07,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-09-10",
+      "target": "count",
+      "model": "without_text",
+      "difference": 1.6413419956506914e-08,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-09-10",
+      "target": "hours",
+      "model": "with_text",
+      "difference": 1.1246316677926416e-07,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-09-10",
+      "target": "hours",
+      "model": "without_text",
+      "difference": 5.00460910934919e-07,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-09-13",
+      "target": "count",
+      "model": "with_text",
+      "difference": 2.5447355334051736e-09,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-09-13",
+      "target": "count",
+      "model": "without_text",
+      "difference": 1.1268768140837437e-08,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-09-13",
+      "target": "hours",
+      "model": "with_text",
+      "difference": 0.8627495889625396,
+      "status_matches": false
+    },
+    {
+      "region": "Київ",
+      "date": "2026-09-13",
+      "target": "hours",
+      "model": "without_text",
+      "difference": 3.934609082989482e-09,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-09-13",
+      "target": "count",
+      "model": "with_text",
+      "difference": 1.088936745219371e-06,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-09-13",
+      "target": "count",
+      "model": "without_text",
+      "difference": 2.017188478475873e-07,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-09-13",
+      "target": "hours",
+      "model": "with_text",
+      "difference": 0.0004077674953375521,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-09-13",
+      "target": "hours",
+      "model": "without_text",
+      "difference": 2.4038061319231474e-08,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-10-10",
+      "target": "count",
+      "model": "with_text",
+      "difference": 2.5015705062969573e-09,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-10-10",
+      "target": "count",
+      "model": "without_text",
+      "difference": 3.0499238690140373e-09,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-10-10",
+      "target": "hours",
+      "model": "with_text",
+      "difference": 3.6744784992492896e-10,
+      "status_matches": true
+    },
+    {
+      "region": "Київ",
+      "date": "2026-10-10",
+      "target": "hours",
+      "model": "without_text",
+      "difference": 4.645625217847282e-09,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-10-10",
+      "target": "count",
+      "model": "with_text",
+      "difference": 1.8242722887862328e-08,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-10-10",
+      "target": "count",
+      "model": "without_text",
+      "difference": 1.1581864356458027e-08,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-10-10",
+      "target": "hours",
+      "model": "with_text",
+      "difference": 9.360225483590057e-09,
+      "status_matches": true
+    },
+    {
+      "region": "Харківська область",
+      "date": "2026-10-10",
+      "target": "hours",
+      "model": "without_text",
+      "difference": 2.7472561114905147e-08,
+      "status_matches": true
+    },
+    {
+      "region": "Вінницька область",
+      "date": "2026-08-21",
+      "target": "count",
+      "model": "with_text",
+      "difference": 9.061161820866914e-10,
+      "status_matches": true
+    },
+    {
+      "region": "Вінницька область",
+      "date": "2026-08-21",
+      "target": "count",
+      "model": "without_text",
+      "difference": 4.205921166899884e-10,
+      "status_matches": true
+    },
+    {
+      "region": "Вінницька область",
+      "date": "2026-08-21",
+      "target": "hours",
+      "model": "with_text",
+      "difference": 6.591949208711867e-17,
+      "status_matches": true
+    },
+    {
+      "region": "Вінницька область",
+      "date": "2026-08-21",
+      "target": "hours",
+      "model": "without_text",
+      "difference": 2.360334150353083e-12,
+      "status_matches": true
+    }
+  ],
+  "run": "https://github.com/asobkiv/ukrainian-air-raid-analysis/actions/runs/38222028370",
+  "promotion_blocked": true,
+  "interpretation": "Cross-platform refitting failed; frozen artifact metrics remain reproducible. Do not widen tolerance or promote this experimental model."
+}

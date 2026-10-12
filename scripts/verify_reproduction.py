@@ -74,6 +74,10 @@ def main():
         evidence["telegram_sample_reproduction"] = json.loads((telegram / "reproduction_audit.json").read_text())
         evidence["clean_environment_reproduction_scope"] = "Full frozen baseline; Telegram sample replay of 36 forecasts, not a second full Telegram run"
         evidence["telegram_availability"] = "Exploratory publication assumption only; no strict historical scores"
+        cross = json.loads((telegram / "cross_platform_audit.json").read_text())
+        evidence["telegram_cross_platform_refit"] = cross["summary"]
+        evidence["telegram_ready_for_use"] = False
+        evidence["pipeline_stage_audits_scope"] = "Frozen baseline and Telegram artifact audits pass; Telegram cross-platform refitting FAILED"
     (args.original / "verification.json").write_text(json.dumps(evidence, indent=2))
     print(json.dumps(evidence, indent=2))
 

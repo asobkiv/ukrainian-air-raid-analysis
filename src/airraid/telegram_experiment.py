@@ -337,6 +337,16 @@ def report_section(data, reports):
         return None
     source = json.loads((data / "telegram" / "source_audit.json").read_text())
     model_audit = json.loads((output / "model_audit.json").read_text())
+    cross_path = output / "cross_platform_audit.json"
+    cross = json.loads(cross_path.read_text()) if cross_path.exists() else None
+    portability = ("**Міжплатформне повторне навчання не пройшло аудит.** У Linux-повторі 36 прогнозів "
+                   f"максимальна різниця {cross['summary']['maximum_prediction_difference']:.4f} години; "
+                   "для Києва 13.09 змінився статус оптимізатора й спрацював резервний mean_7. "
+                   "Три повтори перевищили допуск 1e-4. Це суттєва нестабільність, не похибка округлення. "
+                   "Локальні 36 повторів відтворилися до 5×10⁻¹⁶; збережені ознаки та метрики незалежно перевірені. "
+                   "CI перевіряє тести та заморожені артефакти; це не підтвердження переносимості навчання. "
+                   "Числовий допуск не збільшено. Telegram-модель до використання не допускається. "
+                   "[Повний непройдений аудит](telegram/publication_assumed/cross_platform_audit.json).\n\n") if cross else ""
     comparison = pd.read_csv(output / "comparison.csv")
     table = comparison.copy()
     table["relative_mae_improvement"] *= 100
@@ -374,6 +384,7 @@ def report_section(data, reports):
         f"({model_audit['fallbacks']/model_audit['rows']:.2%}), {model_audit['clipped']} обмежень виходу "
         f"({model_audit['clipped']/model_audit['rows']:.2%}). Усі виходи скінченні; кількість ≥0, години в межах доби. "
         "Резервні прогнози включено до метрик.\n\n"
+        + portability +
         f"За умовного припущення доступності, проти парної ARIMA: {'; '.join(words)}. "
         "Додатна різниця MAE в таблиці означає користь Telegram. Інтервали — circular block bootstrap по 7 календарних "
         "днів, 2000 повторів; усі регіони переміщуються разом. На 28 днях це лише груба оцінка невизначеності, "
