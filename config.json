@@ -1,0 +1,14 @@
+{
+  "timezone": "Europe/Kyiv",
+  "train_days": 180,
+  "minimum_train_days": 60,
+  "validation_days": 21,
+  "test_days": 28,
+  "coverage_lookback_days": 30,
+  "coverage_min_event_days": 2,
+  "snapshot_max_age_hours": 48,
+  "success_relative_mae_reduction": 0.05,
+  "models": ["last", "weekly_naive", "mean_7", "arima", "sarima_7", "ses", "ets_7"],
+  "workers": 4,
+  "seed": 42
+}

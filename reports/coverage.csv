@@ -1,0 +1,26 @@
+region,eligible,recent_event_days,last_recorded_start,reason,assessed_at
+Івано-Франківська область,True,2,2026-09-01T18:37:00+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Волинська область,True,28,2026-09-11T09:34:18+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Вінницька область,True,18,2026-09-12T02:21:00+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Дніпропетровська область,True,30,2026-09-12T03:00:46+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Донецька область,True,29,2026-09-11T16:25:10+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Житомирська область,True,22,2026-09-12T02:28:10+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Закарпатська область,False,0,2026-07-30T01:26:50+00:00,insufficient_recent_source_activity,2026-09-13T00:00:00+03:00
+Запорізька область,True,30,2026-09-12T00:21:34+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Київ,True,25,2026-09-11T20:53:24+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Київська область,True,29,2026-09-12T02:34:40+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Кіровоградська область,True,30,2026-09-11T22:18:52+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Луганська область,False,0,2022-04-04T16:46:15+00:00,insufficient_recent_source_activity,2026-09-13T00:00:00+03:00
+Львівська область,True,28,2026-09-12T02:21:10+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Миколаївська область,True,30,2026-09-12T02:18:24+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Одеська область,True,30,2026-09-12T00:55:29+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Полтавська область,True,30,2026-09-12T00:59:40+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Рівненська область,True,15,2026-09-11T20:31:40+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Сумська область,True,30,2026-09-12T01:05:24+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Тернопільська область,True,6,2026-09-03T03:32:53+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Харківська область,True,30,2026-09-12T01:28:52+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Херсонська область,True,30,2026-09-11T23:06:10+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Хмельницька область,True,13,2026-09-11T13:49:30+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Черкаська область,True,27,2026-09-11T05:38:10+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Чернівецька область,True,10,2026-09-12T02:22:30+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00
+Чернігівська область,True,29,2026-09-11T20:51:10+00:00,recent_source_activity_proxy,2026-09-13T00:00:00+03:00

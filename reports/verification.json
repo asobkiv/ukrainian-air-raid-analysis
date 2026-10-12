@@ -1,0 +1,25 @@
+{
+  "pipeline_stage_audits_passed": true,
+  "clean_environment_reproduction": true,
+  "python": "3.12.14",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "comparison_files": [
+    "predictions_unlabelled.csv",
+    "model_selection.csv",
+    "validation_metrics.csv",
+    "test_metrics_selected.csv",
+    "test_macro_metrics.csv",
+    "weekday_differences.csv",
+    "acf.csv"
+  ],
+  "maximum_numeric_difference": 0.0,
+  "unit_tests_passed": 19,
+  "notebook_executed_code_cells": 9,
+  "verified_at_utc": "2026-10-11T21:41:44.023039+00:00",
+  "local_report_links_checked": 21,
+  "html_links_valid": true,
+  "post_audit_ses_forecasts_checked": 2246,
+  "post_audit_ses_maximum_difference": 3.552713678800501e-15,
+  "installed_entrypoint_audit_passed": true,
+  "latest_source_commit_confirmed": true
+}

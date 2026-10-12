@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/Vadimkin/ukrainian-air-raid-sirens-dataset",
+  "snapshot_count": 100,
+  "latest": "bf0c323c78e3e4508721458797dcd38c95df13f3",
+  "latest_available_at": "2026-10-11T04:50:19Z",
+  "latest_rows": 115989,
+  "ledger_versions": 115989,
+  "earliest_replay_at": "2026-07-04T03:28:41Z",
+  "publication_policy": "successful GitHub Actions run completion after commit-and-push; exact parent head SHA match except shallow root",
+  "note": "Base rows are conservatively available only at the earliest bundled snapshot; earlier forecasts are unsupported."
+}

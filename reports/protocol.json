@@ -1,0 +1,257 @@
+{
+  "test_start": "2026-09-13",
+  "test_end": "2026-10-10",
+  "selection_at": "2026-09-13T00:00:00+03:00",
+  "validation_start": "2026-08-21",
+  "validation_end": "2026-09-10",
+  "selection_snapshot": "5c0b2e82dc39171c496726864897a0ae0b012000",
+  "regions": [
+    "Івано-Франківська область",
+    "Волинська область",
+    "Вінницька область",
+    "Дніпропетровська область",
+    "Донецька область",
+    "Житомирська область",
+    "Запорізька область",
+    "Київ",
+    "Київська область",
+    "Кіровоградська область",
+    "Львівська область",
+    "Миколаївська область",
+    "Одеська область",
+    "Полтавська область",
+    "Рівненська область",
+    "Сумська область",
+    "Тернопільська область",
+    "Харківська область",
+    "Херсонська область",
+    "Хмельницька область",
+    "Черкаська область",
+    "Чернівецька область",
+    "Чернігівська область"
+  ],
+  "coverage": [
+    {
+      "region": "Івано-Франківська область",
+      "eligible": true,
+      "recent_event_days": 2,
+      "last_recorded_start": "2026-09-01T18:37:00+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Волинська область",
+      "eligible": true,
+      "recent_event_days": 28,
+      "last_recorded_start": "2026-09-11T09:34:18+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Вінницька область",
+      "eligible": true,
+      "recent_event_days": 18,
+      "last_recorded_start": "2026-09-12T02:21:00+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Дніпропетровська область",
+      "eligible": true,
+      "recent_event_days": 30,
+      "last_recorded_start": "2026-09-12T03:00:46+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Донецька область",
+      "eligible": true,
+      "recent_event_days": 29,
+      "last_recorded_start": "2026-09-11T16:25:10+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Житомирська область",
+      "eligible": true,
+      "recent_event_days": 22,
+      "last_recorded_start": "2026-09-12T02:28:10+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Закарпатська область",
+      "eligible": false,
+      "recent_event_days": 0,
+      "last_recorded_start": "2026-07-30T01:26:50+00:00",
+      "reason": "insufficient_recent_source_activity",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Запорізька область",
+      "eligible": true,
+      "recent_event_days": 30,
+      "last_recorded_start": "2026-09-12T00:21:34+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Київ",
+      "eligible": true,
+      "recent_event_days": 25,
+      "last_recorded_start": "2026-09-11T20:53:24+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Київська область",
+      "eligible": true,
+      "recent_event_days": 29,
+      "last_recorded_start": "2026-09-12T02:34:40+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Кіровоградська область",
+      "eligible": true,
+      "recent_event_days": 30,
+      "last_recorded_start": "2026-09-11T22:18:52+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Луганська область",
+      "eligible": false,
+      "recent_event_days": 0,
+      "last_recorded_start": "2022-04-04T16:46:15+00:00",
+      "reason": "insufficient_recent_source_activity",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Львівська область",
+      "eligible": true,
+      "recent_event_days": 28,
+      "last_recorded_start": "2026-09-12T02:21:10+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Миколаївська область",
+      "eligible": true,
+      "recent_event_days": 30,
+      "last_recorded_start": "2026-09-12T02:18:24+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Одеська область",
+      "eligible": true,
+      "recent_event_days": 30,
+      "last_recorded_start": "2026-09-12T00:55:29+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Полтавська область",
+      "eligible": true,
+      "recent_event_days": 30,
+      "last_recorded_start": "2026-09-12T00:59:40+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Рівненська область",
+      "eligible": true,
+      "recent_event_days": 15,
+      "last_recorded_start": "2026-09-11T20:31:40+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Сумська область",
+      "eligible": true,
+      "recent_event_days": 30,
+      "last_recorded_start": "2026-09-12T01:05:24+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Тернопільська область",
+      "eligible": true,
+      "recent_event_days": 6,
+      "last_recorded_start": "2026-09-03T03:32:53+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Харківська область",
+      "eligible": true,
+      "recent_event_days": 30,
+      "last_recorded_start": "2026-09-12T01:28:52+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Херсонська область",
+      "eligible": true,
+      "recent_event_days": 30,
+      "last_recorded_start": "2026-09-11T23:06:10+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Хмельницька область",
+      "eligible": true,
+      "recent_event_days": 13,
+      "last_recorded_start": "2026-09-11T13:49:30+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Черкаська область",
+      "eligible": true,
+      "recent_event_days": 27,
+      "last_recorded_start": "2026-09-11T05:38:10+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Чернівецька область",
+      "eligible": true,
+      "recent_event_days": 10,
+      "last_recorded_start": "2026-09-12T02:22:30+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    },
+    {
+      "region": "Чернігівська область",
+      "eligible": true,
+      "recent_event_days": 29,
+      "last_recorded_start": "2026-09-11T20:51:10+00:00",
+      "reason": "recent_source_activity_proxy",
+      "assessed_at": "2026-09-13T00:00:00+03:00"
+    }
+  ],
+  "config": {
+    "timezone": "Europe/Kyiv",
+    "train_days": 180,
+    "minimum_train_days": 60,
+    "validation_days": 21,
+    "test_days": 28,
+    "coverage_lookback_days": 30,
+    "coverage_min_event_days": 2,
+    "snapshot_max_age_hours": 48,
+    "success_relative_mae_reduction": 0.05,
+    "models": [
+      "last",
+      "weekly_naive",
+      "mean_7",
+      "arima",
+      "sarima_7",
+      "ses",
+      "ets_7"
+    ],
+    "workers": 4,
+    "seed": 42
+  }
+}

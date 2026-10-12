@@ -1,0 +1,15 @@
+{
+  "forecast_rows": 15722,
+  "all_finite": true,
+  "nonnegative": true,
+  "hours_bounded": true,
+  "all_snapshots_before_origin": true,
+  "max_steps": 6,
+  "min_steps": 2,
+  "fallback_forecasts": 24,
+  "clipped_forecasts": 73,
+  "test_labels_excluded": 1,
+  "validation_labels_excluded": 4,
+  "selection_label_snapshot": "5c0b2e82dc39171c496726864897a0ae0b012000",
+  "selection_label_available_at": "2026-09-12T03:48:54Z"
+}

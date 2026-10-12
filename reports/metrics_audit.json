@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "regional_metric_rows": 92,
+  "paired_cases": true,
+  "macro_metric_rows": 4,
+  "method": "independent stdlib CSV arithmetic; regional and macro MAE/RMSE; paired dates"
+}

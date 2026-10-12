@@ -1,0 +1,16 @@
+[
+  {
+    "target": "count",
+    "baseline_mae": 2.207318676262775,
+    "selected_mae": 2.0045177926246467,
+    "relative_improvement": 0.09187657668963856,
+    "criterion_met": true
+  },
+  {
+    "target": "hours",
+    "baseline_mae": 1.467118399023592,
+    "selected_mae": 1.453168155324856,
+    "relative_improvement": 0.009508601151768215,
+    "criterion_met": false
+  }
+]

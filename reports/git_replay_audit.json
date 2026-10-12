@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "snapshots": [
+    {
+      "sha": "6d0cea9f7cab438d9faa85e6eddbfc59b4726efd",
+      "rows": 102938,
+      "passed": true
+    },
+    {
+      "sha": "847f9686752d172f2c8538bb011f0f1a9841aef3",
+      "rows": 108592,
+      "passed": true
+    },
+    {
+      "sha": "bf0c323c78e3e4508721458797dcd38c95df13f3",
+      "rows": 115989,
+      "passed": true
+    }
+  ]
+}

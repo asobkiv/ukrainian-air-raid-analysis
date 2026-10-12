@@ -1,0 +1,13 @@
+{
+  "analysis_origin": "2026-08-21T00:00:00+03:00",
+  "source_available_at": "2026-08-20T01:23:46Z",
+  "snapshot_sha": "7f7a546078524cc7feb937a6e80bdf283e74e15d",
+  "start": "2026-02-21",
+  "end": "2026-08-19",
+  "only_pre_validation_data": true,
+  "training_rows": 4140,
+  "censored_rows": 0,
+  "weekday_mapping_checked": true,
+  "table_mean_reconciled": true,
+  "stl_used": false
+}

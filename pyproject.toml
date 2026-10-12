@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ukraine-alert-timeseries"
+version = "0.1.0"
+description = "Point-in-time daily forecasts of recorded Ukrainian air-raid alerts"
+requires-python = ">=3.11"
+dependencies = ["pandas>=2.2", "numpy>=2", "scipy>=1.13", "statsmodels>=0.15", "matplotlib>=3.8"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "nbformat>=5", "nbclient>=0.10", "ipykernel>=6"]
+
+[project.scripts]
+air-raid = "airraid.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
