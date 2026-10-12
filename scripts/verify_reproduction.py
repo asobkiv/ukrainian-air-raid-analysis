@@ -27,7 +27,9 @@ def main():
     args = parser.parse_args()
     root = Path(__file__).resolve().parents[1]
     files = ["predictions_unlabelled.csv", "model_selection.csv", "validation_metrics.csv",
-             "test_metrics_selected.csv", "test_macro_metrics.csv", "weekday_differences.csv", "acf.csv"]
+             "test_metrics_selected.csv", "test_macro_metrics.csv", "weekday_differences.csv", "acf.csv",
+             "baseline_comparison.csv", "baseline_comparison_by_region.csv", "test_macro_all_models.csv",
+             "baseline_selection_summary.csv", "forecast_timing.csv"]
     maximum = 0.0
     for name in files:
         original, repeated = pd.read_csv(args.original / name), pd.read_csv(args.repeated / name)

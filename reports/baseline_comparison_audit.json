@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "paired_forecast_cases": 1286,
+  "fixed_baselines_checked": [
+    "last",
+    "weekly_naive",
+    "mean_7"
+  ],
+  "macro_mae_checked_rows": 6,
+  "method": "independent stdlib CSV paired-date checks and regional/macro absolute errors"
+}

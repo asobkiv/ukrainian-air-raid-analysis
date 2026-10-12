@@ -1,0 +1,26 @@
+[
+  {
+    "target":"count",
+    "model":"mean_7",
+    "baseline_mae":2.0200959611,
+    "selected_mae":2.0045177926,
+    "baseline_rmse":2.5836458958,
+    "selected_rmse":2.5911881511,
+    "regions":23,
+    "forecast_days":643,
+    "relative_mae_improvement":0.0077115982,
+    "meets_5_percent":false
+  },
+  {
+    "target":"hours",
+    "model":"mean_7",
+    "baseline_mae":1.4972883187,
+    "selected_mae":1.4531681553,
+    "baseline_rmse":2.0280859671,
+    "selected_rmse":2.0079700157,
+    "regions":23,
+    "forecast_days":643,
+    "relative_mae_improvement":0.0294667118,
+    "meets_5_percent":false
+  }
+]

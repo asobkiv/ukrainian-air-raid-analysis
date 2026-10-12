@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "original_forecasts_selection_protocol_data_unchanged": true,
+  "checked": [
+    {
+      "file": "data/event_ledger.csv.gz",
+      "sha256": "ea48c6514b8a2152a0848588a83b7e3414d825d369352d1badb11df8cdc6d922"
+    },
+    {
+      "file": "data/snapshots.json",
+      "sha256": "5ad00b6825a23a82cb6d8e40d5c608755f8507a1ea21cc6c4e523afacbedb60c"
+    },
+    {
+      "file": "reports/protocol.json",
+      "sha256": "59661e35560d223c64c6905eda0d2fa33de0653051308f3ea6f7f37a72e303c0"
+    },
+    {
+      "file": "reports/model_selection.csv",
+      "sha256": "290964dd14ab1963035df67552fa2faffc8ed1f344db2ba0c17ff0510df30874"
+    },
+    {
+      "file": "reports/predictions_unlabelled.csv",
+      "sha256": "456cb2cc59534b5eb15bdc8cec23d1526e01a59c8569dc99e7eb42e78c2cc8eb"
+    },
+    {
+      "file": "reports/test_predictions.csv",
+      "sha256": "b2f180688544ae5135de71c269de4ea0380efa75663f27ca4931dcf06d18e1e6"
+    },
+    {
+      "file": "reports/test_macro_metrics.csv",
+      "sha256": "d8a32d4870178f1206220dc44bd36af53a576b9c53bc4eb804ed40f0a00f3571"
+    },
+    {
+      "file": "reports/success_criteria.json",
+      "sha256": "730e4952c0c07bad46bfeccc0672b7139549d1032f3fa74f61bc4264239e5de1"
+    }
+  ],
+  "base_commit": "6fb423d3a70a9c392dcf6832918e74bd5ddb6b6e",
+  "report_revision": "Explicit mean_7 comparison and last-observation-relative calendar explanation; no forecast changes"
+}

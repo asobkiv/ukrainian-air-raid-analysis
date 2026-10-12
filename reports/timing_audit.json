@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "regional_origins": 1123,
+  "target_start_equals_origin": true,
+  "steps_equal_calendar_distance_from_train_end": true,
+  "minimum_steps": 2,
+  "maximum_steps": 6,
+  "october_1_example": [
+    {
+      "region": "Київ",
+      "date": "2026-10-01",
+      "origin": "2026-10-01T00:00:00+03:00",
+      "train_end": "2026-09-29",
+      "steps": 2,
+      "snapshot_sha": "b992109c57abedc00dd697f7f869d30b9415f51d",
+      "snapshot_available_at": "2026-09-30T04:44:09Z",
+      "target_start": "2026-10-01T00:00:00+03:00",
+      "target_end": "2026-10-02T00:00:00+03:00",
+      "intermediate_unobserved_days": 1
+    }
+  ]
+}

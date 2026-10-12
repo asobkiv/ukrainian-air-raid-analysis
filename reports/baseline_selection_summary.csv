@@ -1,0 +1,6 @@
+target,model,regions
+count,last,8
+count,mean_7,15
+hours,last,3
+hours,mean_7,18
+hours,weekly_naive,2

@@ -10,16 +10,22 @@
     "test_metrics_selected.csv",
     "test_macro_metrics.csv",
     "weekday_differences.csv",
-    "acf.csv"
+    "acf.csv",
+    "baseline_comparison.csv",
+    "baseline_comparison_by_region.csv",
+    "test_macro_all_models.csv",
+    "baseline_selection_summary.csv",
+    "forecast_timing.csv"
   ],
   "maximum_numeric_difference": 0.0,
-  "unit_tests_passed": 19,
+  "unit_tests_passed": 23,
   "notebook_executed_code_cells": 9,
-  "verified_at_utc": "2026-10-11T21:41:44.023039+00:00",
-  "local_report_links_checked": 21,
+  "verified_at_utc": "2026-10-12T07:06:58.802044+00:00",
+  "local_report_links_checked": 29,
   "html_links_valid": true,
-  "post_audit_ses_forecasts_checked": 2246,
-  "post_audit_ses_maximum_difference": 3.552713678800501e-15,
-  "installed_entrypoint_audit_passed": true,
-  "latest_source_commit_confirmed": true
+  "revision_forecasts_and_protocol_unchanged": true,
+  "revision_independent_baselines_audit_passed": true,
+  "revision_calendar_audit_passed": true,
+  "revision_model_fits_reused": true,
+  "revision_reporting_recomputed_in_clean_environment": true
 }

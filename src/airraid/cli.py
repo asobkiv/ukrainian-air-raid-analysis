@@ -104,6 +104,9 @@ def main():
             git_replay_check(args.repo, args.data, args.output)
         from .reporting import independent_metrics_check
         print(independent_metrics_check(args.output))
+        from .comparison import baseline_comparison
+        comparisons, _ = baseline_comparison(args.output)
+        print(comparisons.query("model == 'mean_7'").to_string(index=False))
 
 
 if __name__ == "__main__":
